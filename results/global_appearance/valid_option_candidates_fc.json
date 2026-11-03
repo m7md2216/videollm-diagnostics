@@ -1,0 +1,2700 @@
+{
+ "friends": [
+  {
+   "qid": "54258",
+   "x": "ross",
+   "y": "phoebe",
+   "gender": "cross",
+   "target_qid": "54260",
+   "y_gold": [
+    "Black cardigan over a white top, long blonde hair down.",
+    "Gray and black striped sweater, hair tied up.",
+    "White fluffy robe, hair tied up."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "54173",
+   "x": "phoebe",
+   "y": "rachel",
+   "gender": "same",
+   "target_qid": "54174",
+   "y_gold": [
+    "Striped dress with a red cardigan",
+    "Black long-sleeve top",
+    "Black long-sleeve top with a brown leather jacket"
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "54593",
+   "x": "rachel",
+   "y": "monica",
+   "gender": "same",
+   "target_qid": "54591",
+   "y_gold": [
+    "White button-up shirt with front pockets, white undershirt, and blue jeans.",
+    "Red sleeveless top with a sheer shawl or wrap."
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54658",
+   "x": "joey",
+   "y": "monica",
+   "gender": "cross",
+   "target_qid": "54654",
+   "y_gold": [
+    "White fitted top with three-quarter sleeves.",
+    "Bright orange three-quarter sleeve top."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54839",
+   "x": "rachel",
+   "y": "monica",
+   "gender": "same",
+   "target_qid": "54844",
+   "y_gold": [
+    "Light blue long-sleeve top with dark pants and dark hair.",
+    "Light blue zippered sweater with black trim over a black top and dark pants.",
+    "Sleeveless gray dress with dark hair.",
+    "Violet and navy patterned long-sleeve blouse with dark pants.",
+    "Dark brown turtleneck and dark pants.",
+    "Red sleeveless floral dress with an updo hairstyle.",
+    "Striped sleeveless top with dark hair.",
+    "Light pink floral maternity dress with dark hair.",
+    "Red top with a dark denim jacket."
+   ],
+   "x_n_outfits": 6,
+   "y_n_outfits": 9
+  },
+  {
+   "qid": "54348",
+   "x": "rachel",
+   "y": "chandler",
+   "gender": "cross",
+   "target_qid": "54347",
+   "y_gold": [
+    "Gray long-sleeve shirt",
+    "Black coat with scarf",
+    "Gray long-sleeve shirt with white 'I ❤️ NY' T-shirt over it and Statue of Liberty crown",
+    "Red shirt",
+    "Blue long-sleeve polo shirt"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "54400",
+   "x": "phoebe",
+   "y": "ross",
+   "gender": "cross",
+   "target_qid": "54396",
+   "y_gold": [
+    "Rust-colored collared sweater",
+    "Rust-colored sweater with a dark brown leather jacket",
+    "Dark brown suit with a blue dress shirt and patterned tie",
+    "Dark gray suit with a white shirt and dark tie"
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54259",
+   "x": "rachel",
+   "y": "phoebe",
+   "gender": "same",
+   "target_qid": "54260",
+   "y_gold": [
+    "Black cardigan over a white top, long blonde hair down.",
+    "Gray and black striped sweater, hair tied up.",
+    "White fluffy robe, hair tied up."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "55093",
+   "x": "rachel",
+   "y": "ross",
+   "gender": "cross",
+   "target_qid": "55092",
+   "y_gold": [
+    "Black leather jacket over a collared shirt and tie",
+    "Black V-neck sweater over a white T-shirt",
+    "White T-shirt",
+    "Brown plaid shirt",
+    "Red and white bathrobe"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "54738",
+   "x": "joey",
+   "y": "ross",
+   "gender": "same",
+   "target_qid": "54735",
+   "y_gold": [
+    "Gray hoodie with a dark t-shirt underneath",
+    "Black suit with a white shirt and purple tie",
+    "Dark suit with a light blue shirt and dark striped tie",
+    "Light pink shirt with a matching pink tie",
+    "Dark coat over a dark shirt",
+    "Blue sweater",
+    "Brown jacket over a dark shirt"
+   ],
+   "x_n_outfits": 8,
+   "y_n_outfits": 7
+  },
+  {
+   "qid": "55016",
+   "x": "phoebe",
+   "y": "rachel",
+   "gender": "same",
+   "target_qid": "55017",
+   "y_gold": [
+    "White sleeveless top",
+    "Red plaid long-sleeve shirt with black bottoms",
+    "White short-sleeve collared shirt with black pants",
+    "Light blue overalls over a black top",
+    "Black jacket over a light blue top",
+    "Purple short-sleeve top with black skirt"
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 6
+  },
+  {
+   "qid": "54547",
+   "x": "rachel",
+   "y": "monica",
+   "gender": "same",
+   "target_qid": "54546",
+   "y_gold": [
+    "Light blue chef's jacket with a white chef's hat.",
+    "Pink shirt under a brown jacket.",
+    "Red sweater with a keyhole neckline.",
+    "Brown leather jacket with a blue turtleneck sweater beneath."
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54325",
+   "x": "phoebe",
+   "y": "rachel",
+   "gender": "same",
+   "target_qid": "54326",
+   "y_gold": [
+    "Blue V-neck long-sleeve top with black necklace",
+    "White off-shoulder cable knit sweater",
+    "Gray sweatshirt with 'Deux' and '65' print",
+    "White T-shirt with design and light blue jeans"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54515",
+   "x": "ross",
+   "y": "phoebe",
+   "gender": "cross",
+   "target_qid": "54514",
+   "y_gold": [
+    "Light blue button-up shirt",
+    "Light green oversized sweater"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54975",
+   "x": "phoebe",
+   "y": "chandler",
+   "gender": "cross",
+   "target_qid": "54973",
+   "y_gold": [
+    "Black suit jacket with a blue shirt and a red patterned tie",
+    "Black jacket with a dark shirt",
+    "Dark shirt",
+    "Red plaid shirt",
+    "White and black color-blocked shirt with blue jeans"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "54682",
+   "x": "chandler",
+   "y": "joey",
+   "gender": "same",
+   "target_qid": "54684",
+   "y_gold": [
+    "Blue and black sweater with a pattern on the chest, paired with light blue jeans.",
+    "Grey button-up shirt with light blue jeans.",
+    "Silver and black jacket with a red cap and black pants."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "54948",
+   "x": "phoebe",
+   "y": "rachel",
+   "gender": "same",
+   "target_qid": "54946",
+   "y_gold": [
+    "Light blue short-sleeve top, hoop earrings, maternity look",
+    "Black V-neck top, red skirt, necklace with a pendant"
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54143",
+   "x": "geller",
+   "y": "joey",
+   "gender": "same",
+   "target_qid": "54146",
+   "y_gold": [
+    "Brown striped sweater with v-neckline.",
+    "Black shirt with light brown jacket.",
+    "Dark brown sweater with square design."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "54277",
+   "x": "joey",
+   "y": "chandler",
+   "gender": "same",
+   "target_qid": "54278",
+   "y_gold": [
+    "Black shirt with colorful vertical stripes on the right side.",
+    "Black coat with red and white patterns over a black shirt and blue jeans.",
+    "Brown dress shirt with a light blue tie.",
+    "Gray suit with a white shirt and a red tie with designs.",
+    "Black shirt with a wide open collar, possibly with a thin gold necklace, holding a blue band.",
+    "Light brown suit with a white shirt and an intricately patterned tie.",
+    "Green jacket over a colorful shirt with a tie.",
+    "Black and white striped sweater."
+   ],
+   "x_n_outfits": 7,
+   "y_n_outfits": 8
+  },
+  {
+   "qid": "54451",
+   "x": "geller",
+   "y": "joey",
+   "gender": "same",
+   "target_qid": "54453",
+   "y_gold": [
+    "Brown zip-up sweater over a white shirt, paired with blue jeans."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 1
+  },
+  {
+   "qid": "54802",
+   "x": "chandler",
+   "y": "phoebe",
+   "gender": "cross",
+   "target_qid": "54800",
+   "y_gold": [
+    "Dark jacket with large red polka dots",
+    "Brown patterned long-sleeve top",
+    "Red patterned long-sleeve top with blue necklace",
+    "Floral long-sleeve top"
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54797",
+   "x": "joey",
+   "y": "chandler",
+   "gender": "same",
+   "target_qid": "54802",
+   "y_gold": [
+    "Light gray t-shirt with 'jimbo's surfboards' text and shaving cream on face",
+    "Green collared shirt",
+    "Black jacket with a dark shirt underneath and black pants",
+    "Dark shirt with blue jeans",
+    "Gray jacket with a red shirt underneath and a red cap"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "54017",
+   "x": "joey",
+   "y": "chandler",
+   "gender": "same",
+   "target_qid": "54019",
+   "y_gold": [
+    "Brown suit with a patterned tie and light blue shirt",
+    "Dark gray sweater"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54530",
+   "x": "chandler",
+   "y": "joey",
+   "gender": "same",
+   "target_qid": "54533",
+   "y_gold": [
+    "Blue short-sleeve button-up shirt and light blue jeans",
+    "White short-sleeve button-up shirt and light blue jeans"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "55087",
+   "x": "geller",
+   "y": "joey",
+   "gender": "same",
+   "target_qid": "55083",
+   "y_gold": [
+    "Burgundy button-up shirt with a white undershirt.",
+    "Gray long-sleeve sweatshirt with light-colored pants.",
+    "Plaid shirt with a leather jacket and white undershirt.",
+    "Brown button-up shirt with a white undershirt."
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54242",
+   "x": "chandler",
+   "y": "rachel",
+   "gender": "cross",
+   "target_qid": "54241",
+   "y_gold": [
+    "Sleeveless denim top and dark skirt with black shoes.",
+    "Light mint green short-sleeve top with colorful floral-patterned skirt.",
+    "Light blue short-sleeve top with a floral skirt.",
+    "Dark jacket over blue denim overalls.",
+    "Blue denim overalls."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "54920",
+   "x": "phoebe",
+   "y": "joey",
+   "gender": "cross",
+   "target_qid": "54921",
+   "y_gold": [
+    "Dark shirt with rolled-up sleeves, blue jeans.",
+    "White doctor's coat, dark shirt underneath."
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54743",
+   "x": "ross",
+   "y": "phoebe",
+   "gender": "cross",
+   "target_qid": "54739",
+   "y_gold": [
+    "Green top with yellow floral accents, patterned skirt, and white tights.",
+    "Blue long-sleeve top with purple printed headband and red pants.",
+    "Light blue top with embellishments and dark pants.",
+    "White cardigan with colorful embroidery and red skirt."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54525",
+   "x": "rachel",
+   "y": "joey",
+   "gender": "cross",
+   "target_qid": "54524",
+   "y_gold": [
+    "Red polo shirt with white trim on collar and sleeves, blue jeans",
+    "Layered outfit with multiple shirts, jacket, tie, and shorts over pants"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54769",
+   "x": "ross",
+   "y": "joey",
+   "gender": "same",
+   "target_qid": "54771",
+   "y_gold": [
+    "Colorful patterned short-sleeve shirt",
+    "Dark gray short-sleeve shirt",
+    "White short-sleeve shirt"
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "54749",
+   "x": "geller",
+   "y": "joey",
+   "gender": "same",
+   "target_qid": "54752",
+   "y_gold": [
+    "Purple t-shirt under a dark plaid shirt with blue jeans.",
+    "Purple t-shirt with black track pants featuring white stripes.",
+    "White button-up shirt with dark pants.",
+    "White patterned hospital gown.",
+    "Blue long-sleeve shirt."
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "54210",
+   "x": "chandler",
+   "y": "rachel",
+   "gender": "cross",
+   "target_qid": "54208",
+   "y_gold": [
+    "Black sleeveless top with gray pants and a gray overcoat.",
+    "Black sleeveless top with gray pants."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54467",
+   "x": "geller",
+   "y": "joey",
+   "gender": "same",
+   "target_qid": "54471",
+   "y_gold": [
+    "Dark sweater with light blue jeans",
+    "Dark sweater with leather jacket and light blue jeans",
+    "Brown button-up shirt",
+    "Light plaid shirt with blue jeans",
+    "Blue button-up shirt with dark trousers",
+    "Gray button-up shirt with leather jacket"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 6
+  },
+  {
+   "qid": "54954",
+   "x": "chandler",
+   "y": "rachel",
+   "gender": "cross",
+   "target_qid": "54955",
+   "y_gold": [
+    "Silver spaghetti strap dress",
+    "Light floral patterned dress with spaghetti straps"
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54660",
+   "x": "chandler",
+   "y": "joey",
+   "gender": "same",
+   "target_qid": "54663",
+   "y_gold": [
+    "Gray shirt with dark collar"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 1
+  },
+  {
+   "qid": "54442",
+   "x": "ross",
+   "y": "phoebe",
+   "gender": "cross",
+   "target_qid": "54439",
+   "y_gold": [
+    "Brown patterned coat with black cross-body bag, dark skirt, and orange shoes",
+    "Floral black top",
+    "Black outfit with a high neckline and necklace"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "54118",
+   "x": "ross",
+   "y": "chandler",
+   "gender": "same",
+   "target_qid": "54116",
+   "y_gold": [
+    "Dark gray suit with a light blue shirt and a dark tie.",
+    "Light gray shirt with a dark tie and no jacket.",
+    "Dark cardigan with a white shirt underneath."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "54183",
+   "x": "monica",
+   "y": "rachel",
+   "gender": "same",
+   "target_qid": "54181",
+   "y_gold": [
+    "Shiny white sleeveless top with a black strap across the shoulder.",
+    "White sleeveless top with lace trim and olive green capri pants.",
+    "Gray sleeveless dress.",
+    "Yellow strapless dress with floral embroidery.",
+    "White sleeveless blouse with a collar.",
+    "Brown tank top with a red design and blue jeans."
+   ],
+   "x_n_outfits": 6,
+   "y_n_outfits": 6
+  },
+  {
+   "qid": "54489",
+   "x": "rachel",
+   "y": "chandler",
+   "gender": "cross",
+   "target_qid": "54492",
+   "y_gold": [
+    "Blue shirt with red tie and patterned trousers",
+    "Blue shirt with patterned tie",
+    "White shirt with black vest and patterned tie",
+    "Dark collared shirt with buttons"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54148",
+   "x": "phoebe",
+   "y": "monica",
+   "gender": "same",
+   "target_qid": "54153",
+   "y_gold": [
+    "Light purple short-sleeve top with dark pants",
+    "White top with black cardigan"
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54974",
+   "x": "ross",
+   "y": "phoebe",
+   "gender": "cross",
+   "target_qid": "54975",
+   "y_gold": [
+    "Dark green coat with blue accents",
+    "Multicolored floral patterned top",
+    "Light blue patterned dress",
+    "Black top with decorative elements"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54295",
+   "x": "monica",
+   "y": "joey",
+   "gender": "cross",
+   "target_qid": "54294",
+   "y_gold": [
+    "Blue sweater, black pants",
+    "Black sweater, black pants",
+    "Dark red button-up shirt over a striped shirt"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "54265",
+   "x": "monica",
+   "y": "joey",
+   "gender": "cross",
+   "target_qid": "54264",
+   "y_gold": [
+    "White cable knit sweater over a light-colored shirt",
+    "Dark blue sweater with a visible logo over a light-colored shirt",
+    "Dark blue sweater with a visible logo and a gray overcoat over a light-colored shirt"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "54826",
+   "x": "monica",
+   "y": "chandler",
+   "gender": "cross",
+   "target_qid": "54825",
+   "y_gold": [
+    "Tan suede jacket over a blue and white striped shirt with light jeans.",
+    "Dark brown jacket over a black sweater with light khaki pants.",
+    "Black sweater with light khaki pants."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "54276",
+   "x": "phoebe",
+   "y": "joey",
+   "gender": "cross",
+   "target_qid": "54277",
+   "y_gold": [
+    "Red ribbed sweater with beige pants.",
+    "Red ribbed sweater with a dark leather jacket.",
+    "Dark leather jacket with a black striped shirt and light jeans.",
+    "Light plaid shirt.",
+    "Blue sweater.",
+    "Olive green button-up shirt with a black undershirt and beige pants.",
+    "Olive green button-up shirt with a black undershirt and beige pants under a gray coat with a blue scarf."
+   ],
+   "x_n_outfits": 9,
+   "y_n_outfits": 7
+  },
+  {
+   "qid": "54145",
+   "x": "ross",
+   "y": "phoebe",
+   "gender": "cross",
+   "target_qid": "54144",
+   "y_gold": [
+    "Black top with fur collar and red skirt",
+    "Black jacket with choker necklace and holding a guitar",
+    "Dark top with translucent floral sleeves and long necklace"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "54735",
+   "x": "ross",
+   "y": "rachel",
+   "gender": "cross",
+   "target_qid": "54734",
+   "y_gold": [
+    "White t-shirt with a black leather jacket and beige cargo pants.",
+    "Black and white cow-patterned coat over a dark outfit.",
+    "Animal print jacket with a red inner shirt and a patterned handbag.",
+    "Sleeveless light purple top and pink leopard print pants."
+   ],
+   "x_n_outfits": 7,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54505",
+   "x": "phoebe",
+   "y": "chandler",
+   "gender": "cross",
+   "target_qid": "54502",
+   "y_gold": [
+    "Dark gray pullover with a light gray shirt underneath, cigarette accessory.",
+    "Formal dark suit with a white shirt and tie.",
+    "Gray sweatshirt with 'PROPERTY' text and dark sweatpants.",
+    "White shirt with a brown vest over it."
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "53990",
+   "x": "phoebe",
+   "y": "ross",
+   "gender": "cross",
+   "target_qid": "53991",
+   "y_gold": [
+    "Dark overcoat with a red shirt and patterned tie.",
+    "Black jacket with a gray sweater underneath, paired with dark pants.",
+    "Gray sweater paired with dark pants.",
+    "Dark jacket over a white shirt with blue jeans."
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54007",
+   "x": "ross",
+   "y": "rachel",
+   "gender": "cross",
+   "target_qid": "54008",
+   "y_gold": [
+    "Dark long-sleeve top, brown color",
+    "Dark long-sleeve top with blue jeans",
+    "Dark coat with faux fur collar",
+    "Black top with black long coat"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54321",
+   "x": "ross",
+   "y": "joey",
+   "gender": "same",
+   "target_qid": "54324",
+   "y_gold": [
+    "Brown and black striped sweater",
+    "Dark jacket over white turtleneck",
+    "Grey overcoat with black scarf over dark jacket and white turtleneck",
+    "Red sweater"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54636",
+   "x": "rachel",
+   "y": "ross",
+   "gender": "cross",
+   "target_qid": "54637",
+   "y_gold": [
+    "White ribbed sweater with blue jeans",
+    "White ribbed sweater with brown jacket over it and blue jeans",
+    "Red sweater with beige pants"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "54049",
+   "x": "ross",
+   "y": "chandler",
+   "gender": "same",
+   "target_qid": "54046",
+   "y_gold": [
+    "Brown suit with a patterned tie and light blue shirt.",
+    "Black sweater with white stripes over a white shirt, and light pants.",
+    "Maroon t-shirt and light pants.",
+    "Light blue button-up shirt over a white t-shirt and light pants.",
+    "Black suit with a white shirt and a striped tie.",
+    "Light blue sweater and light pants.",
+    "Dark gray sweater over a white shirt with blue jeans.",
+    "Dark maroon sweater and dark pants.",
+    "Casual gray t-shirt with plaid shorts.",
+    "Gray shirt under a patterned blanket, holding a pillow.",
+    "Plaid shirt and light pants."
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 11
+  },
+  {
+   "qid": "54851",
+   "x": "monica",
+   "y": "rachel",
+   "gender": "same",
+   "target_qid": "54852",
+   "y_gold": [
+    "White short-sleeve top with beige pants",
+    "White dress with black floral patterns and a black cardigan",
+    "White tank top",
+    "Denim jacket over a dark top with earrings and beige skirt"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54098",
+   "x": "rachel",
+   "y": "joey",
+   "gender": "cross",
+   "target_qid": "54099",
+   "y_gold": [
+    "Dark collared pullover with dark pants.",
+    "Maroon shirt with blue jeans.",
+    "Black and brown sweater with dark pants.",
+    "Gray turtleneck sweater with blue jeans."
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54659",
+   "x": "rachel",
+   "y": "monica",
+   "gender": "same",
+   "target_qid": "54654",
+   "y_gold": [
+    "White fitted top with three-quarter sleeves.",
+    "Bright orange three-quarter sleeve top."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54198",
+   "x": "ross",
+   "y": "rachel",
+   "gender": "cross",
+   "target_qid": "54195",
+   "y_gold": [
+    "Gray cardigan over a black top with gray pants",
+    "Black coat over a white shirt with a red scarf",
+    "Black sleeveless top with gray pants"
+   ],
+   "x_n_outfits": 6,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "54291",
+   "x": "chandler",
+   "y": "ross",
+   "gender": "same",
+   "target_qid": "54289",
+   "y_gold": [
+    "Pink open jacket over a striped shirt.",
+    "Light-colored jacket with an orange undershirt.",
+    "Dark plaid shirt.",
+    "White t-shirt with a graphic of a baseball player.",
+    "Green long-sleeve shirt.",
+    "Striped shirt with a tie."
+   ],
+   "x_n_outfits": 6,
+   "y_n_outfits": 6
+  },
+  {
+   "qid": "54447",
+   "x": "rachel",
+   "y": "phoebe",
+   "gender": "same",
+   "target_qid": "54444",
+   "y_gold": [
+    "Mustard yellow coat with a brown patterned scarf",
+    "Purple jacket with dark top",
+    "Light cardigan over a blue patterned top",
+    "Green and white jacket with a red top"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54502",
+   "x": "chandler",
+   "y": "joey",
+   "gender": "same",
+   "target_qid": "54503",
+   "y_gold": [
+    "Olive green button-up shirt with light jeans and a white undershirt",
+    "Purple plaid button-up shirt with rolled-up sleeves over a white undershirt, paired with light jeans",
+    "Dark sweater with colorful dots over a white undershirt, paired with light jeans",
+    "Plain white t-shirt"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54240",
+   "x": "joey",
+   "y": "rachel",
+   "gender": "cross",
+   "target_qid": "54241",
+   "y_gold": [
+    "Sleeveless denim top and dark skirt with black shoes.",
+    "Light mint green short-sleeve top with colorful floral-patterned skirt.",
+    "Light blue short-sleeve top with a floral skirt.",
+    "Dark jacket over blue denim overalls.",
+    "Blue denim overalls."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "54274",
+   "x": "joey",
+   "y": "ross",
+   "gender": "same",
+   "target_qid": "54272",
+   "y_gold": [
+    "Brown jacket and pants with a matching shirt.",
+    "White shirt with a red jacket.",
+    "Blue-green shirt with a dark striped jacket.",
+    "Red shirt with a light blue overshirt."
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54540",
+   "x": "ross",
+   "y": "monica",
+   "gender": "cross",
+   "target_qid": "54541",
+   "y_gold": [
+    "Light blue top with intricate purple patterns",
+    "Dark brown outfit with a zipper",
+    "White long-sleeve top"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "54386",
+   "x": "phoebe",
+   "y": "joey",
+   "gender": "cross",
+   "target_qid": "54387",
+   "y_gold": [
+    "Red plaid shirt, sitting in an indoor setting.",
+    "Brown jacket over a dark shirt with jeans, sitting and interacting in an indoor setting.",
+    "Dark blue sweater with jeans, standing and interacting in an indoor setting.",
+    "Dark blue sweater with food stains, standing in an indoor setting.",
+    "Red shirt, sitting in a dining setting holding a glass."
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "55018",
+   "x": "ross",
+   "y": "monica",
+   "gender": "cross",
+   "target_qid": "55021",
+   "y_gold": [
+    "Black and white dress with a gray cardigan",
+    "Black sleeveless top",
+    "Black short-sleeve shirt with floral skirt",
+    "White sleeveless top"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "53994",
+   "x": "ross",
+   "y": "monica",
+   "gender": "cross",
+   "target_qid": "53996",
+   "y_gold": [
+    "Patterned blouse with brown pants.",
+    "White shirt with black leather jacket.",
+    "White shirt without jacket."
+   ],
+   "x_n_outfits": 6,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "55053",
+   "x": "chandler",
+   "y": "rachel",
+   "gender": "cross",
+   "target_qid": "55048",
+   "y_gold": [
+    "Black long-sleeve top.",
+    "White short-sleeve top.",
+    "Black short-sleeve top with tie.",
+    "Black long-sleeve top with red plaid pants.",
+    "Black V-neck top with patterned skirt."
+   ],
+   "x_n_outfits": 6,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "55005",
+   "x": "rachel",
+   "y": "chandler",
+   "gender": "cross",
+   "target_qid": "55008",
+   "y_gold": [
+    "Black top with black and white striped trim",
+    "White sweatshirt with 'AMERICAN' lettering",
+    "Dark vest over gray shirt with khaki pants",
+    "Brown vest over blue shirt",
+    "Blue shirt with dark jacket"
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "54133",
+   "x": "monica",
+   "y": "rachel",
+   "gender": "same",
+   "target_qid": "54131",
+   "y_gold": [
+    "Brown tank top with red pattern and blue jeans"
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 1
+  },
+  {
+   "qid": "54454",
+   "x": "ross",
+   "y": "phoebe",
+   "gender": "cross",
+   "target_qid": "54455",
+   "y_gold": [
+    "Black double-breasted coat with floral buttons.",
+    "Dark dress with spotted pattern and a necklace."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54129",
+   "x": "ross",
+   "y": "joey",
+   "gender": "same",
+   "target_qid": "54125",
+   "y_gold": [
+    "Blue puffer vest over a light grey shirt",
+    "Grey t-shirt",
+    "Brown plaid shirt",
+    "Black leather coat over a dark turtleneck with blue jeans"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54091",
+   "x": "chandler",
+   "y": "rachel",
+   "gender": "cross",
+   "target_qid": "54088",
+   "y_gold": [
+    "Checkered robe with a V-neck and long sleeves.",
+    "Light green cardigan over a matching top and black skirt.",
+    "Light blue long-sleeve sweater and jeans.",
+    "Brown V-neck top with white undershirt and dark pants."
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54626",
+   "x": "rachel",
+   "y": "ross",
+   "gender": "cross",
+   "target_qid": "54628",
+   "y_gold": [
+    "Brown jacket over a light shirt with a tie, dark trousers",
+    "Light yellow shirt, rolled-up sleeves, dark trousers",
+    "Brown jacket over a gray hoodie, light-colored trousers",
+    "Armadillo costume with textured shell and headpiece"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54461",
+   "x": "chandler",
+   "y": "joey",
+   "gender": "same",
+   "target_qid": "54463",
+   "y_gold": [
+    "Dark gray button-up shirt over a black shirt with light blue jeans.",
+    "Black V-neck sweater over a gray shirt with beige pants.",
+    "Brown turtleneck sweater.",
+    "Light gray sweater with dark pants."
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54976",
+   "x": "chandler",
+   "y": "joey",
+   "gender": "same",
+   "target_qid": "54980",
+   "y_gold": [
+    "Light blue striped button-up shirt",
+    "Red floral short-sleeve button-up shirt",
+    "Black suit with white shirt",
+    "Black short-sleeve shirt with blue jeans"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54554",
+   "x": "chandler",
+   "y": "monica",
+   "gender": "cross",
+   "target_qid": "54553",
+   "y_gold": [
+    "Dark shiny jacket over a brown top",
+    "Brown top",
+    "Brown top with dark blue coat lined with white fur and orange pants"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "54483",
+   "x": "joey",
+   "y": "rachel",
+   "gender": "cross",
+   "target_qid": "54482",
+   "y_gold": [
+    "Dark long-sleeved top.",
+    "Dark jacket with colorful details and button.",
+    "V-neck beige knit sweater.",
+    "Short-sleeved pink top."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54146",
+   "x": "joey",
+   "y": "ross",
+   "gender": "same",
+   "target_qid": "54145",
+   "y_gold": [
+    "Brown suit jacket over a dark shirt.",
+    "Dark jacket over a black shirt and beige pants.",
+    "Dark shirt, without pants, revealing undergarments.",
+    "Dark shirt with dark thick coat, without pants, revealing undergarments."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54384",
+   "x": "ross",
+   "y": "chandler",
+   "gender": "same",
+   "target_qid": "54389",
+   "y_gold": [
+    "Black jacket over a dark gray sweater with a white undershirt.",
+    "Dark red sweater with a light gray undershirt."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "55062",
+   "x": "joey",
+   "y": "ross",
+   "gender": "same",
+   "target_qid": "55063",
+   "y_gold": [
+    "Black sweater with a white shirt underneath",
+    "Dark jacket over a plaid shirt",
+    "Black leather jacket over a brown shirt",
+    "Dark suit with a blue shirt and gray tie",
+    "No top, wrapped in a blanket"
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "54299",
+   "x": "joey",
+   "y": "phoebe",
+   "gender": "cross",
+   "target_qid": "54300",
+   "y_gold": [
+    "Black long-sleeve top with colorful floral overalls.",
+    "Blue denim shirt tied at the waist with a patterned skirt.",
+    "Light green patterned dress.",
+    "Dark long-sleeve top with a vest."
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54357",
+   "x": "joey",
+   "y": "rachel",
+   "gender": "cross",
+   "target_qid": "54355",
+   "y_gold": [
+    "Black top with a black pendant necklace",
+    "Black suit with a white shirt",
+    "Light denim jacket with a fur collar, white shirt, dark jeans, and tan boots",
+    "Black turtleneck sweater with a gray skirt and black knee-high boots"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54569",
+   "x": "monica",
+   "y": "rachel",
+   "gender": "same",
+   "target_qid": "54567",
+   "y_gold": [
+    "Gray long-sleeve top",
+    "White long-sleeve shirt with a red vest",
+    "Black sweater over a white shirt with braided hair"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "54095",
+   "x": "phoebe",
+   "y": "joey",
+   "gender": "cross",
+   "target_qid": "54096",
+   "y_gold": [
+    "Red sweater with white stripes on the sleeves and collar, paired with dark pants and sneakers",
+    "Blue knit sweater",
+    "Dark button-up shirt and dark pants",
+    "Black shirt with jeans",
+    "Red scarf under a brown zip-up sweater"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "54365",
+   "x": "phoebe",
+   "y": "ross",
+   "gender": "cross",
+   "target_qid": "54366",
+   "y_gold": [
+    "Brown sweater over blue collared shirt.",
+    "Dark jacket over brown shirt."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54914",
+   "x": "joey",
+   "y": "chandler",
+   "gender": "same",
+   "target_qid": "54913",
+   "y_gold": [
+    "Blue shirt over a white t-shirt with beige pants.",
+    "Dark zip-up sweater over a white t-shirt with beige pants."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54393",
+   "x": "ross",
+   "y": "rachel",
+   "gender": "cross",
+   "target_qid": "54394",
+   "y_gold": [
+    "Black short-sleeve top with patterned skirt",
+    "Sleeveless black top with a decorative cross pattern on the chest",
+    "Black sleeveless dress worn over a white t-shirt",
+    "Brown spaghetti strap top with sequin embellishments and dark jeans"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54772",
+   "x": "chandler",
+   "y": "monica",
+   "gender": "cross",
+   "target_qid": "54768",
+   "y_gold": [
+    "Light blue sweatshirt with emblem and patterned shorts",
+    "Pink T-shirt",
+    "White blouse with buttons and jeans"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "54046",
+   "x": "chandler",
+   "y": "ross",
+   "gender": "same",
+   "target_qid": "54049",
+   "y_gold": [
+    "Dark suit with a collared shirt",
+    "Casual dark-colored shirt and pants",
+    "Black coat with a red and black checkered shirt",
+    "Dark coat over a blue sweater"
+   ],
+   "x_n_outfits": 11,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54300",
+   "x": "phoebe",
+   "y": "joey",
+   "gender": "cross",
+   "target_qid": "54299",
+   "y_gold": [
+    "Dark shirt with a maroon overshirt",
+    "Maroon sweater",
+    "Plaid button-up shirt",
+    "Dark sweater with black pants",
+    "Plaid flannel shirt over dark tee"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "54958",
+   "x": "chandler",
+   "y": "joey",
+   "gender": "same",
+   "target_qid": "54960",
+   "y_gold": [
+    "White coat over a dark striped shirt",
+    "Blue shirt with rolled-up sleeves",
+    "Blue long-sleeve shirt with a '76' print, light jeans"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "54327",
+   "x": "ross",
+   "y": "phoebe",
+   "gender": "cross",
+   "target_qid": "54330",
+   "y_gold": [
+    "Light purple blouse",
+    "Black top with floral skirt"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54363",
+   "x": "monica",
+   "y": "chandler",
+   "gender": "cross",
+   "target_qid": "54364",
+   "y_gold": [
+    "Light grey suit, blue shirt, and striped tie",
+    "Black shirt with a dark t-shirt underneath, blue jeans"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54513",
+   "x": "joey",
+   "y": "rachel",
+   "gender": "cross",
+   "target_qid": "54517",
+   "y_gold": [
+    "White tank top with a blue zip-up hoodie",
+    "Black and white striped sleeveless dress with a necklace",
+    "Floral patterned sleeveless dress"
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "54578",
+   "x": "monica",
+   "y": "phoebe",
+   "gender": "same",
+   "target_qid": "54576",
+   "y_gold": [
+    "Pink long-sleeve top with a pendant necklace.",
+    "Pink long-sleeve top with a pendant necklace and a red overcoat.",
+    "Dark red top with a pattern skirt and a dark coat.",
+    "Dark red top with a pattern skirt without the coat.",
+    "Dark brown dress with a low neckline and a pendant necklace.",
+    "Dark brown dress with red and pink polka dots."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 6
+  },
+  {
+   "qid": "54734",
+   "x": "rachel",
+   "y": "chandler",
+   "gender": "cross",
+   "target_qid": "54737",
+   "y_gold": [
+    "Multi-colored striped turtleneck sweater with dark hair tied back.",
+    "Black jacket over a red shirt with blue jeans and a backward cap.",
+    "Red shirt with gray sleeves and a backward cap.",
+    "Dark blue New York Knicks t-shirt with gray long sleeves and a backward cap.",
+    "Blue t-shirt with a print design under a black jacket with a backward cap.",
+    "White 'Speed Racer' t-shirt with gray long sleeves and a backward cap.",
+    "Black long sleeve top with a backward cap."
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 7
+  },
+  {
+   "qid": "54701",
+   "x": "monica",
+   "y": "chandler",
+   "gender": "cross",
+   "target_qid": "54702",
+   "y_gold": [
+    "Dark blue plaid shirt over a gray undershirt with dark pants",
+    "Light green collared shirt with a white undershirt and jeans"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "55090",
+   "x": "joey",
+   "y": "ross",
+   "gender": "same",
+   "target_qid": "55092",
+   "y_gold": [
+    "Black leather jacket over a collared shirt and tie",
+    "Black V-neck sweater over a white T-shirt",
+    "White T-shirt",
+    "Brown plaid shirt",
+    "Red and white bathrobe"
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "54264",
+   "x": "joey",
+   "y": "monica",
+   "gender": "cross",
+   "target_qid": "54265",
+   "y_gold": [
+    "Gray T-shirt with black pants",
+    "White button-up shirt with blue jeans"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54416",
+   "x": "ross",
+   "y": "joey",
+   "gender": "same",
+   "target_qid": "54415",
+   "y_gold": [
+    "Light blue button-up shirt, dark blue jeans",
+    "Dark gray sweater, dark pants",
+    "Dark green shirt",
+    "Blue sweater, black pants"
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54150",
+   "x": "joey",
+   "y": "ross",
+   "gender": "same",
+   "target_qid": "54149",
+   "y_gold": [
+    "Light blue checkered shirt over a yellow t-shirt with jeans"
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 1
+  },
+  {
+   "qid": "54162",
+   "x": "phoebe",
+   "y": "joey",
+   "gender": "cross",
+   "target_qid": "54161",
+   "y_gold": [
+    "Dark green sweater with white collar lining",
+    "Brown turtleneck with black leather jacket",
+    "Light tan jacket over a dark shirt",
+    "Black sweater with red and white stripes on sleeves"
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54811",
+   "x": "rachel",
+   "y": "monica",
+   "gender": "same",
+   "target_qid": "54813",
+   "y_gold": [
+    "Black top with large pendant necklace",
+    "Gray and black checked robe",
+    "Black spaghetti strap top or night dress",
+    "Multicolored striped top with large green pendant necklace"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54169",
+   "x": "phoebe",
+   "y": "joey",
+   "gender": "cross",
+   "target_qid": "54168",
+   "y_gold": [
+    "Green short-sleeved shirt with plaid brown pants.",
+    "Black turtleneck sweater.",
+    "Navy blue jacket with white stripe accents and light blue jeans.",
+    "Red plaid shirt with blue jeans.",
+    "Black leather jacket over dark clothing.",
+    "Plain black long-sleeved shirt."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 6
+  },
+  {
+   "qid": "54159",
+   "x": "phoebe",
+   "y": "ross",
+   "gender": "cross",
+   "target_qid": "54157",
+   "y_gold": [
+    "Dark blue polo shirt",
+    "Light brown short-sleeve button-up shirt",
+    "Light brown patterned long-sleeve shirt",
+    "Blue long-sleeve sweatshirt",
+    "White long-sleeve sweater",
+    "Dark green shirt"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 6
+  },
+  {
+   "qid": "54018",
+   "x": "phoebe",
+   "y": "rachel",
+   "gender": "same",
+   "target_qid": "54014",
+   "y_gold": [
+    "Light blue blouse with a brown skirt",
+    "Striped short-sleeve top"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54726",
+   "x": "ross",
+   "y": "rachel",
+   "gender": "cross",
+   "target_qid": "54724",
+   "y_gold": [
+    "White top with a dark brown jacket",
+    "White top with a red coat and black bag",
+    "Black sweater with purple bands on the sleeves",
+    "Black coat"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "54250",
+   "x": "rachel",
+   "y": "monica",
+   "gender": "same",
+   "target_qid": "54246",
+   "y_gold": [
+    "Sleeveless red top with white buttons and light blue jeans",
+    "Long-sleeve red button-up shirt with a floral-patterned skirt"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54176",
+   "x": "ross",
+   "y": "chandler",
+   "gender": "same",
+   "target_qid": "54172",
+   "y_gold": [
+    "Light blue short-sleeve button-up shirt over a white t-shirt.",
+    "Light brown and black plaid long-sleeve shirt over a white t-shirt."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54248",
+   "x": "phoebe",
+   "y": "ross",
+   "gender": "cross",
+   "target_qid": "54251",
+   "y_gold": [
+    "Cream long-sleeve henley shirt with brown pants",
+    "Light pink button-up shirt over a blue t-shirt"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54895",
+   "x": "phoebe",
+   "y": "rachel",
+   "gender": "same",
+   "target_qid": "54893",
+   "y_gold": [
+    "Cream blouse with ruffled details and light-colored pants",
+    "Black dress with a deep V-neck and three-quarter sleeves",
+    "Red coat with a black fur collar over a black dress",
+    "White blouse with a collar and dark pants",
+    "Casual blue and white raglan-sleeve shirt with text print"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "54027",
+   "x": "rachel",
+   "y": "joey",
+   "gender": "cross",
+   "target_qid": "54025",
+   "y_gold": [
+    "Red plaid shirt with a red undershirt",
+    "Dark green long-sleeve shirt with light blue jeans"
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54419",
+   "x": "phoebe",
+   "y": "rachel",
+   "gender": "same",
+   "target_qid": "54417",
+   "y_gold": [
+    "White long-sleeve top with blue jeans",
+    "Black turtleneck with brown outerwear and dark jeans"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54594",
+   "x": "joey",
+   "y": "ross",
+   "gender": "same",
+   "target_qid": "54595",
+   "y_gold": [
+    "Beige sweater with blue jeans",
+    "Beige sweater with black jacket and blue jeans"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "54897",
+   "x": "monica",
+   "y": "rachel",
+   "gender": "same",
+   "target_qid": "54893",
+   "y_gold": [
+    "Cream blouse with ruffled details and light-colored pants",
+    "Black dress with a deep V-neck and three-quarter sleeves",
+    "Red coat with a black fur collar over a black dress",
+    "White blouse with a collar and dark pants",
+    "Casual blue and white raglan-sleeve shirt with text print"
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 5
+  }
+ ],
+ "castle": [
+  {
+   "qid": "52488",
+   "x": "ryan",
+   "y": "beckett",
+   "gender": "cross",
+   "target_qid": "52491",
+   "y_gold": [
+    "Gray V-neck top",
+    "Blue coat with a black belt",
+    "Dark denim jacket over a dark turtleneck",
+    "Black jacket with a black top"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "52848",
+   "x": "beckett",
+   "y": "ryan",
+   "gender": "cross",
+   "target_qid": "52845",
+   "y_gold": [
+    "Dark suit with light blue shirt and blue tie.",
+    "White shirt with black police tactical vest and dark pants."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "52592",
+   "x": "castle",
+   "y": "martha",
+   "gender": "cross",
+   "target_qid": "52590",
+   "y_gold": [
+    "White blouse with a light beige cardigan"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 1
+  },
+  {
+   "qid": "52966",
+   "x": "castle",
+   "y": "beckett",
+   "gender": "cross",
+   "target_qid": "52967",
+   "y_gold": [
+    "Black coat with large buttons",
+    "Blue top with police vest",
+    "Blue v-neck top",
+    "Brown leather jacket",
+    "Black shirt"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "52708",
+   "x": "castle",
+   "y": "esposito",
+   "gender": "same",
+   "target_qid": "52709",
+   "y_gold": [
+    "Black leather jacket with a high collar, dark shirt underneath, worn consistently throughout"
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 1
+  },
+  {
+   "qid": "52489",
+   "x": "esposito",
+   "y": "lanie",
+   "gender": "cross",
+   "target_qid": "52486",
+   "y_gold": [
+    "Teal scrub top with a V-neck and a lanyard.",
+    "Red jacket or top with a visible gold necklace.",
+    "Black dress with red floral patterns."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "52743",
+   "x": "esposito",
+   "y": "martha",
+   "gender": "cross",
+   "target_qid": "52747",
+   "y_gold": [
+    "Yellow and black patterned jacket over a dark outfit.",
+    "Multicolored floral dress with a belt and accessories."
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "52710",
+   "x": "lanie",
+   "y": "beckett",
+   "gender": "same",
+   "target_qid": "52707",
+   "y_gold": [
+    "Brown dress with black detailed pattern and round neckline",
+    "Brown buttoned coat, worn over an outfit, possible dress",
+    "White blouse, partially visible below brown coat"
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "52864",
+   "x": "beckett",
+   "y": "esposito",
+   "gender": "cross",
+   "target_qid": "52860",
+   "y_gold": [
+    "Brown leather jacket with two front pockets, light-colored shirt, and patterned tie.",
+    "Dark uniform with 'POLICE' vest, NYPD collar insignia, and plain shirt."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "52844",
+   "x": "castle",
+   "y": "ryan",
+   "gender": "same",
+   "target_qid": "52845",
+   "y_gold": [
+    "Dark suit with light blue shirt and blue tie.",
+    "White shirt with black police tactical vest and dark pants."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "52578",
+   "x": "beckett",
+   "y": "ryan",
+   "gender": "cross",
+   "target_qid": "52576",
+   "y_gold": [
+    "Gray suit with a light-colored shirt and a purple striped tie"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 1
+  },
+  {
+   "qid": "53114",
+   "x": "ryan",
+   "y": "esposito",
+   "gender": "same",
+   "target_qid": "53117",
+   "y_gold": [
+    "Dark overcoat with a striped tie and a badge on display, white shirt underneath.",
+    "Light shirt with rolled-up sleeves, striped tie, and badge belt clip.",
+    "Light tan suit with a yellow shirt and a dark tie, small pin on lapel.",
+    "Dark sweater with badge on a lanyard, over a dark shirt.",
+    "Dark outfit with 'POLICE' on the back, tactical gear."
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "52767",
+   "x": "castle",
+   "y": "lanie",
+   "gender": "cross",
+   "target_qid": "52766",
+   "y_gold": [
+    "Red scrub top with visible collar detail, worn under a lab coat. The character is also wearing gloves in the first image.",
+    "Red short-sleeve top with ribbed pattern at the shoulders. Worn without a lab coat, paired with a watch and earrings."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "52865",
+   "x": "lanie",
+   "y": "martha",
+   "gender": "same",
+   "target_qid": "52861",
+   "y_gold": [
+    "Dark jacket with blue and white patterns and a dark top underneath",
+    "Dark jacket with leather-like appearance"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "52451",
+   "x": "gates",
+   "y": "ryan",
+   "gender": "same",
+   "target_qid": "52454",
+   "y_gold": [
+    "Black overcoat, white shirt, and dark blue tie.",
+    "White shirt with dark sweater vest.",
+    "Dark suit with a light blue shirt and tie."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "53152",
+   "x": "castle",
+   "y": "esposito",
+   "gender": "same",
+   "target_qid": "53150",
+   "y_gold": [
+    "Dark blue jacket with a police badge on a chain over a dark shirt",
+    "Dark zip-up jacket over a dark shirt with a visible badge and a radio earpiece",
+    "Purple dress shirt with a black overcoat and a police badge"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "52769",
+   "x": "ryan",
+   "y": "esposito",
+   "gender": "same",
+   "target_qid": "52765",
+   "y_gold": [
+    "Dark jacket with dark shirt underneath.",
+    "Maroon short-sleeve shirt with badge on a lanyard.",
+    "Green jacket over a dark shirt with badge.",
+    "Light gray shirt with badge.",
+    "Light gray shirt with a dark bulletproof vest."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "53037",
+   "x": "castle",
+   "y": "ryan",
+   "gender": "same",
+   "target_qid": "53034",
+   "y_gold": [
+    "Black jacket with dark striped shirt",
+    "Dark blue or black short-sleeve polo shirt",
+    "Dark gray suit with dark shirt and tie"
+   ],
+   "x_n_outfits": 6,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "53062",
+   "x": "castle",
+   "y": "martha",
+   "gender": "cross",
+   "target_qid": "53059",
+   "y_gold": [
+    "Dark jacket with long wavy hair",
+    "Floral robe with a green trim and medium wavy hair"
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "53218",
+   "x": "castle",
+   "y": "martha",
+   "gender": "cross",
+   "target_qid": "53219",
+   "y_gold": [
+    "A green and brown patterned shawl over a dark top, with curly hair."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 1
+  },
+  {
+   "qid": "52484",
+   "x": "gates",
+   "y": "castle",
+   "gender": "same",
+   "target_qid": "52483",
+   "y_gold": [
+    "Dark shirt under a light-colored jacket.",
+    "Dark shirt under a darker jacket."
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "53095",
+   "x": "esposito",
+   "y": "beckett",
+   "gender": "cross",
+   "target_qid": "53096",
+   "y_gold": [
+    "Brown coat with red patterned scarf and blue gloves",
+    "Dark grey buttoned jacket",
+    "Black 'POLICE' shirt with tactical vest",
+    "Dark leather jacket over black top"
+   ],
+   "x_n_outfits": 6,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "53228",
+   "x": "gates",
+   "y": "martha",
+   "gender": "cross",
+   "target_qid": "53235",
+   "y_gold": [
+    "White habit with a large headpiece and a decorative belt.",
+    "White habit with a more fitted head covering, no visible belt.",
+    "Robes with a long gray beard and wig."
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "53145",
+   "x": "ryan",
+   "y": "martha",
+   "gender": "cross",
+   "target_qid": "53148",
+   "y_gold": [
+    "Magenta and black floral patterned jacket with a black blouse, accessorized with layered gold necklaces and bracelet."
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 1
+  },
+  {
+   "qid": "53061",
+   "x": "castle",
+   "y": "esposito",
+   "gender": "same",
+   "target_qid": "53057",
+   "y_gold": [
+    "Dark long-sleeve shirt with badge visible on the chest",
+    "Black jacket with a collared shirt underneath",
+    "Dark blue short-sleeve shirt with badge on chest",
+    "Dark blue tactical vest over a shirt with \"POLICE\" text",
+    "Black zip-up jacket",
+    "Dark formal police uniform with badge and hat"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 6
+  },
+  {
+   "qid": "53015",
+   "x": "castle",
+   "y": "ryan",
+   "gender": "same",
+   "target_qid": "53017",
+   "y_gold": [
+    "Red outfit with a dark jacket",
+    "Dark jacket with light blue gloves",
+    "Brown suit with a dark dress shirt",
+    "Dark suit with a striped tie",
+    "Gray suit with a brown tie"
+   ],
+   "x_n_outfits": 6,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "53135",
+   "x": "beckett",
+   "y": "ryan",
+   "gender": "cross",
+   "target_qid": "53134",
+   "y_gold": [
+    "Black coat over a purple shirt with a tie",
+    "Black leather jacket with shiny texture and layered necklaces"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "53117",
+   "x": "esposito",
+   "y": "martha",
+   "gender": "cross",
+   "target_qid": "53115",
+   "y_gold": [
+    "Turquoise and grey geometric patterned dress with necklace.",
+    "Metallic grey blazer with blue shirt and necklace."
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "52644",
+   "x": "esposito",
+   "y": "ryan",
+   "gender": "same",
+   "target_qid": "52643",
+   "y_gold": [
+    "Black jacket over a white shirt with a dark tie",
+    "Camel coat over a black shirt",
+    "White shirt with black tie and sweater",
+    "Dark blue suit with a light shirt and striped tie",
+    "Gray suit with a light gray tie"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "52509",
+   "x": "castle",
+   "y": "esposito",
+   "gender": "same",
+   "target_qid": "52513",
+   "y_gold": [
+    "Dark blazer with a red shirt, visible badge.",
+    "Light-colored coat with a dark shirt.",
+    "Dark blazer with a light blue shirt, visible badge.",
+    "Brown blazer with a dark shirt, visible badge.",
+    "Gray shirt with a POLICE vest."
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "52949",
+   "x": "lanie",
+   "y": "esposito",
+   "gender": "cross",
+   "target_qid": "52950",
+   "y_gold": [
+    "Dark suit with a blue shirt and a plain dark tie",
+    "Dark suit with a light-colored shirt and a striped tie",
+    "Light gray suit with a dark patterned shirt"
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "53138",
+   "x": "castle",
+   "y": "martha",
+   "gender": "cross",
+   "target_qid": "53141",
+   "y_gold": [
+    "Blue patterned robe with shimmering details.",
+    "White shirt under a black jacket with a beaded necklace.",
+    "Red and black floral patterned top with a red beaded necklace."
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "53128",
+   "x": "lanie",
+   "y": "martha",
+   "gender": "same",
+   "target_qid": "53127",
+   "y_gold": [
+    "Character is wearing a blue top with a metallic necklace and shiny pants, covered by a patterned shawl."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 1
+  },
+  {
+   "qid": "53019",
+   "x": "martha",
+   "y": "esposito",
+   "gender": "cross",
+   "target_qid": "53021",
+   "y_gold": [
+    "Dark jacket over a dark shirt with a badge",
+    "Brown suit with a light blue shirt and dark tie",
+    "Black leather jacket over a light blue shirt with a dark tie"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "52788",
+   "x": "lanie",
+   "y": "ryan",
+   "gender": "cross",
+   "target_qid": "52787",
+   "y_gold": [
+    "Dark coat over a dark shirt and tie",
+    "Dark suit with a white shirt and dark tie"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "52953",
+   "x": "beckett",
+   "y": "castle",
+   "gender": "cross",
+   "target_qid": "52952",
+   "y_gold": [
+    "Dark casual long-sleeve shirt.",
+    "Dark suit with a striped shirt.",
+    "Dark suit with a plain dark shirt.",
+    "Dark suit with patterned scarf and dark shirt.",
+    "Dark suit with a light-colored shirt."
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "52842",
+   "x": "esposito",
+   "y": "martha",
+   "gender": "cross",
+   "target_qid": "52843",
+   "y_gold": [
+    "Navy blue blazer with layered pearl and chain necklaces, white floral brooches, and a floral patterned blouse"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 1
+  },
+  {
+   "qid": "52986",
+   "x": "castle",
+   "y": "martha",
+   "gender": "cross",
+   "target_qid": "52981",
+   "y_gold": [
+    "Red patterned dress with a purple shawl, red gloves, and a zebra-striped handbag.",
+    "Black and white patterned jacket with black accents, and red necklace."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "53278",
+   "x": "castle",
+   "y": "esposito",
+   "gender": "same",
+   "target_qid": "53280",
+   "y_gold": [
+    "Black shirt with a badge around the neck",
+    "Dark collared shirt",
+    "Brown shirt with a badge around the neck",
+    "Black jacket over a collared shirt, badge visible",
+    "Brown uniform-style shirt with badge",
+    "Black suit with white shirt and tie, with a boutonniere"
+   ],
+   "x_n_outfits": 7,
+   "y_n_outfits": 6
+  },
+  {
+   "qid": "52796",
+   "x": "castle",
+   "y": "esposito",
+   "gender": "same",
+   "target_qid": "52792",
+   "y_gold": [
+    "Dark jacket with a high collar over a dark shirt.",
+    "Light-colored jacket with a dark trim over a dark shirt.",
+    "Dark suit with a tie and a light-colored shirt."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "52703",
+   "x": "ryan",
+   "y": "esposito",
+   "gender": "same",
+   "target_qid": "52700",
+   "y_gold": [
+    "Brown jacket with a fur-lined hood over a dark top",
+    "Dark maroon shirt",
+    "Dark maroon shirt with a plaid jacket",
+    "Dark navy shirt",
+    "Brown hoodie",
+    "Black tactical vest with 'POLICE' lettering"
+   ],
+   "x_n_outfits": 7,
+   "y_n_outfits": 6
+  },
+  {
+   "qid": "52754",
+   "x": "gates",
+   "y": "martha",
+   "gender": "cross",
+   "target_qid": "52751",
+   "y_gold": [
+    "Green and blue patterned sweater with layered beaded necklaces"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 1
+  },
+  {
+   "qid": "53126",
+   "x": "esposito",
+   "y": "castle",
+   "gender": "same",
+   "target_qid": "53129",
+   "y_gold": [
+    "Dark jacket over a dark shirt.",
+    "Dark jacket over a purple collared shirt.",
+    "Brown suit jacket over a blue collared shirt."
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "52562",
+   "x": "martha",
+   "y": "esposito",
+   "gender": "cross",
+   "target_qid": "52566",
+   "y_gold": [
+    "Brown suit with matching tie, badge on the chest pocket",
+    "Brown suit with matching tie, wearing blue gloves, badge on the chest pocket"
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "52727",
+   "x": "lanie",
+   "y": "beckett",
+   "gender": "same",
+   "target_qid": "52723",
+   "y_gold": [
+    "Red coat with a purple scarf and black gloves",
+    "Black top",
+    "Light gray blazer with a dark top and jeans",
+    "Dark coat with a high collar"
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "52987",
+   "x": "esposito",
+   "y": "lanie",
+   "gender": "cross",
+   "target_qid": "52984",
+   "y_gold": [
+    "Gray blazer with a collared shirt, blue gloves, and a clipboard"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 1
+  },
+  {
+   "qid": "53220",
+   "x": "castle",
+   "y": "lanie",
+   "gender": "cross",
+   "target_qid": "53216",
+   "y_gold": [
+    "Black top with long black hair",
+    "Dark blue scrub top with long black hair",
+    "Pink shirt with black leather jacket and long black hair"
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "53131",
+   "x": "esposito",
+   "y": "martha",
+   "gender": "cross",
+   "target_qid": "53133",
+   "y_gold": [
+    "Purple blouse with layered necklaces"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 1
+  },
+  {
+   "qid": "52507",
+   "x": "lanie",
+   "y": "beckett",
+   "gender": "same",
+   "target_qid": "52514",
+   "y_gold": [
+    "Black blazer with a black top, and a visible watch.",
+    "Dark jacket over a buttoned shirt with a collar.",
+    "Green jacket over a white shirt.",
+    "Beige blazer with a white blouse."
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "52745",
+   "x": "ryan",
+   "y": "esposito",
+   "gender": "same",
+   "target_qid": "52743",
+   "y_gold": [
+    "Black long-sleeve shirt with a belt and dark pants.",
+    "Dark shirt with layered outerwear and a badge on a lanyard.",
+    "Checkered shirt with dark pants and a badge.",
+    "Dark, possibly layered outfit with outerwear."
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "53209",
+   "x": "castle",
+   "y": "esposito",
+   "gender": "same",
+   "target_qid": "53208",
+   "y_gold": [
+    "Brown jacket over a black shirt.",
+    "Dark green henley shirt with a badge necklace."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "52693",
+   "x": "castle",
+   "y": "ryan",
+   "gender": "same",
+   "target_qid": "52692",
+   "y_gold": [
+    "Dark suit with a white shirt, burgundy tie, and blue gloves.",
+    "White shirt with rolled-up sleeves, burgundy tie, and dark waistcoat.",
+    "Grey suit with a striped shirt and burgundy tie.",
+    "Casual suit with a striped shirt and burgundy tie.",
+    "Dark suit with a shirt and tie."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 5
+  },
+  {
+   "qid": "52449",
+   "x": "martha",
+   "y": "esposito",
+   "gender": "cross",
+   "target_qid": "52445",
+   "y_gold": [
+    "Dark jacket over a dark shirt and pants",
+    "Dark long-sleeve shirt with light pants and visible gun holster"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "52523",
+   "x": "lanie",
+   "y": "martha",
+   "gender": "same",
+   "target_qid": "52528",
+   "y_gold": [
+    "Blue silky robe with a blue headband and jewelry featuring a necklace."
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 1
+  },
+  {
+   "qid": "52749",
+   "x": "castle",
+   "y": "beckett",
+   "gender": "cross",
+   "target_qid": "52750",
+   "y_gold": [
+    "Black blazer over a white top, with loose hair.",
+    "Blue dress with loose wavy hair.",
+    "Black jacket with zipper and a turtle neck underneath.",
+    "Beige blazer over a dark top with loose hair.",
+    "Off-shoulder black dress with earrings, hair tied up.",
+    "Gray long-sleeve top with dark pants, hair down."
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 6
+  },
+  {
+   "qid": "53161",
+   "x": "castle",
+   "y": "lanie",
+   "gender": "cross",
+   "target_qid": "53157",
+   "y_gold": [
+    "Dark blazer over a gray blouse with vertical stripes",
+    "Dark short-sleeve top, possibly scrubs, and pink gloves",
+    "Teal long-sleeve top"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "52663",
+   "x": "martha",
+   "y": "ryan",
+   "gender": "cross",
+   "target_qid": "52664",
+   "y_gold": [
+    "Dark coat, light shirt with thin pink stripes, and striped pink tie",
+    "Dark suit, light shirt with thin pink stripes, and striped pink tie",
+    "Light brown coat over dark vest, light shirt with thin pink stripes, and striped pink tie",
+    "Dark vest over light shirt with no visible tie"
+   ],
+   "x_n_outfits": 1,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "52432",
+   "x": "castle",
+   "y": "ryan",
+   "gender": "same",
+   "target_qid": "52430",
+   "y_gold": [
+    "Gray suit with a white dress shirt and a red tie",
+    "Black tuxedo with a white dress shirt"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "52785",
+   "x": "esposito",
+   "y": "ryan",
+   "gender": "same",
+   "target_qid": "52787",
+   "y_gold": [
+    "Dark coat over a dark shirt and tie",
+    "Dark suit with a white shirt and dark tie"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "53021",
+   "x": "esposito",
+   "y": "beckett",
+   "gender": "cross",
+   "target_qid": "53022",
+   "y_gold": [
+    "Dark jacket with a high collar.",
+    "Towel wrapped around the body.",
+    "Robe with a deep neckline.",
+    "Black jacket with hair tied back.",
+    "Outdoor black attire with gloves.",
+    "Casual brown leather jacket.",
+    "Police vest over a shirt.",
+    "Red loose fit top with bandage on arm.",
+    "Black sleek outfit with gloves."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 9
+  },
+  {
+   "qid": "53188",
+   "x": "lanie",
+   "y": "castle",
+   "gender": "cross",
+   "target_qid": "53192",
+   "y_gold": [
+    "Dark robe with black pajamas featuring red piping details.",
+    "Dark coat with blue scarf over a gray shirt.",
+    "Navy blue blazer with light blue shirt featuring vertical stripes."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "52917",
+   "x": "castle",
+   "y": "beckett",
+   "gender": "cross",
+   "target_qid": "52916",
+   "y_gold": [
+    "Red top",
+    "Red top with brown coat",
+    "Purple top with grey coat",
+    "Black top with brown leather jacket and blue scarf",
+    "Blue top with black jacket",
+    "Pink sleeveless dress"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 6
+  },
+  {
+   "qid": "53107",
+   "x": "beckett",
+   "y": "ryan",
+   "gender": "cross",
+   "target_qid": "53109",
+   "y_gold": [
+    "Dark suit with a pink shirt and a red striped tie, wearing blue gloves.",
+    "Light blue striped shirt with a dark tie and a badge on the belt.",
+    "Dark checkered shirt with a maroon tie.",
+    "Light blue shirt with a dark tie and a black vest."
+   ],
+   "x_n_outfits": 5,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "52988",
+   "x": "lanie",
+   "y": "ryan",
+   "gender": "cross",
+   "target_qid": "52990",
+   "y_gold": [
+    "Brown jacket with grey shirt and striped tie",
+    "Dark coat with striped shirt and different striped tie",
+    "Grey suit with blue shirt and striped tie"
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "53011",
+   "x": "martha",
+   "y": "castle",
+   "gender": "cross",
+   "target_qid": "53009",
+   "y_gold": [
+    "Dark maroon shirt.",
+    "Dark maroon shirt with a black blazer.",
+    "Pale blue shirt with a dark striped blazer.",
+    "Black shirt with a striped robe."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 4
+  },
+  {
+   "qid": "53170",
+   "x": "castle",
+   "y": "ryan",
+   "gender": "same",
+   "target_qid": "53166",
+   "y_gold": [
+    "Brown trench coat, striped shirt with a tie.",
+    "Dark suit, striped shirt with a tie.",
+    "Blue suit, dark shirt, no tie."
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 3
+  },
+  {
+   "qid": "52681",
+   "x": "beckett",
+   "y": "ryan",
+   "gender": "cross",
+   "target_qid": "52683",
+   "y_gold": [
+    "Dark blue suit with a white dress shirt and no tie",
+    "Dark blue suit with a white dress shirt and a dark tie"
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "53249",
+   "x": "martha",
+   "y": "ryan",
+   "gender": "cross",
+   "target_qid": "53251",
+   "y_gold": [
+    "Dark suit with blue shirt and tie, possibly with a badge on the lapel.",
+    "Dark leather jacket over a black shirt, with jeans."
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "53096",
+   "x": "beckett",
+   "y": "esposito",
+   "gender": "cross",
+   "target_qid": "53095",
+   "y_gold": [
+    "Dark suit jacket with a light dress shirt and striped tie.",
+    "Dark suit with light dress shirt, striped tie, and wearing protective gloves.",
+    "Dress shirt with rolled-up sleeves, no jacket, loose tie.",
+    "Camouflage shirt with police vest.",
+    "Camouflage shirt without police vest.",
+    "Dark jacket with a badge necklace."
+   ],
+   "x_n_outfits": 4,
+   "y_n_outfits": 6
+  },
+  {
+   "qid": "52835",
+   "x": "lanie",
+   "y": "castle",
+   "gender": "cross",
+   "target_qid": "52838",
+   "y_gold": [
+    "Dark jacket over a dark shirt",
+    "Dark jacket over a plaid shirt"
+   ],
+   "x_n_outfits": 2,
+   "y_n_outfits": 2
+  },
+  {
+   "qid": "53216",
+   "x": "lanie",
+   "y": "ryan",
+   "gender": "cross",
+   "target_qid": "53215",
+   "y_gold": [
+    "Blue dress shirt with dark vest and tie.",
+    "Light gray suit with blue dress shirt and striped tie.",
+    "Dark outer jacket over blue dress shirt and tie.",
+    "Brown trench coat over dress shirt and tie."
+   ],
+   "x_n_outfits": 3,
+   "y_n_outfits": 4
+  }
+ ]
+}

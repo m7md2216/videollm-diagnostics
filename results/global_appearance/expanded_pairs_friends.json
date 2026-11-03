@@ -1,0 +1,622 @@
+[
+ {
+  "qid": "54258",
+  "original": "Ross",
+  "swap": "Phoebe"
+ },
+ {
+  "qid": "54173",
+  "original": "Phoebe",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54593",
+  "original": "Rachel",
+  "swap": "Monica"
+ },
+ {
+  "qid": "54658",
+  "original": "Joey",
+  "swap": "Monica"
+ },
+ {
+  "qid": "54839",
+  "original": "Rachel",
+  "swap": "Monica"
+ },
+ {
+  "qid": "54348",
+  "original": "Rachel",
+  "swap": "Chandler"
+ },
+ {
+  "qid": "54400",
+  "original": "Phoebe",
+  "swap": "Ross"
+ },
+ {
+  "qid": "54259",
+  "original": "Rachel",
+  "swap": "Phoebe"
+ },
+ {
+  "qid": "55093",
+  "original": "Rachel",
+  "swap": "Ross"
+ },
+ {
+  "qid": "54738",
+  "original": "Joey",
+  "swap": "Ross"
+ },
+ {
+  "qid": "55076",
+  "original": "Ross",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "55016",
+  "original": "Phoebe",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54547",
+  "original": "Rachel",
+  "swap": "Monica"
+ },
+ {
+  "qid": "54325",
+  "original": "Phoebe",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54515",
+  "original": "Ross",
+  "swap": "Phoebe"
+ },
+ {
+  "qid": "54975",
+  "original": "Phoebe",
+  "swap": "Chandler"
+ },
+ {
+  "qid": "54682",
+  "original": "Chandler",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54224",
+  "original": "Geller",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54948",
+  "original": "Phoebe",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54143",
+  "original": "Geller",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54277",
+  "original": "Joey",
+  "swap": "Chandler"
+ },
+ {
+  "qid": "54451",
+  "original": "Geller",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54802",
+  "original": "Chandler",
+  "swap": "Phoebe"
+ },
+ {
+  "qid": "54797",
+  "original": "Joey",
+  "swap": "Chandler"
+ },
+ {
+  "qid": "54017",
+  "original": "Joey",
+  "swap": "Chandler"
+ },
+ {
+  "qid": "54530",
+  "original": "Chandler",
+  "swap": "Joey"
+ },
+ {
+  "qid": "55087",
+  "original": "Geller",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54242",
+  "original": "Chandler",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54920",
+  "original": "Phoebe",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54743",
+  "original": "Ross",
+  "swap": "Phoebe"
+ },
+ {
+  "qid": "54525",
+  "original": "Rachel",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54769",
+  "original": "Ross",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54749",
+  "original": "Geller",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54210",
+  "original": "Chandler",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54467",
+  "original": "Geller",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54954",
+  "original": "Chandler",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54040",
+  "original": "Phoebe",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54660",
+  "original": "Chandler",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54442",
+  "original": "Ross",
+  "swap": "Phoebe"
+ },
+ {
+  "qid": "54118",
+  "original": "Ross",
+  "swap": "Chandler"
+ },
+ {
+  "qid": "54183",
+  "original": "Monica",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54489",
+  "original": "Rachel",
+  "swap": "Chandler"
+ },
+ {
+  "qid": "54148",
+  "original": "Phoebe",
+  "swap": "Monica"
+ },
+ {
+  "qid": "54974",
+  "original": "Ross",
+  "swap": "Phoebe"
+ },
+ {
+  "qid": "54295",
+  "original": "Monica",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54265",
+  "original": "Monica",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54826",
+  "original": "Monica",
+  "swap": "Chandler"
+ },
+ {
+  "qid": "54276",
+  "original": "Phoebe",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54145",
+  "original": "Ross",
+  "swap": "Phoebe"
+ },
+ {
+  "qid": "54735",
+  "original": "Ross",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54122",
+  "original": "Ross",
+  "swap": "Phoebe"
+ },
+ {
+  "qid": "54505",
+  "original": "Phoebe",
+  "swap": "Chandler"
+ },
+ {
+  "qid": "53990",
+  "original": "Phoebe",
+  "swap": "Ross"
+ },
+ {
+  "qid": "54007",
+  "original": "Ross",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54321",
+  "original": "Ross",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54636",
+  "original": "Rachel",
+  "swap": "Ross"
+ },
+ {
+  "qid": "54049",
+  "original": "Ross",
+  "swap": "Chandler"
+ },
+ {
+  "qid": "54851",
+  "original": "Monica",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54098",
+  "original": "Rachel",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54659",
+  "original": "Rachel",
+  "swap": "Monica"
+ },
+ {
+  "qid": "54198",
+  "original": "Ross",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54291",
+  "original": "Chandler",
+  "swap": "Ross"
+ },
+ {
+  "qid": "54447",
+  "original": "Rachel",
+  "swap": "Phoebe"
+ },
+ {
+  "qid": "54502",
+  "original": "Chandler",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54240",
+  "original": "Joey",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54274",
+  "original": "Joey",
+  "swap": "Ross"
+ },
+ {
+  "qid": "54540",
+  "original": "Ross",
+  "swap": "Monica"
+ },
+ {
+  "qid": "54386",
+  "original": "Phoebe",
+  "swap": "Joey"
+ },
+ {
+  "qid": "55018",
+  "original": "Ross",
+  "swap": "Monica"
+ },
+ {
+  "qid": "53994",
+  "original": "Ross",
+  "swap": "Monica"
+ },
+ {
+  "qid": "55053",
+  "original": "Chandler",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "55005",
+  "original": "Rachel",
+  "swap": "Chandler"
+ },
+ {
+  "qid": "54133",
+  "original": "Monica",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54454",
+  "original": "Ross",
+  "swap": "Phoebe"
+ },
+ {
+  "qid": "54129",
+  "original": "Ross",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54091",
+  "original": "Chandler",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54626",
+  "original": "Rachel",
+  "swap": "Ross"
+ },
+ {
+  "qid": "54461",
+  "original": "Chandler",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54976",
+  "original": "Chandler",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54554",
+  "original": "Chandler",
+  "swap": "Monica"
+ },
+ {
+  "qid": "54045",
+  "original": "Phoebe",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54483",
+  "original": "Joey",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54146",
+  "original": "Joey",
+  "swap": "Ross"
+ },
+ {
+  "qid": "54384",
+  "original": "Ross",
+  "swap": "Chandler"
+ },
+ {
+  "qid": "55062",
+  "original": "Joey",
+  "swap": "Ross"
+ },
+ {
+  "qid": "54299",
+  "original": "Joey",
+  "swap": "Phoebe"
+ },
+ {
+  "qid": "54357",
+  "original": "Joey",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54569",
+  "original": "Monica",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54095",
+  "original": "Phoebe",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54365",
+  "original": "Phoebe",
+  "swap": "Ross"
+ },
+ {
+  "qid": "54914",
+  "original": "Joey",
+  "swap": "Chandler"
+ },
+ {
+  "qid": "54393",
+  "original": "Ross",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54772",
+  "original": "Chandler",
+  "swap": "Monica"
+ },
+ {
+  "qid": "54046",
+  "original": "Chandler",
+  "swap": "Ross"
+ },
+ {
+  "qid": "54300",
+  "original": "Phoebe",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54958",
+  "original": "Chandler",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54327",
+  "original": "Ross",
+  "swap": "Phoebe"
+ },
+ {
+  "qid": "54363",
+  "original": "Monica",
+  "swap": "Chandler"
+ },
+ {
+  "qid": "54346",
+  "original": "Phoebe",
+  "swap": "Ross"
+ },
+ {
+  "qid": "54035",
+  "original": "Chandler",
+  "swap": "Phoebe"
+ },
+ {
+  "qid": "54513",
+  "original": "Joey",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54578",
+  "original": "Monica",
+  "swap": "Phoebe"
+ },
+ {
+  "qid": "54734",
+  "original": "Rachel",
+  "swap": "Chandler"
+ },
+ {
+  "qid": "54701",
+  "original": "Monica",
+  "swap": "Chandler"
+ },
+ {
+  "qid": "54605",
+  "original": "Phoebe",
+  "swap": "Monica"
+ },
+ {
+  "qid": "55090",
+  "original": "Joey",
+  "swap": "Ross"
+ },
+ {
+  "qid": "54264",
+  "original": "Joey",
+  "swap": "Monica"
+ },
+ {
+  "qid": "54416",
+  "original": "Ross",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54150",
+  "original": "Joey",
+  "swap": "Ross"
+ },
+ {
+  "qid": "54162",
+  "original": "Phoebe",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54020",
+  "original": "Phoebe",
+  "swap": "Monica"
+ },
+ {
+  "qid": "54811",
+  "original": "Rachel",
+  "swap": "Monica"
+ },
+ {
+  "qid": "54169",
+  "original": "Phoebe",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54159",
+  "original": "Phoebe",
+  "swap": "Ross"
+ },
+ {
+  "qid": "54018",
+  "original": "Phoebe",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54726",
+  "original": "Ross",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54250",
+  "original": "Rachel",
+  "swap": "Monica"
+ },
+ {
+  "qid": "54176",
+  "original": "Ross",
+  "swap": "Chandler"
+ },
+ {
+  "qid": "54248",
+  "original": "Phoebe",
+  "swap": "Ross"
+ },
+ {
+  "qid": "54895",
+  "original": "Phoebe",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54027",
+  "original": "Rachel",
+  "swap": "Joey"
+ },
+ {
+  "qid": "54419",
+  "original": "Phoebe",
+  "swap": "Rachel"
+ },
+ {
+  "qid": "54594",
+  "original": "Joey",
+  "swap": "Ross"
+ },
+ {
+  "qid": "54897",
+  "original": "Monica",
+  "swap": "Rachel"
+ }
+]

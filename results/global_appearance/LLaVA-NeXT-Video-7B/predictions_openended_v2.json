@@ -1,0 +1,522 @@
+[
+ {
+  "question_id": "1975",
+  "question": "How does Emily's attire evolve throughout this episode?",
+  "ground_truth": "dark purple long-sleeve top",
+  "model_answer": "In this episode of the TV show, Emily's attire evolves as follows:\n\n\n1. At the beginning of the episode, Emily is wearing a red shirt and a black skirt.\n2. Later in the episode, she changes into a blue shirt and a black skirt.\n3. Towards the end of the episode, Emily is seen wearing a blue shirt and a black vest.\n\n\nThroughout the episode, Emily's attire remains consistent in terms of colors and layering, but the specific clothing items change. The red shirt and black skirt are replaced by the blue shirt and black skirt, and then the blue shirt and black vest.",
+  "new_tokens": 158,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1880",
+  "question": "How does Leonard's clothing change from the beginning to the end of this episode?",
+  "ground_truth": "khaki shirt over a grey t-shirt with a rainbow design and black watch",
+  "model_answer": "In the beginning of the episode, Leonard is wearing a white shirt and a red tie. He is also wearing a lab coat, which is typically worn in a scientific or medical setting. As the episode progresses, he changes into a yellow shirt and a red tie, which is a more casual and relaxed outfit. He then changes into a red shirt and a black tie, which is a more formal outfit. Finally, he is seen wearing a red shirt and a black tie, which is a combination of both casual and formal elements.",
+  "new_tokens": 120,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1873",
+  "question": "What are the stages of Penny's outfit changes in this episode?",
+  "ground_truth": "purple plaid shirt, sleeveless light purple patterned top",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Penny's outfit changes are as follows:\n\n\n1. She starts off wearing a black and white striped shirt and black pants.\n2. Later, she changes into a black and white dress with a black cardigan.\n3. Then, she wears a black and white dress with a black cardigan and a black jacket.\n4. Finally, she changes into a black and white dress with a black cardigan and a black jacket.\n\n\nThroughout the episode, Penny's outfit remains consistent in its black and white color scheme, with the addition of a cardigan and jacket in each stage.",
+  "new_tokens": 152,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1892",
+  "question": "In what order does Howard change outfits in this episode?",
+  "ground_truth": "multicolored harlequin costume with a ruff collar and ruffled cuffs",
+  "model_answer": "In this episode of The Big Bang Theory, Howard changes outfits in the following order:\n\n\n1. He starts wearing a red shirt with a black vest and a black tie.\n2. He then changes into a red shirt with a black vest and a red tie.\n3. Finally, he changes into a red shirt with a black vest and a red tie.\n\n\nThroughout the episode, Howard's outfits are consistent in terms of colors and layering, with the exception of the tie, which changes from black to red. The red shirt remains the same throughout the episode.",
+  "new_tokens": 134,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1890",
+  "question": "How does Leslie's attire evolve throughout this episode?",
+  "ground_truth": "red t-shirt with a butterfly graphic under a floral-patterned jacket with a hood, maroon dress with floral embroidery and patterned skirt, multicolored floral dress with a green cardigan",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Leslie's attire evolves as follows:\n\n\n1. At the beginning of the episode, Leslie is wearing a black and white striped shirt with a red skirt.\n2. Later in the episode, she changes into a red and black striped shirt with a black skirt.\n3. Towards the end of the episode, she is seen wearing a red and black striped shirt with a black skirt.\n\n\nThroughout the episode, Leslie's attire remains consistent in terms of colors and layering, but the specific clothing items change. The black skirt remains a constant element in her outfit, while the shirt and top change between black and red.",
+  "new_tokens": 167,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1984",
+  "question": "What are the correct squence of outfits Penny wears in this episode",
+  "ground_truth": "pink and blue tie-dye t-shirt with pink pants, grey camisole with small pink flowers",
+  "model_answer": "In this episode of The Big Bang Theory, Penny wears three different outfits. Here's the sequence of her outfits:\n\n\n1. First outfit: Penny is wearing a black and white striped shirt with a black skirt.\n2. Second outfit: She changes into a black and white striped shirt with a black skirt and a black jacket.\n3. Third outfit: Penny is seen wearing a black and white striped shirt with a black skirt and a black jacket.\n\n\nEach outfit consists of a black and white striped shirt with a black skirt and a black jacket. The sequence of outfits is the same as the order in which they appear in the video.",
+  "new_tokens": 167,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1881",
+  "question": "How does Howard's clothing change from the beginning to the end of this episode?",
+  "ground_truth": "dark plaid shirt with an orange turtleneck underneath",
+  "model_answer": "In the beginning of the episode, Howard is wearing a white lab coat over a red shirt and blue jeans. He is also holding a clipboard and a cell phone. As the episode progresses, he changes into a yellow shirt with a black vest and blue jeans. He is also seen wearing a red shirt with a black vest and blue jeans at one point.",
+  "new_tokens": 82,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1995",
+  "question": "Can you detail the series of outfit changes for Howard in this episode?",
+  "ground_truth": "red and black vertically striped shirt over a black turtleneck, teal button-up shirt over a black turtleneck",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Howard is seen wearing a variety of outfits throughout the scene. He starts off in a blue and white striped shirt, which is a casual and comfortable choice for a day at work. He then changes into a red and white striped shirt, which adds a pop of color and a bit of formality to his look. Finally, he is seen wearing a red and white striped shirt, which is similar to his initial outfit but with a different color scheme. This outfit change suggests that he may be dressing up for a special occasion or a more formal event.",
+  "new_tokens": 135,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1953",
+  "question": "Can you detail the series of outfit changes for Bernadette in this episode?",
+  "ground_truth": "purple sweater with a wavy neckline and glasses",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Bernadette's outfit changes are as follows:\n\n\n1. She starts off wearing a pink shirt and a black skirt.\n2. Later, she changes into a pink sweater and a black skirt.\n3. Then, she wears a pink shirt and a black vest.\n4. Finally, she is seen in a pink shirt and a black skirt.\n\n\nThroughout the episode, Bernadette's outfit remains consistent in color scheme, with the exception of the addition of the black vest layer. The pink shirt and black skirt combination is a consistent element throughout her outfit changes.",
+  "new_tokens": 156,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1879",
+  "question": "In what order does Amy change outfits in this episode?",
+  "ground_truth": "red plaid shirt with a red vest, floral shirt with a blue vest",
+  "model_answer": "In this episode of The Big Bang Theory, Amy changes outfits in the following order:\n\n\n1. She starts wearing a black and white striped shirt with a black skirt.\n2. She then changes into a black and white dress with a black cardigan.\n3. Finally, she wears a black and white dress with a black cardigan.\n\n\nEach outfit consists of a black and white striped shirt, a black skirt, and a black cardigan. The colors and clothing items remain consistent throughout the changes.",
+  "new_tokens": 120,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1926",
+  "question": "Can you describe the order in which Amy changes clothes in this episode?",
+  "ground_truth": "brown sweater over a purple shirt with blue skirt, dark cardigan over a light brown shirt with green skirt and leggings",
+  "model_answer": "In this episode of The Big Bang Theory, Amy changes clothes in the following order:\n\n\n1. She starts wearing a blue shirt and a red skirt.\n2. She then puts on a blue sweater over the blue shirt.\n3. She adds a black jacket on top of the blue sweater.\n4. Finally, she wears a red jacket over the blue shirt and black jacket.\n\n\nThis description is based on the visual information provided in the video and does not include any assumptions or interpretations.",
+  "new_tokens": 118,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1991",
+  "question": "Can you identify the order of costume changes for Bernadette in this episode?",
+  "ground_truth": "dark sheer blouse, red floral blouse",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Bernadette undergoes a series of costume changes throughout the episode. Here's the order of her outfits:\n\n\n1. She starts in a black dress with a white top and black pants.\n2. She then changes into a black and white striped shirt with a black skirt.\n3. She wears a black and white striped shirt with a black skirt and a black jacket.\n4. She changes into a black and white striped shirt with a black skirt and a black vest.\n5. She is seen in a black and white striped shirt with a black skirt and a black jacket.\n6. She wears a black and white striped shirt with a black skirt and a black vest.\n7. She changes into a black and white striped shirt with a black skirt and a black jacket.\n\n\nThroughout the episode, Bernadette's outfits are predominantly black and white, with occasional black accessories such as a skirt, jacket, and vest. The striped shirts and skirts are the main elements of her costume changes, and she wears a black dress at the beginning and end of the episode.",
+  "new_tokens": 283,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1932",
+  "question": "How do Bernadette's clothes change throughout this episode?",
+  "ground_truth": "orange cardigan over a floral dress",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Bernadette's outfits are as follows:\n\n\n1. At the beginning of the episode, Bernadette is wearing a black dress with a high neckline and a black cardigan.\n2. Later in the episode, she changes into a red shirt with a black cardigan and a black skirt.\n3. She then wears a red shirt with a black cardigan and a black skirt.\n4. Finally, she is seen wearing a red shirt with a black cardigan and a black skirt.\n\n\nThroughout the episode, Bernadette's outfits consistently feature a black cardigan layered over a red shirt, with a black skirt. The colors of her outfits remain consistent, but the specific clothing items and layering may vary.",
+  "new_tokens": 189,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1878",
+  "question": "What are the various outfits Howard wears in this episode, listed in order?",
+  "ground_truth": "blue pajamas, plaid shirt and mustard pants",
+  "model_answer": "In this episode of The Big Bang Theory, Howard wears the following outfits:\n\n1. A green shirt with a black vest and glasses.\n2. A green shirt with a black vest and glasses.\n3. A green shirt with a black vest and glasses.\n4. A green shirt with a black vest and glasses.\n5. A green shirt with a black vest and glasses.\n6. A green shirt with a black vest and glasses.\n7. A green shirt with a black vest and glasses.\n8. A green shirt with a black vest and glasses.\n9. A green shirt with a black vest and glasses.\n10. A green shirt with a black vest and glasses.\n111. A green shirt with a black vest and glasses.\n12. A green shirt with a black vest and glasses.\n13. A green shirt with a black vest and glasses.\n14. A green shirt with a black vest and glasses.\n15. A green shirt with a black vest and glasses.\n16. A green shirt with a black vest and glasses.\n17. A green shirt with a black vest and glasses.\n18. A green shirt with a black vest and glasses.\n19. A green shirt with a black vest and glasses.\n20. A green shirt with a black vest and glasses.\n21. A green shirt with a black vest and glasses.\n222. A green shirt with a black vest and glasses.\n23. A green shirt with a black vest and glasses.\n24. A green shirt with a black vest and glasses.\n25. A green shirt with a black vest and glasses.\n26. A green shirt with a black vest and glasses.\n27. A green shirt with a black vest and glasses.\n28. A green shirt with a black vest and glasses.\n29. A green shirt with a black vest and glasses.\n30. A green shirt with a black vest and glasses.\n31. A green shirt with a black vest and glasses.\n32.",
+  "new_tokens": 512,
+  "hit_limit": true,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1923",
+  "question": "What are the correct squence of outfits Leonard wears in this episode",
+  "ground_truth": "beige jacket over a blue hoodie and t-shirt, green jacket over a yellow t-shirt",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Leonard wears a variety of outfits throughout the scene. Here's the sequence of his outfits:\n\n\n1. He starts off wearing a white lab coat over a purple shirt and black pants.\n2. He then changes into a purple shirt and black pants.\n3. He later changes into a purple shirt and white pants.\n4. Finally, he wears a purple shirt and black pants again.\n\n\nThroughout the scene, Leonard's outfits are consistent in color scheme, with a purple shirt and black pants, but the specific items he wears change. The lab coat is worn over the shirt and pants in the first two outfits, and then he switches to the shirt and pants without the lab coat in the third outfit.",
+  "new_tokens": 197,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1940",
+  "question": "How does Stuart's attire evolve throughout this episode?",
+  "ground_truth": "brown t-shirt under a green jacket and a checkered shirt underneath",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Stuart starts off wearing a blue shirt and a black jacket. Later, he changes into a yellow shirt and a black jacket. Finally, he is seen wearing a yellow shirt and a black jacket.",
+  "new_tokens": 58,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1960",
+  "question": "What are the correct squence of outfits Bernadette wears in this episode",
+  "ground_truth": "pink cardigan with floral dress, brown jacket over a yellow top",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Bernadette wears the following outfits:\n\n\n1. She starts with a red sweater over a white shirt and black pants.\n2. Later, she changes into a blue sweater over a white shirt and black pants.\n3. Finally, she wears a purple sweater over a white shirt and black pants.\n\n\nEach outfit is described in detail:\n\n\n1. The first outfit consists of a red sweater with a round neckline and long sleeves, paired with a white shirt underneath and black pants.\n2. The second outfit features a blue sweater with a round neckline and long sleeves, worn over a white shirt and black pants.\n3. The third outfit consists of a purple sweater with a round neckline and long sleeves, paired with a white shirt underneath and black pants.\n\n\nPlease note that the colors and clothing items remain consistent throughout the episode, but the layering changes.",
+  "new_tokens": 239,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1980",
+  "question": "Can you outline the order of changing the outfits for Amy in this episode?",
+  "ground_truth": "light pink shirt with a beige buttoned vest and a dark skirt",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Amy changes her outfits in the following order:\n\n\n1. She starts wearing a red shirt and black pants.\n2. She then changes into a black dress.\n3. She wears a red shirt and black pants again.\n4. Finally, she changes into a red shirt and black pants once more.\n\n\nThroughout the episode, Amy's outfits are consistent in color and style, with the exception of the black dress, which is a notable change. The red shirt and black pants are the primary outfit, and she wears them in multiple scenes. The black dress is a unique addition, and she wears it only once. The order of outfit changes is as described above.",
+  "new_tokens": 173,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1872",
+  "question": "Can you outline the order of changing the outfits for Stuart in this episode?",
+  "ground_truth": "grey jacket over a striped sweater, striped sweater over a striped shirt",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Stuart changes his outfits in the following order:\n\n\n1. He starts wearing a green shirt and brown pants.\n2. He then changes into a blue shirt and brown pants.\n3. Finally, he wears a blue shirt and brown pants.\n\n\nThroughout the episode, he is seen in different settings, including a kitchen, a living room, and a bedroom. The outfits are consistent across all scenes, with the only variation being the color of the shirt.",
+  "new_tokens": 125,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1962",
+  "question": "What are the sequential outfits worn by Leonard in this episode?",
+  "ground_truth": "blue t-shirt under green jacket, orange t-shirt under green jacket, blue t-shirt under purple caged hoodie under purple jacket",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Leonard wears a red shirt with a blue sweater vest over it. He starts the episode in a red shirt and later changes into a blue sweater vest over his red shirt.",
+  "new_tokens": 51,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1996",
+  "question": "What are the stages of Bernadette's outfit changes in this episode?",
+  "ground_truth": "pink cardigan with a blue floral dress, black dress, white pajama with subtle pattern",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Bernadette's outfit changes are as follows:\n\n\n1. She starts off wearing a black dress with a red top and a black cardigan.\n2. Later, she changes into a pink dress with a black cardigan.\n3. She then wears a pink dress with a black cardigan.\n4. Finally, she is seen in a pink dress with a black cardigan.\n\n\nThroughout the episode, Bernadette's outfit remains consistent in terms of colors and layering, with the exception of the addition of the black cardigan in each stage. The pink dresses are the main focus of her outfit, and the black cardigan adds a layer of warmth and contrast to her attire.",
+  "new_tokens": 174,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1985",
+  "question": "What are the stages of Howard's outfit changes in this episode?",
+  "ground_truth": "grey sweater over a red collared shirt, dark green shirt over a purple turtleneck, green sweater with blue stripes over a blue turtleneck, black t-shirt with colorful graphics over a purple turtleneck",
+  "model_answer": "In this episode of The Big Bang Theory, Howard's outfit changes are as follows:\n\n\n1. He starts wearing a striped shirt with a tie and a sweater vest.\n2. Later, he changes into a sweater vest and a tie.\n3. He then wears a sweater vest and a tie with a shirt.\n4. Finally, he is seen wearing a sweater vest and a tie with a shirt.\n\n\nThroughout the episode, Howard's outfit remains consistent in terms of colors and layering, with the exception of the addition of the sweater vest in the later stages. The sweater vest is a key element in his outfit, and he wears it with a shirt and tie in each stage.",
+  "new_tokens": 169,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1952",
+  "question": "What are the various outfits Raj wears in this episode, listed in order?",
+  "ground_truth": "pink shirt with purple sleeveless sweater, blue shirt with blue sleeveless sweater",
+  "model_answer": "In this episode of The Big Bang Theory, Raj wears the following outfits:\n\n1. A blue shirt with a black vest and black pants.\n2. A blue shirt with a black vest and black pants.\n3. A blue shirt with a black vest and black pants.\n4. A blue shirt with a black vest and black pants.\n5. A blue shirt with a black vest and black pants.\n6. A blue shirt with a black vest and black pants.\n7. A blue shirt with a black vest and black pants.\n8. A blue shirt with a black vest and black pants.\n9. A blue shirt with a black vest and black pants.\n10. A blue shirt with a black vest and black pants.\n111. A blue shirt with a black vest and black pants.\n12. A blue shirt with a black vest and black pants.\n13. A blue shirt with a black vest and black pants.\n14. A blue shirt with a black vest and black pants.\n15. A blue shirt with a black vest and black pants.\n16. A blue shirt with a black vest and black pants.\n17. A blue shirt with a black vest and black pants.\n18. A blue shirt with a black vest and black pants.\n19. A blue shirt with a black vest and black pants.\n20. A blue shirt with a black vest and black pants.\n21. A blue shirt with a black vest and black pants.\n222. A blue shirt with a black vest and black pants.\n23. A blue shirt with a black vest and black pants.\n24. A blue shirt with a black vest and black pants.\n25. A blue shirt with a black vest and black pants.\n26. A blue shirt with a black vest and black pants.\n27. A blue shirt with a black vest and black pants.\n28. A blue shirt with a black vest and black pants.\n29. A blue shirt with a black vest and black pants.\n30. A blue sh",
+  "new_tokens": 512,
+  "hit_limit": true,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1990",
+  "question": "Can you list the order of outfits worn by Stuart in this episode?",
+  "ground_truth": "grey t-shirt under a grey plaid shirt with a dark grey cardigan, dark brown t-shirt under a yellow and black plaid shirt",
+  "model_answer": "In this episode of The Big Bang Theory, Stuart appears in several outfits. Here is the order of his outfits:\n\n\n1. First, he is wearing a green shirt with a yellow vest over it.\n2. Then, he changes into a blue shirt with a yellow vest over it.\n3. Later, he is seen wearing a blue shirt with a yellow vest over it.\n4. Finally, he is seen in a blue shirt with a yellow vest over it.\n\n\nThroughout the episode, Stuart's outfits consist of a green shirt with a yellow vest over it, and he wears a blue shirt with a yellow vest over it in different scenes.",
+  "new_tokens": 157,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1957",
+  "question": "What are the various outfits Leonard wears in this episode, listed in order?",
+  "ground_truth": "green t-shirt with a pattern of wind turbines, green t-shirt with a pattern of wind turbines under a grey hoodie with a dark sleeveless jacket",
+  "model_answer": "In this episode of The Big Bang Theory, Leonard wears the following outfits:\n\n1. A blue shirt with a black vest and a black tie.\n2. A blue shirt with a black vest and a white collar.\n3. A blue shirt with a black vest and a white collar.\n4. A blue shirt with a black vest and a white collar.\n5. A blue shirt with a black vest and a white collar.\n6. A blue shirt with a black vest and a white collar.\n7. A blue shirt with a black vest and a white collar.\n8. A blue shirt with a black vest and a white collar.\n9. A blue shirt with a black vest and a white collar.\n10. A blue shirt with a black vest and a white collar.\n111. A blue shirt with a black vest and a white collar.\n12. A blue shirt with a black vest and a white collar.\n13. A blue shirt with a black vest and a white collar.\n14. A blue shirt with a black vest and a white collar.\n15. A blue shirt with a black vest and a white collar.\n16. A blue shirt with a black vest and a white collar.\n17. A blue shirt with a black vest and a white collar.\n18. A blue shirt with a black vest and a white collar.\n19. A blue shirt with a black vest and a white collar.\n20. A blue shirt with a black vest and a white collar.\n21. A blue shirt with a black vest and a white collar.\n222. A blue shirt with a black vest and a white collar.\n23. A blue shirt with a black vest and a white collar.\n24. A blue shirt with a black vest and a white collar.\n25. A blue shirt with a black vest and a white collar.\n26. A blue shirt with a black vest and a white collar.\n27. A blue shirt with a black vest and a white collar.\n28. A blue shirt with a black vest and a white",
+  "new_tokens": 512,
+  "hit_limit": true,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1945",
+  "question": "How does Leonard's attire evolve throughout this episode?",
+  "ground_truth": "orange t-shirt under a dark jacket with a hood, blue t-shirt under a grey jacket with a hood, green t-shirt under a purple jacket with a green lined hood",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Leonard's attire evolves as follows:\n\n\n1. At the beginning of the episode, Leonard is wearing a blue shirt with a yellow graphic t-shirt underneath.\n2. Later in the episode, he changes into a white shirt with a blue graphic t-shirt underneath.\n3. Towards the end of the episode, he is seen wearing a white shirt with a blue graphic t-shirt underneath.\n\n\nThroughout the episode, Leonard's outfits consist of a combination of a blue shirt and a yellow graphic t-shirt, with the specific color of the graphic t-shirt changing from yellow to blue. The white shirt is also worn underneath in some scenes.",
+  "new_tokens": 182,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1912",
+  "question": "How do Bernadette's clothes change throughout this episode?",
+  "ground_truth": "yellow sleeveless dress over a white blouse, blue patterned dress with a red cardigan",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Bernadette's outfits are as follows:\n\n\n1. At the beginning of the episode, Bernadette is wearing a black top with a white skirt and glasses.\n2. Later in the episode, she changes into a pink top with a black skirt.\n3. She then wears a pink top with a black skirt.\n4. Bernadette is seen in a pink top with a black skirt again.\n5. Finally, she is seen in a pink top with a black skirt.\n\n\nThroughout the episode, Bernadette's outfits consist of a combination of black and pink tops with black skirts, with occasional glasses.",
+  "new_tokens": 171,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1875",
+  "question": "What is the sequence of outfit changes for Sheldon in this episode?",
+  "ground_truth": "grey t-shirt with geometric design over a long-sleeve purple shirt, light pink striped button-up shirt",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Sheldon Cooper's outfit changes are as follows:\n\n\n1. He starts wearing a green shirt and brown pants.\n2. Later, he changes into a blue shirt and brown pants.\n3. Finally, he wears a blue shirt and brown pants.\n\n\nPlease note that the colors and clothing items may vary slightly due to the lighting and camera angles, but these are the main outfit changes that can be observed in the video.",
+  "new_tokens": 116,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1899",
+  "question": "What is the sequence of outfit changes for Sheldon in this episode?",
+  "ground_truth": "white shirt under a colorful hoodie, grey \"HUSKERS\" t-shirt, blue t-shirt, pink patterned hoodie over a pink top",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Sheldon Cooper's outfit changes are as follows:\n\n\n1. He starts wearing a red shirt with a white collar and a blue tie.\n2. Later, he changes into a blue sweater with a white collar and a blue tie.\n3. He then wears a blue sweater with a white collar and a blue tie.\n4. Finally, he is seen wearing a blue sweater with a white collar and a blue tie.\n\n\nThroughout the episode, he remains in the same room with the other characters, and his outfit remains consistent.",
+  "new_tokens": 142,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1993",
+  "question": "What are the correct squence of outfits Leonard wears in this episode",
+  "ground_truth": "brown jacket with a blue hood and green t-shirt, red patterned robe with white t-shirt, brown plaid shirt, brown plaid shirt over white t-shirt, white t-shirt, black sweater with blue bird design over a pink shirt",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Leonard wears a variety of outfits throughout the scene. Here's the sequence of his outfits:\n\n\n1. He starts off wearing a white t-shirt and a blue jacket.\n2. He then changes into a red and white striped shirt.\n3. He later wears a red and white striped shirt with a blue jacket.\n4. Finally, he is seen wearing a red and white striped shirt with a blue jacket.\n\n\nThroughout the scene, Leonard's outfits are casual and comfortable, with a focus on layering and color coordination. The red and white striped shirt is a consistent element throughout his wardrobe, and the blue jacket adds a pop of color to his outfits.",
+  "new_tokens": 186,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1935",
+  "question": "Can you outline the order of changing the outfits for Amy in this episode?",
+  "ground_truth": "maroon sweater over a collared shirt and dark pants, blue sci-fi costume dress with black tights",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Amy changes her outfits in the following order:\n\n\n1. She starts wearing a black dress with a white top and a black cardigan.\n2. She then changes into a red shirt with a black cardigan.\n3. Finally, she wears a red shirt with a black cardigan.\n\n\nThroughout the episode, Amy's outfits are primarily black and red, with a white top and a black cardigan. The order of changing her outfits is as described above.",
+  "new_tokens": 124,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1919",
+  "question": "What are the correct squence of outfits Raj wears in this episode",
+  "ground_truth": "green and blue jacket over an orange sweater and patterned shirt, red and white jacket with beige pants, blue and grey jacket over a beige argyle sweater and white shirt",
+  "model_answer": "In this episode of The Big Bang Theory, Raj wears three different outfits. Here's the sequence of his outfits:\n\n\n1. First outfit: Raj is wearing a white lab coat over a purple shirt and black pants.\n2. Second outfit: Raj changes into a blue sweater and black pants.\n3. Third outfit: Raj wears a white lab coat over a purple shirt and black pants.\n\n\nIn each outfit, Raj is seen wearing a white lab coat, which is a common attire for scientists in the show. The first outfit consists of a purple shirt and black pants, while the second outfit has a blue sweater and black pants. The third outfit is the same as the first, with a purple shirt and black pants.",
+  "new_tokens": 186,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "2000",
+  "question": "What are the stages of Raj's outfit changes in this episode?",
+  "ground_truth": "blue jacket over a pink patterned shirt, beige blazer over a dark blue patterned sweater and white shirt",
+  "model_answer": "In this episode of The Big Bang Theory, Raj's outfit changes are as follows:\n\n\n1. He starts off wearing a black shirt and a red tie.\n2. Later, he changes into a blue sweater.\n3. Then, he wears a brown jacket.\n4. Finally, he is seen in a brown shirt and tie.\n\n\nThese changes occur throughout the episode as the story progresses.",
+  "new_tokens": 97,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1898",
+  "question": "Can you outline the order of changing the outfits for Sheldon in this episode?",
+  "ground_truth": "purple and yellow striped t-shirt over red long sleeves, beige and grey jacket over the same striped t-shirt, orange graphic t-shirt over blue long sleeves, green and grey plaid shirt",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Sheldon Cooper changes his outfits in the following order:\n\n\n1. He starts wearing a blue and white striped shirt with a black vest.\n2. He then changes into a blue and white striped shirt with a black vest and a red tie.\n3. Finally, he wears a blue and white striped shirt with a black vest and a red tie.\n\n\nThroughout the episode, he is seen in a variety of settings, including a restaurant, a room with a bookshelf, and a room with a bookshelf. The outfits are consistent with the character's typical style, which is a mix of casual and formal attire.",
+  "new_tokens": 162,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1903",
+  "question": "What are the sequential outfits worn by Howard in this episode?",
+  "ground_truth": "green and red checkered shirt with a yellow turtleneck, green and red checkered shirt with a yellow turtleneck under a black and red leather jacket, red shirt with a black turtleneck",
+  "model_answer": "In this episode of The Big Bang Theory, Howard is seen wearing a variety of outfits. Here's a detailed description of each outfit:\n\n\n1. First outfit: He starts off wearing a red shirt with a white collar and a black jacket.\n2. Second outfit: He changes into a blue shirt with a white collar and a black jacket.\n3. Third outfit: He is seen wearing a red shirt with a white collar and a black jacket.\n4. Fourth outfit: He is dressed in a blue shirt with a white collar and a black jacket.\n\n5. Fifth outfit: He is wearing a red shirt with a white collar and a black jacket.\n\n\nThroughout the episode, Howard's outfits consistently feature a red shirt with a white collar and a black jacket, with occasional variations in the color of the shirt. The outfits are layered with a black jacket, and the colors of the shirt and jacket remain consistent.",
+  "new_tokens": 241,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1988",
+  "question": "Can you outline the order of changing the outfits for Leonard in this episode?",
+  "ground_truth": "grey graphic t-shirt under a beige jacket, purple graphic t-shirt under a blue button-up shirt",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Leonard changes his outfits in the following order:\n\n\n1. He starts wearing a green shirt with a yellow undershirt and a black vest.\n2. He then changes into a blue shirt with a yellow undershirt and a black vest.\n3. Finally, he wears a blue shirt with a yellow undershirt and a black vest.\n\n\nThroughout the episode, Leonard's outfits consist of a green shirt with a yellow undershirt and a black vest, a blue shirt with a yellow undershirt and a black vest, and a blue shirt with a yellow undershirt and a black vest.",
+  "new_tokens": 155,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1888",
+  "question": "How does Penny's clothing change from the beginning to the end of this episode?",
+  "ground_truth": "red and black sleeveless dress with multicolor floral bottom, red halter-neck dress with purple and yellow flowers, orange tank top with floral capri pants",
+  "model_answer": "In the beginning of the episode, Penny is wearing a red shirt and a black skirt. She is sitting on a couch with a laptop on her lap, and she is talking to Sheldon. As the episode progresses, she changes her outfit to a black shirt and a red skirt. She is now wearing a black shirt and a red skirt.",
+  "new_tokens": 83,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1885",
+  "question": "What are the sequential outfits worn by Penny in this episode?",
+  "ground_truth": "multi-colored plaid shirt, black sweater",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Penny wears three distinct outfits. Here's a detailed description of each outfit:\n\n\n1. First outfit: Penny is wearing a white blouse with a black skirt and a pair of black pants. She has a black purse with her.\n2. Second outfit: Penny changes into a pink shirt with a black skirt and a black cardigan. She is also wearing a pair of black pants.\n3. Third outfit: Penny is seen wearing a pink shirt with a black skirt and a black cardigan, but this time she has a yellow purse with her.\n\n\nEach outfit consists of a white blouse, a black skirt, and a black cardigan, with a pair of black pants. The only variation is the color of the shirt and the purse.",
+  "new_tokens": 199,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1928",
+  "question": "Can you detail the series of outfit changes for Sheldon in this episode?",
+  "ground_truth": "blue t-shirt and light grey pants, blue and yellow striped long sleeve t-shirt and brown pants, blue and yellow striped long sleeve t-shirt with a beige and white jacket",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Sheldon Cooper is seen wearing a variety of outfits throughout the scene. He starts off in a blue and white striped shirt, which is a casual and comfortable choice for a day at home. As the scene progresses, he changes into a blue and white striped shirt with a blue jacket, adding a layer of warmth and formality to his attire. He then switches to a blue and white striped shirt with a blue jacket and a blue tie, which gives him a more polished and professional look. Finally, he is seen in a blue and white striped shirt with a blue jacket and a blue tie, which is the same outfit he started with, indicating a return to his original attire.",
+  "new_tokens": 170,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1904",
+  "question": "What are the chronological outfit changes for Raj in this episode?",
+  "ground_truth": "blue jacket over a maroon sweater with a yellow shirt, red jacket over a green shirt and maroon sweater, green and black wrestling singlet",
+  "model_answer": "In this episode of The Big Bang Theory, Raj starts wearing a white lab coat over his striped shirt. He then changes into a black shirt and a black vest. Later, he wears a red shirt and a black vest. Finally, he is seen in a red shirt and a black vest.",
+  "new_tokens": 67,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1931",
+  "question": "How does Howard's clothing change from the beginning to the end of this episode?",
+  "ground_truth": "turquoise shirt, blue jeans with turquoise and blue checkered shirt, red checkered shirt with grey pants",
+  "model_answer": "In the beginning of the episode, Howard is wearing a green shirt with a red tie and glasses. He is sitting on a couch and talking to a woman. As the episode progresses, he changes his outfit to a red shirt with a white collar and a red tie. He is now wearing a red shirt with a white collar and a red tie.",
+  "new_tokens": 82,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1979",
+  "question": "How does Leonard's wardrobe shift throughout this episode?",
+  "ground_truth": "green button-up shirt over a black shirt",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Leonard's wardrobe shifts from a casual to a more formal attire. Here's a breakdown of his outfits:\n\n\n1. At the beginning of the episode, Leonard is wearing a casual outfit consisting of a red t-shirt with a graphic design on it and jeans.\n2. Later in the episode, he changes into a more formal outfit, which includes a blue dress shirt and a tie.\n3. He then switches to a suit jacket and tie, which is a more formal attire.\n4. Finally, he is seen wearing a suit jacket and tie, which is the most formal outfit he wears throughout the episode.\n\n\nThroughout the episode, Leonard's clothing choices reflect the different settings and situations he encounters, transitioning from a casual to a more formal look as the story progresses.",
+  "new_tokens": 209,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1964",
+  "question": "Can you track the sequence of Sheldon's outfit changes in this episode?",
+  "ground_truth": "yellow t-shirt with a symbol under a grey and blue jacket, blue t-shirt with a graphic design, purple and black striped t-shirt under a grey and blue jacket, red t-shirt with a symbol over a blue long sleeve shirt, dark green t-shirt with graphics over a purple long sleeve shirt",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Sheldon Cooper's outfit changes throughout the scene as follows:\n\n\n1. He starts wearing a red shirt with a blue sweater vest over it.\n2. Later, he changes into a red shirt with a blue sweater vest over it.\n3. Finally, he wears a red shirt with a blue sweater vest over it.\n\n\nThese changes are visible in the video, and the colors and clothing items remain consistent throughout the scene.",
+  "new_tokens": 115,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1921",
+  "question": "Can you describe the order in which Sheldon changes clothes in this episode?",
+  "ground_truth": "purple t-shirt with long sleeves underneath, white lab coat over trousers, beige and brown jacket with brown trousers",
+  "model_answer": "In this episode, Sheldon changes clothes in the following order:\n\n\n1. He starts wearing a white lab coat over his regular clothes.\n2. He then puts on a blue sweater over the lab coat.\n3. Finally, he wears a yellow shirt over the blue sweater.\n\n\nThis information is based on the visual cues in the video and does not rely on any captions.",
+  "new_tokens": 91,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1891",
+  "question": "Can you identify the order of costume changes for Sheldon in this episode?",
+  "ground_truth": "brown cloak with a cross necklace, green t-shirt over a collared shirt, purple t-shirt with colorful graphic over a long-sleeve shirt, striped t-shirt over a collared shirt, blue Star Trek uniform shirt",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Sheldon Cooper goes through several costume changes, each with a different color and style. Here's the order of his costumes:\n\n\n1. He starts in his usual attire, which consists of a purple t-shirt, blue jeans, and glasses.\n2. He then changes into a medieval costume, which includes a red and yellow striped shirt, a red cape, and a crown.\n3. He then changes into a pirate costume, wearing a red and yellow striped shirt, a red cape, and a pirate hat.\n4. Finally, he changes into a Star Trek costume, which consists of a red and yellow striped shirt, a red cape, and a Star Trek hat.\n\n\nThroughout the episode, Sheldon's costumes are colorful and eye-catching, with a mix of red, yellow, and blue. The medieval and pirate costumes have a red and yellow color scheme, while the Star Trek costume has a red and yellow color scheme. The costumes are layered with a shirt, cape, and hat, and each has a distinct style that adds to the comedic effect of the scene.",
+  "new_tokens": 279,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1936",
+  "question": "Can you outline the order of changing the outfits for Sheldon in this episode?",
+  "ground_truth": "red jumpsuit, black suit with white shirt over red outfit, dark blue graphic t-shirt over grey long sleeve shirt, green graphic t-shirt over grey long sleeve shirt, light grey graphic t-shirt over maroon long sleeve shirt",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Sheldon Cooper changes his outfits in the following order:\n\n\n1. He starts wearing a green shirt with a red tie.\n2. He then changes into a red shirt with a white collar.\n3. He later changes into a red shirt with a white collar.\n4. Finally, he wears a red shirt with a white collar.\n\n\nThroughout the episode, he remains in the same room, and his outfits are consistent with the setting.",
+  "new_tokens": 123,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1939",
+  "question": "Can you list the order of outfits worn by Leonard in this episode?",
+  "ground_truth": "purple t-shirt with graphics and light blue undershirt, purple t-shirt with graphics and light blue undershirt under a black jacket, red t-shirt graphic under a green jacket, blue t-shirt graphic under a green jacket, plaid robe and white undershirt",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Leonard wears the following outfits:\n\n\n1. A blue shirt and jeans.\n2. A blue shirt and sweater.\n3. A blue shirt and sweater.\n4. A blue shirt and sweater with a tie.\n5. A blue shirt and sweater with a tie and glasses.\n6. A blue shirt and sweater with a tie and glasses.\n7. A blue shirt and sweater with a tie and glasses.\n\n\nEach outfit consists of a blue shirt and jeans or sweater, with the addition of a tie in some instances. The colors and clothing items remain consistent throughout the episode.",
+  "new_tokens": 161,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1981",
+  "question": "Can you outline the order of changing the outfits for Sheldon in this episode?",
+  "ground_truth": "striped purple, yellow, and gray t-shirt over a red long-sleeve shirt, blue plaid robe over white t-shirt, gray short-sleeve t-shirt with colorful stripes over a black long-sleeve shirt and black collar, black striped sweater over a red shirt with striped sleeves, blue t-shirt with Superman logo over a dark long-sleeve shirt and brown pants",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Sheldon Cooper changes his outfits in the following order:\n\n\n1. He starts wearing a striped shirt with a tie.\n2. He then changes into a sweater vest over the striped shirt.\n3. Next, he puts on a sweater vest over the striped shirt.\n4. Finally, he wears a sweater vest over the striped shirt and tie.\n\n\nThroughout the episode, he is seen in a variety of outfits, including a striped shirt with a tie, a sweater vest over the striped shirt, and a sweater vest over the striped shirt and tie.",
+  "new_tokens": 157,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1933",
+  "question": "What are the correct squence of outfits Leonard wears in this episode",
+  "ground_truth": "beige jacket over purple t-shirt and brown pants, pink hooded robe, blue and black jacket over black pants, purple jacket with orange hood over red t-shirt",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Leonard wears the following outfits:\n\n\n1. A white dress shirt and black pants.\n2. A white dress shirt and red pants.\n3. A white dress shirt and blue jeans.\n4. A white dress shirt and red pants.\n5. A white dress shirt and blue jeans.\n\n\nEach outfit is described in detail:\n\n\n1. A white dress shirt and black pants: Leonard is seen wearing a white dress shirt and black pants, which is a common outfit for him.\n2. A white dress shirt and red pants: He is also seen wearing a white dress shirt and red pants, which is another common outfit for him.\n3. A white dress shirt and blue jeans: Leonard is seen wearing a white dress shirt and blue jeans, which is a less common outfit for him.\n4. A white dress shirt and red pants: He is seen wearing a white dress shirt and red pants, which is another common outfit for him.\n5. A white dress shirt and blue jeans: Leonard is seen wearing a white dress shirt and blue jeans, which is a less common outfit for him.\n\n\nThese outfits are consistent throughout the episode, and Leonard is often seen wearing a white dress shirt and black pants or a white dress shirt and red pants.",
+  "new_tokens": 329,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1902",
+  "question": "Can you describe the order in which Penny changes clothes in this episode?",
+  "ground_truth": "white shirt under a colorful hoodie, grey \"HUSKERS\" t-shirt, blue t-shirt, pink patterned hoodie over a pink top",
+  "model_answer": "In this episode, Penny changes clothes in the following order:\n\n\n1. She starts wearing a red shirt and black pants.\n2. Then, she puts on a white sweater.\n3. Next, she adds a black jacket.\n4. Finally, she wears a red shirt and black pants again.\n\n\nThis information is based on the visuals in the video and does not rely on any captions.",
+  "new_tokens": 98,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1969",
+  "question": "What are the sequential outfits worn by Penny in this episode?",
+  "ground_truth": "white floral blouse with a grey jacket, black and grey patterned dress, white floral blouse, light blue and white lingerie",
+  "model_answer": "In this episode of The Big Bang Theory, Penny wears three distinct outfits. Here's a detailed description of each outfit:\n\n\n1. First Outfit:\n- She starts off wearing a black dress with a high neckline and a black cardigan.\n- Later, she changes into a black and white striped shirt with a black skirt.\n- Finally, she wears a black dress with a red cardigan.\n\n\n2. Second Outfit:\n- She starts off wearing a black dress with a high neckline and a black cardigan.\n- Later, she changes into a black and white striped shirt with a black skirt.\n- Finally, she wears a black dress with a red cardigan.\n\n\n3. Third Outfit:\n- She starts off wearing a black dress with a high neckline and a black cardigan.\n- Later, she changes into a black and white striped shirt with a black skirt.\n- Finally, she wears a black dress with a red cardigan.\n\n\nPlease note that the colors and clothing items remain consistent throughout the episode, but the layering changes.",
+  "new_tokens": 256,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ },
+ {
+  "question_id": "1924",
+  "question": "How do Bernadette's clothes change throughout this episode?",
+  "ground_truth": "black top with a white inner layer and floral pattern, beige coat",
+  "model_answer": "In this episode of \"The Big Bang Theory,\" Bernadette's outfits are as follows:\n\n\n1. At the beginning of the episode, Bernadette is wearing a white lab coat over a purple shirt and black pants.\n2. Later in the episode, she changes into a purple shirt and black pants.\n3. Towards the end of the episode, she is seen wearing a purple shirt and black pants again.\n\n\nThese changes in her outfit are consistent throughout the episode, and she is always wearing a lab coat.",
+  "new_tokens": 130,
+  "hit_limit": false,
+  "max_new_tokens": 512,
+  "n_frames": 16
+ }
+]

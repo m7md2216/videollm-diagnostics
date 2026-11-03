@@ -1,0 +1,402 @@
+[
+ {
+  "question_id": "54258",
+  "original_char": "Ross",
+  "swap_char": "Phoebe",
+  "correct_label": "B",
+  "orig_pred": "B",
+  "swap_pred": "B",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54173",
+  "original_char": "Phoebe",
+  "swap_char": "Rachel",
+  "correct_label": "E",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54593",
+  "original_char": "Rachel",
+  "swap_char": "Monica",
+  "correct_label": "A",
+  "orig_pred": "C",
+  "swap_pred": "C",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54658",
+  "original_char": "Joey",
+  "swap_char": "Monica",
+  "correct_label": "D",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54839",
+  "original_char": "Rachel",
+  "swap_char": "Monica",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54348",
+  "original_char": "Rachel",
+  "swap_char": "Chandler",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54400",
+  "original_char": "Phoebe",
+  "swap_char": "Ross",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54259",
+  "original_char": "Rachel",
+  "swap_char": "Phoebe",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "55093",
+  "original_char": "Rachel",
+  "swap_char": "Ross",
+  "correct_label": "D",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54738",
+  "original_char": "Joey",
+  "swap_char": "Ross",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "55076",
+  "original_char": "Ross",
+  "swap_char": "Rachel",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "55016",
+  "original_char": "Phoebe",
+  "swap_char": "Rachel",
+  "correct_label": "F",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54547",
+  "original_char": "Rachel",
+  "swap_char": "Monica",
+  "correct_label": "B",
+  "orig_pred": "C",
+  "swap_pred": "C",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54325",
+  "original_char": "Phoebe",
+  "swap_char": "Rachel",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54515",
+  "original_char": "Ross",
+  "swap_char": "Phoebe",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54975",
+  "original_char": "Phoebe",
+  "swap_char": "Chandler",
+  "correct_label": "A",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54682",
+  "original_char": "Chandler",
+  "swap_char": "Joey",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54224",
+  "original_char": "Geller",
+  "swap_char": "Joey",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54948",
+  "original_char": "Phoebe",
+  "swap_char": "Rachel",
+  "correct_label": "F",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54143",
+  "original_char": "Geller",
+  "swap_char": "Joey",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54277",
+  "original_char": "Joey",
+  "swap_char": "Chandler",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54451",
+  "original_char": "Geller",
+  "swap_char": "Joey",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54802",
+  "original_char": "Chandler",
+  "swap_char": "Phoebe",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54797",
+  "original_char": "Joey",
+  "swap_char": "Chandler",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54017",
+  "original_char": "Joey",
+  "swap_char": "Chandler",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54530",
+  "original_char": "Chandler",
+  "swap_char": "Joey",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "55087",
+  "original_char": "Geller",
+  "swap_char": "Joey",
+  "correct_label": "A",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54242",
+  "original_char": "Chandler",
+  "swap_char": "Rachel",
+  "correct_label": "D",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54920",
+  "original_char": "Phoebe",
+  "swap_char": "Joey",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54743",
+  "original_char": "Ross",
+  "swap_char": "Phoebe",
+  "correct_label": "A",
+  "orig_pred": "C",
+  "swap_pred": "C",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54525",
+  "original_char": "Rachel",
+  "swap_char": "Joey",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54769",
+  "original_char": "Ross",
+  "swap_char": "Joey",
+  "correct_label": "F",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54749",
+  "original_char": "Geller",
+  "swap_char": "Joey",
+  "correct_label": "F",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54210",
+  "original_char": "Chandler",
+  "swap_char": "Rachel",
+  "correct_label": "F",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54467",
+  "original_char": "Geller",
+  "swap_char": "Joey",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54954",
+  "original_char": "Chandler",
+  "swap_char": "Rachel",
+  "correct_label": "D",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54040",
+  "original_char": "Phoebe",
+  "swap_char": "Joey",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54660",
+  "original_char": "Chandler",
+  "swap_char": "Joey",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54442",
+  "original_char": "Ross",
+  "swap_char": "Phoebe",
+  "correct_label": "E",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54118",
+  "original_char": "Ross",
+  "swap_char": "Chandler",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ }
+]

@@ -1,0 +1,317 @@
+{
+ "total_usd": 5.3985160999999975,
+ "queries": [
+  {
+   "qid": "1872",
+   "input_tokens": 316887,
+   "output_tokens": 181,
+   "cost_usd": 0.09551859999999998
+  },
+  {
+   "qid": "1873",
+   "input_tokens": 316886,
+   "output_tokens": 212,
+   "cost_usd": 0.09559580000000001
+  },
+  {
+   "qid": "1875",
+   "input_tokens": 316885,
+   "output_tokens": 321,
+   "cost_usd": 0.095868
+  },
+  {
+   "qid": "1878",
+   "input_tokens": 316887,
+   "output_tokens": 148,
+   "cost_usd": 0.09543609999999998
+  },
+  {
+   "qid": "1879",
+   "input_tokens": 316883,
+   "output_tokens": 213,
+   "cost_usd": 0.0955974
+  },
+  {
+   "qid": "1880",
+   "input_tokens": 322494,
+   "output_tokens": 280,
+   "cost_usd": 0.0974482
+  },
+  {
+   "qid": "1881",
+   "input_tokens": 322494,
+   "output_tokens": 385,
+   "cost_usd": 0.0977107
+  },
+  {
+   "qid": "1885",
+   "input_tokens": 322489,
+   "output_tokens": 191,
+   "cost_usd": 0.0972242
+  },
+  {
+   "qid": "1888",
+   "input_tokens": 364384,
+   "output_tokens": 78,
+   "cost_usd": 0.1095102
+  },
+  {
+   "qid": "1890",
+   "input_tokens": 364378,
+   "output_tokens": 82,
+   "cost_usd": 0.10951839999999999
+  },
+  {
+   "qid": "1891",
+   "input_tokens": 364381,
+   "output_tokens": 79,
+   "cost_usd": 0.1095118
+  },
+  {
+   "qid": "1892",
+   "input_tokens": 364378,
+   "output_tokens": 286,
+   "cost_usd": 0.11002839999999998
+  },
+  {
+   "qid": "1898",
+   "input_tokens": 332522,
+   "output_tokens": 382,
+   "cost_usd": 0.10071159999999998
+  },
+  {
+   "qid": "1899",
+   "input_tokens": 346385,
+   "output_tokens": 80,
+   "cost_usd": 0.1041155
+  },
+  {
+   "qid": "1902",
+   "input_tokens": 346386,
+   "output_tokens": 352,
+   "cost_usd": 0.10479580000000001
+  },
+  {
+   "qid": "1903",
+   "input_tokens": 346384,
+   "output_tokens": 77,
+   "cost_usd": 0.1041077
+  },
+  {
+   "qid": "1904",
+   "input_tokens": 346384,
+   "output_tokens": 80,
+   "cost_usd": 0.1041152
+  },
+  {
+   "qid": "1912",
+   "input_tokens": 328978,
+   "output_tokens": 78,
+   "cost_usd": 0.0988884
+  },
+  {
+   "qid": "1919",
+   "input_tokens": 369100,
+   "output_tokens": 338,
+   "cost_usd": 0.111575
+  },
+  {
+   "qid": "1921",
+   "input_tokens": 369101,
+   "output_tokens": 81,
+   "cost_usd": 0.1109328
+  },
+  {
+   "qid": "1923",
+   "input_tokens": 369100,
+   "output_tokens": 189,
+   "cost_usd": 0.1112025
+  },
+  {
+   "qid": "1924",
+   "input_tokens": 369098,
+   "output_tokens": 226,
+   "cost_usd": 0.11129439999999999
+  },
+  {
+   "qid": "1926",
+   "input_tokens": 335471,
+   "output_tokens": 200,
+   "cost_usd": 0.1011413
+  },
+  {
+   "qid": "1928",
+   "input_tokens": 335471,
+   "output_tokens": 81,
+   "cost_usd": 0.1008438
+  },
+  {
+   "qid": "1931",
+   "input_tokens": 367629,
+   "output_tokens": 78,
+   "cost_usd": 0.1104837
+  },
+  {
+   "qid": "1932",
+   "input_tokens": 367623,
+   "output_tokens": 133,
+   "cost_usd": 0.11061939999999999
+  },
+  {
+   "qid": "1933",
+   "input_tokens": 367625,
+   "output_tokens": 76,
+   "cost_usd": 0.11047749999999999
+  },
+  {
+   "qid": "1935",
+   "input_tokens": 367627,
+   "output_tokens": 81,
+   "cost_usd": 0.11049059999999998
+  },
+  {
+   "qid": "1936",
+   "input_tokens": 367627,
+   "output_tokens": 81,
+   "cost_usd": 0.11049059999999998
+  },
+  {
+   "qid": "1939",
+   "input_tokens": 364381,
+   "output_tokens": 77,
+   "cost_usd": 0.1095068
+  },
+  {
+   "qid": "1940",
+   "input_tokens": 364378,
+   "output_tokens": 386,
+   "cost_usd": 0.11027839999999998
+  },
+  {
+   "qid": "1945",
+   "input_tokens": 334583,
+   "output_tokens": 77,
+   "cost_usd": 0.10056739999999999
+  },
+  {
+   "qid": "1952",
+   "input_tokens": 322197,
+   "output_tokens": 80,
+   "cost_usd": 0.0968591
+  },
+  {
+   "qid": "1953",
+   "input_tokens": 322196,
+   "output_tokens": 81,
+   "cost_usd": 0.0968613
+  },
+  {
+   "qid": "1957",
+   "input_tokens": 322197,
+   "output_tokens": 360,
+   "cost_usd": 0.0975591
+  },
+  {
+   "qid": "1960",
+   "input_tokens": 334585,
+   "output_tokens": 78,
+   "cost_usd": 0.10057050000000001
+  },
+  {
+   "qid": "1962",
+   "input_tokens": 334584,
+   "output_tokens": 264,
+   "cost_usd": 0.10103519999999999
+  },
+  {
+   "qid": "1964",
+   "input_tokens": 334587,
+   "output_tokens": 200,
+   "cost_usd": 0.1008761
+  },
+  {
+   "qid": "1969",
+   "input_tokens": 341369,
+   "output_tokens": 78,
+   "cost_usd": 0.1026057
+  },
+  {
+   "qid": "1975",
+   "input_tokens": 329273,
+   "output_tokens": 215,
+   "cost_usd": 0.09931939999999999
+  },
+  {
+   "qid": "1979",
+   "input_tokens": 329273,
+   "output_tokens": 70,
+   "cost_usd": 0.09895689999999999
+  },
+  {
+   "qid": "1980",
+   "input_tokens": 329277,
+   "output_tokens": 81,
+   "cost_usd": 0.09898559999999998
+  },
+  {
+   "qid": "1981",
+   "input_tokens": 343732,
+   "output_tokens": 260,
+   "cost_usd": 0.10376959999999999
+  },
+  {
+   "qid": "1984",
+   "input_tokens": 343730,
+   "output_tokens": 219,
+   "cost_usd": 0.10366650000000001
+  },
+  {
+   "qid": "1985",
+   "input_tokens": 343731,
+   "output_tokens": 80,
+   "cost_usd": 0.1033193
+  },
+  {
+   "qid": "1988",
+   "input_tokens": 340192,
+   "output_tokens": 81,
+   "cost_usd": 0.10226009999999998
+  },
+  {
+   "qid": "1990",
+   "input_tokens": 340191,
+   "output_tokens": 81,
+   "cost_usd": 0.1022598
+  },
+  {
+   "qid": "1991",
+   "input_tokens": 340191,
+   "output_tokens": 612,
+   "cost_usd": 0.10358730000000001
+  },
+  {
+   "qid": "1993",
+   "input_tokens": 365560,
+   "output_tokens": 77,
+   "cost_usd": 0.1098605
+  },
+  {
+   "qid": "1995",
+   "input_tokens": 365561,
+   "output_tokens": 78,
+   "cost_usd": 0.1098633
+  },
+  {
+   "qid": "1996",
+   "input_tokens": 365266,
+   "output_tokens": 266,
+   "cost_usd": 0.1102448
+  },
+  {
+   "qid": "2000",
+   "input_tokens": 365266,
+   "output_tokens": 348,
+   "cost_usd": 0.1104498
+  }
+ ]
+}

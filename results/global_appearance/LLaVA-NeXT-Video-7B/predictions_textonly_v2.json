@@ -1,0 +1,1163 @@
+[
+ {
+  "question_id": "1872",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1873",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1874",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1875",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1876",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1877",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1878",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1879",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1880",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1881",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1882",
+  "correct_label": "A",
+  "prediction": "D",
+  "correct": false,
+  "raw_response": "D",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1883",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1884",
+  "correct_label": "C",
+  "prediction": "D",
+  "correct": false,
+  "raw_response": "D",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1885",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1886",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1887",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1888",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1889",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1890",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1891",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1892",
+  "correct_label": "B",
+  "prediction": "D",
+  "correct": false,
+  "raw_response": "D",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1893",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1894",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1895",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1896",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1897",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1898",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1899",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1900",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1901",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1902",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1903",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1904",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1905",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1906",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1907",
+  "correct_label": "C",
+  "prediction": "D",
+  "correct": false,
+  "raw_response": "D",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1908",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1909",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1910",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1911",
+  "correct_label": "B",
+  "prediction": "C",
+  "correct": false,
+  "raw_response": "C",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1912",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1913",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1914",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1915",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1916",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1917",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1918",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1919",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1920",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1921",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1922",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1923",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1924",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1925",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1926",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1927",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1928",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1929",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1930",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1931",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1932",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1933",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1934",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1935",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1936",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1937",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1938",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1939",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1940",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1941",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1942",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1943",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1944",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1945",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1946",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1947",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1948",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1949",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1950",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1951",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1952",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1953",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1954",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1955",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1956",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1957",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1958",
+  "correct_label": "E",
+  "prediction": "D",
+  "correct": false,
+  "raw_response": "D",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1959",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1960",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1961",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1962",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1963",
+  "correct_label": "A",
+  "prediction": "B",
+  "correct": false,
+  "raw_response": "B",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1964",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1965",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1966",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1967",
+  "correct_label": "C",
+  "prediction": "D",
+  "correct": false,
+  "raw_response": "D",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1968",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1969",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1970",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1971",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1972",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1973",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1974",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1975",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1976",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1977",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1978",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1979",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1980",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1981",
+  "correct_label": "F",
+  "prediction": "D",
+  "correct": false,
+  "raw_response": "D",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1982",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1983",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1984",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1985",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1986",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1987",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1988",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1989",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1990",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1991",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1992",
+  "correct_label": "F",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1993",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1994",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1995",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1996",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1997",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1998",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "1999",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ },
+ {
+  "question_id": "2000",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "raw_response": "A",
+  "prompt": "standard MC prompt",
+  "frames": "16 black 224x224"
+ }
+]

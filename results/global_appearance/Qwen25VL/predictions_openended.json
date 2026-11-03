@@ -1,0 +1,470 @@
+[
+ {
+  "question_id": "1975",
+  "question": "How does Emily's attire evolve throughout this episode?",
+  "ground_truth": "dark purple long-sleeve top",
+  "model_answer": "Emily's attire evolves subtly throughout the episode, reflecting her changing activities and interactions with others. Initially, she is seen wearing a casual yet stylish ensemble consisting of a white blouse paired with a light-colored cardigan. This outfit suggests a relaxed, yet put-together look suitable for a casual outing or a friendly gathering. As the episode progresses, Emily changes into a more formal attire, donning a floral blouse that adds a touch of elegance to her overall appearance. This change in clothing might indicate a shift in the social setting or a transition from a casual to a more formal event. Throughout the episode, Emily's outfits remain consistent with her personality and the context of the scenes, showcasing her ability to adapt her style to different situations.",
+  "judge_score": null,
+  "gap_minutes": 0.51,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "1880",
+  "question": "How does Leonard's clothing change from the beginning to the end of this episode?",
+  "ground_truth": "khaki shirt over a grey t-shirt with a rainbow design and black watch",
+  "model_answer": "The video clip does not provide enough information to determine how Leonard's clothing changes throughout the episode. The provided images show Leonard wearing different outfits at various points in the video, but there is no indication of his clothing changing from the beginning to the end of the episode.",
+  "judge_score": null,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "1873",
+  "question": "What are the stages of Penny's outfit changes in this episode?",
+  "ground_truth": "purple plaid shirt, sleeveless light purple patterned top",
+  "model_answer": "The video clip does not show Penny's outfit changes throughout the episode. The video starts with a black screen with white text that says \"executive producer Chuck Lorre\". There is no information provided about Penny's outfits in this scene.",
+  "judge_score": null,
+  "gap_minutes": 3.28,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "1892",
+  "question": "In what order does Howard change outfits in this episode?",
+  "ground_truth": "multicolored harlequin costume with a ruff collar and ruffled cuffs",
+  "model_answer": "Howard changes outfits three times in this episode:\n\n1. **First Outfit:** He starts by wearing a blue shirt with a white collar and a pair of black pants. This is his initial appearance in the episode.\n2. **Second Outfit:** Howard then changes into a blue Star Trek uniform, which consists of a blue shirt with a white collar and a matching blue jacket. The uniform also includes a badge on the left side of the chest. This outfit is worn while he is holding a device that resembles a communicator.\n3. **Third Outfit:** Finally, Howard changes back to his original outfit, which is a blue shirt with a white collar and black pants. This is the last time we see him in the episode.",
+  "judge_score": null,
+  "gap_minutes": 1.28,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "1890",
+  "question": "How does Leslie's attire evolve throughout this episode?",
+  "ground_truth": "red t-shirt with a butterfly graphic under a floral-patterned jacket with a hood, maroon dress with floral embroidery and patterned skirt, multicolored floral dress with a green cardigan",
+  "model_answer": "Leslie's attire evolves from a casual ensemble to a more formal look throughout the episode. Initially, she is seen wearing a blue shirt with a white collar, which suggests a more casual or business-casual setting. As the episode progresses, Leslie changes into a more formal outfit, consisting of a black dress with a white collar. This change in attire indicates a shift in the context or setting of the scene, possibly moving from a casual gathering to a more formal event or meeting.",
+  "judge_score": null,
+  "gap_minutes": 4.59,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "1984",
+  "question": "What are the correct squence of outfits Penny wears in this episode",
+  "ground_truth": "pink and blue tie-dye t-shirt with pink pants, grey camisole with small pink flowers",
+  "model_answer": "The video clip does not show Penny wearing any outfits. The video primarily focuses on the four main characters (Sheldon, Leonard, Howard, and Raj) and their interactions. There is no information provided about Penny's outfits in this particular scene or episode.",
+  "judge_score": null,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "1881",
+  "question": "How does Howard's clothing change from the beginning to the end of this episode?",
+  "ground_truth": "dark plaid shirt with an orange turtleneck underneath",
+  "model_answer": "The video clip does not show Howard's clothing changing throughout the episode. The provided images do not include any scene where Howard changes his outfit. Therefore, there is no information available to describe how Howard's clothing changes from the beginning to the end of the episode.",
+  "judge_score": null,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "1995",
+  "question": "Can you detail the series of outfit changes for Howard in this episode?",
+  "ground_truth": "red and black vertically striped shirt over a black turtleneck, teal button-up shirt over a black turtleneck",
+  "model_answer": "Sure! Here is a detailed account of Howard's outfit changes throughout the episode:\n\n1. **Scene 1:** Howard is wearing a brown jacket over a blue and white striped shirt. He has on a pair of glasses and his hair is styled in a messy manner.\n2. **Scene 2:** Howard is now wearing a light blue t-shirt with colorful stripes on the sleeves. He is also wearing a watch on his left wrist.\n3. **Scene 3:** Howard is dressed in a red and black striped sweater. He is sitting at a table with a plate of food in front of him.\n4. **Scene 4:** Howard is wearing a red and black striped sweater again, but this time he is in a different setting.",
+  "judge_score": null,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "1953",
+  "question": "Can you detail the series of outfit changes for Bernadette in this episode?",
+  "ground_truth": "purple sweater with a wavy neckline and glasses",
+  "model_answer": "Bernadette's outfit changes throughout the episode are as follows:\n\n1. **Scene 1**: Bernadette is wearing a white blouse with a red plaid skirt.\n2. **Scene 2**: She changes into a pink cardigan over a white shirt.\n3. **Scene 3**: Bernadette is seen in a black jacket layered over a green shirt.\n4. **Scene 4**: She wears a black vest over a green shirt.\n5. **Scene 5**: Bernadette is dressed in a black jacket layered over a green shirt.\n6. **Scene 6**: She changes into a pink cardigan over a white shirt.\n7. **Scene 7**: Bernadette is wearing a white blouse with",
+  "judge_score": null,
+  "gap_minutes": 3.83,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "1879",
+  "question": "In what order does Amy change outfits in this episode?",
+  "ground_truth": "red plaid shirt with a red vest, floral shirt with a blue vest",
+  "model_answer": "Amy changes outfits twice in this episode. First, she is seen wearing a red plaid shirt with a red dress underneath. She then changes into a red and white patterned blouse over a black top.",
+  "judge_score": null,
+  "gap_minutes": 2.93,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "1926",
+  "question": "Can you describe the order in which Amy changes clothes in this episode?",
+  "ground_truth": "brown sweater over a purple shirt with blue skirt, dark cardigan over a light brown shirt with green skirt and leggings",
+  "model_answer": "The video does not provide information on Amy changing clothes in this episode.",
+  "judge_score": null,
+  "gap_minutes": 3.81,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "1991",
+  "question": "Can you identify the order of costume changes for Bernadette in this episode?",
+  "ground_truth": "dark sheer blouse, red floral blouse",
+  "model_answer": "The video clip does not provide enough information to determine the order of Bernadette's costume changes in the episode.",
+  "judge_score": null,
+  "gap_minutes": 4.34,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "1932",
+  "question": "How do Bernadette's clothes change throughout this episode?",
+  "ground_truth": "orange cardigan over a floral dress",
+  "model_answer": "Bernadette's clothes change significantly throughout the episode. Initially, she is seen wearing a blue dress with a plunging neckline. Later, she changes into a blue tunic-style top with a deep V-neckline, which she pairs with black leggings. Finally, she wears a blue tunic-style top with a high neckline, which she pairs with black leggings.",
+  "judge_score": null,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "1878",
+  "question": "What are the various outfits Howard wears in this episode, listed in order?",
+  "ground_truth": "blue pajamas, plaid shirt and mustard pants",
+  "model_answer": "The video clip does not show Howard wearing different outfits throughout the episode. The video shows Howard in one scene, where he is wearing a plaid shirt over an orange t-shirt. There are no other scenes or changes in his outfit shown in the provided video clips.",
+  "judge_score": null,
+  "gap_minutes": 8.38,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "1923",
+  "question": "What are the correct squence of outfits Leonard wears in this episode",
+  "ground_truth": "beige jacket over a blue hoodie and t-shirt, green jacket over a yellow t-shirt",
+  "model_answer": "The sequence of outfits Leonard wears in this episode is as follows:\n\n1. **Scene 1**: Leonard is wearing a brown jacket over a yellow shirt.\n2. **Scene 2**: Leonard is wearing a brown jacket over a yellow shirt.\n3. **Scene 3**: Leonard is wearing a brown jacket over a yellow shirt.\n4. **Scene 4**: Leonard is wearing a brown jacket over a yellow shirt.\n5. **Scene 5**: Leonard is wearing a brown jacket over a yellow shirt.\n6. **Scene 6**: Leonard is wearing a brown jacket over a yellow shirt.\n7. **Scene 7**: Leonard is wearing a brown jacket over a yellow shirt.\n8. **Scene 8**: Leonard is wearing a",
+  "judge_score": null,
+  "gap_minutes": 5.4,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "1940",
+  "question": "How does Stuart's attire evolve throughout this episode?",
+  "ground_truth": "brown t-shirt under a green jacket and a checkered shirt underneath",
+  "model_answer": "Stuart's attire evolves from a casual bathrobe to a more formal outfit. Initially, he is seen wearing a yellow bathrobe with a hood, which he wears over his pajamas. This suggests that he has just woken up or is getting ready for bed. Later in the episode, Stuart changes into a suit jacket and a shirt, indicating a shift towards a more formal setting or occasion.",
+  "judge_score": null,
+  "gap_minutes": 6.1,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "1960",
+  "question": "What are the correct squence of outfits Bernadette wears in this episode",
+  "ground_truth": "pink cardigan with floral dress, brown jacket over a yellow top",
+  "model_answer": "The video clip does not provide enough information to determine the sequence of outfits Bernadette wears in this episode. The provided image shows Bernadette wearing a pink and white plaid shirt with a pink headband. However, there is no information about her other outfits or the sequence in which she changes them.",
+  "judge_score": null,
+  "gap_minutes": 5.27,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "1980",
+  "question": "Can you outline the order of changing the outfits for Amy in this episode?",
+  "ground_truth": "light pink shirt with a beige buttoned vest and a dark skirt",
+  "model_answer": "The video clip does not show any scene where Amy changes her outfits. The video shows Amy in a white shirt and glasses, then in a red dress, and finally in a white shirt again.",
+  "judge_score": null,
+  "gap_minutes": 9.35,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "1872",
+  "question": "Can you outline the order of changing the outfits for Stuart in this episode?",
+  "ground_truth": "grey jacket over a striped sweater, striped sweater over a striped shirt",
+  "model_answer": "The video clip does not show any changes in Stuart's outfit throughout the episode. Therefore, there is no order to outline.",
+  "judge_score": null,
+  "gap_minutes": 6.5,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "1962",
+  "question": "What are the sequential outfits worn by Leonard in this episode?",
+  "ground_truth": "blue t-shirt under green jacket, orange t-shirt under green jacket, blue t-shirt under purple caged hoodie under purple jacket",
+  "model_answer": "Leonard's outfits change throughout the episode as he interacts with different characters. Here is a detailed description of his outfits:\n\n1. **Scene 1**: Leonard is wearing a brown sweater vest over a white shirt. The sweater vest has a striped pattern on the sleeves, which are visible under the vest. He also wears brown pants.\n2. **Scene 2**: In this scene, Leonard is seen wearing a green and brown striped sweater vest over a white shirt. His pants appear to be brown as well.\n3. **Scene 3**: Leonard changes into a brown jacket over a white shirt. The jacket has a collar and appears to be made of a slightly thicker material than the previous shirts. He also wears brown pants.\n4. **",
+  "judge_score": null,
+  "gap_minutes": 9.57,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "1996",
+  "question": "What are the stages of Bernadette's outfit changes in this episode?",
+  "ground_truth": "pink cardigan with a blue floral dress, black dress, white pajama with subtle pattern",
+  "model_answer": "The video clip does not show Bernadette's outfit changes throughout the episode.",
+  "judge_score": null,
+  "gap_minutes": 6.5,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "1985",
+  "question": "What are the stages of Howard's outfit changes in this episode?",
+  "ground_truth": "grey sweater over a red collared shirt, dark green shirt over a purple turtleneck, green sweater with blue stripes over a blue turtleneck, black t-shirt with colorful graphics over a purple turtleneck",
+  "model_answer": "In the video, Howard's outfit changes can be observed as follows:\n\n1. **Initial Appearance**: Howard is first seen wearing a blue and white striped shirt with a red collar, paired with dark pants. He has a casual yet neat look.\n2. **First Change**: Howard then changes into a green sweater with blue and yellow stripes on the sleeves, along with a pair of brown pants. This change gives him a more vibrant and playful appearance.\n3. **Second Change**: Howard later puts on a green jacket over his sweater, which adds an extra layer to his outfit. The green jacket complements the green sweater, creating a cohesive color scheme.\n4. **Final Change**: In the last scene, Howard is seen wearing a purple and white",
+  "judge_score": null,
+  "gap_minutes": 9.51,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "1952",
+  "question": "What are the various outfits Raj wears in this episode, listed in order?",
+  "ground_truth": "pink shirt with purple sleeveless sweater, blue shirt with blue sleeveless sweater",
+  "model_answer": "Raj is first seen wearing a brown t-shirt with blue sleeves. He then changes into a green t-shirt with a rainbow stripe across the chest. Later, he is seen wearing a blue t-shirt with the number 73 on it. Finally, he is seen wearing a plaid shirt over a black t-shirt.",
+  "judge_score": null,
+  "gap_minutes": 7.22,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "1990",
+  "question": "Can you list the order of outfits worn by Stuart in this episode?",
+  "ground_truth": "grey t-shirt under a grey plaid shirt with a dark grey cardigan, dark brown t-shirt under a yellow and black plaid shirt",
+  "model_answer": "The video clip does not provide enough information to determine the order of Stuart's outfits in the episode.",
+  "judge_score": null,
+  "gap_minutes": 7.54,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "1957",
+  "question": "What are the various outfits Leonard wears in this episode, listed in order?",
+  "ground_truth": "green t-shirt with a pattern of wind turbines, green t-shirt with a pattern of wind turbines under a grey hoodie with a dark sleeveless jacket",
+  "model_answer": "The video clip does not show Leonard wearing different outfits throughout the episode. The provided image shows Leonard wearing a brown t-shirt with blue sleeves. There is no information available to list his outfits in order.",
+  "judge_score": null,
+  "gap_minutes": 9.29,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "1945",
+  "question": "How does Leonard's attire evolve throughout this episode?",
+  "ground_truth": "orange t-shirt under a dark jacket with a hood, blue t-shirt under a grey jacket with a hood, green t-shirt under a purple jacket with a green lined hood",
+  "model_answer": "Leonard's attire evolves from a casual to a more formal look throughout the episode:\n\n1. **Scene 2**: Leonard is seen wearing a blue shirt with a patterned tie. This is his initial outfit as he joins the group on the couch.\n2. **Scene 6**: In this scene, Leonard is dressed in a green jacket over a yellow shirt. This change suggests a shift towards a more casual and relaxed setting, possibly indicating a different time of day or a change in the social dynamics within the group.\n3. **Scene 8**: Leonard's attire changes again, now wearing a red shirt with a black long-sleeve underneath. This outfit choice might indicate a more formal or professional context, perhaps related to a discussion or",
+  "judge_score": null,
+  "gap_minutes": 5.97,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "1912",
+  "question": "How do Bernadette's clothes change throughout this episode?",
+  "ground_truth": "yellow sleeveless dress over a white blouse, blue patterned dress with a red cardigan",
+  "model_answer": "Bernadette wears a red cardigan over a blue dress with a floral pattern throughout the episode.",
+  "judge_score": null,
+  "gap_minutes": 11.02,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "1875",
+  "question": "What is the sequence of outfit changes for Sheldon in this episode?",
+  "ground_truth": "grey t-shirt with geometric design over a long-sleeve purple shirt, light pink striped button-up shirt",
+  "model_answer": "The video clip does not show Sheldon changing his outfit during the episode. The first image shows Sheldon wearing a pink striped shirt with a white undershirt. In the second image, he is seen wearing a blue plaid shirt over a green undershirt. There is no information provided about any other outfit changes for Sheldon in the given images.",
+  "judge_score": null,
+  "gap_minutes": 11.2,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "1899",
+  "question": "What is the sequence of outfit changes for Sheldon in this episode?",
+  "ground_truth": "white shirt under a colorful hoodie, grey \"HUSKERS\" t-shirt, blue t-shirt, pink patterned hoodie over a pink top",
+  "model_answer": "In the video, Sheldon's outfit changes are as follows:\n\n1. **Scene 1**: Sheldon is wearing a white shirt with a brown vest over it.\n2. **Scene 2**: Sheldon is now wearing a blue shirt with orange sleeves and a white undershirt underneath.\n3. **Scene 3**: Sheldon is back to his original outfit from Scene 1, which is a white shirt with a brown vest over it.\n4. **Scene 4**: Sheldon is wearing a blue shirt with orange sleeves and a white undershirt underneath.\n5. **Scene 5**: Sheldon is wearing a green shirt with a red hood.\n6. **Scene 6**: Sheldon is wearing a green shirt with a red hood.\n7.",
+  "judge_score": null,
+  "gap_minutes": 14.84,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "1993",
+  "question": "What are the correct squence of outfits Leonard wears in this episode",
+  "ground_truth": "brown jacket with a blue hood and green t-shirt, red patterned robe with white t-shirt, brown plaid shirt, brown plaid shirt over white t-shirt, white t-shirt, black sweater with blue bird design over a pink shirt",
+  "model_answer": "The sequence of outfits Leonard wears in this episode is as follows:\n\n1. **Scene 2**: Leonard is wearing a brown jacket over a blue and white striped shirt with a green undershirt underneath.\n2. **Scene 3**: Leonard changes into a light blue t-shirt with colorful stripes on the sleeves and a graphic design on the front.\n3. **Scene 4**: Leonard is seen in a red and black striped sweater.\n4. **Scene 5**: Leonard is wearing a red and black striped robe.\n5. **Scene 6**: Leonard is back in his red and black striped sweater.\n6. **Scene 7**: Leonard is now wearing a plaid shirt over a white t-shirt.\n7. **Scene 8",
+  "judge_score": null,
+  "gap_minutes": 10.39,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "1935",
+  "question": "Can you outline the order of changing the outfits for Amy in this episode?",
+  "ground_truth": "maroon sweater over a collared shirt and dark pants, blue sci-fi costume dress with black tights",
+  "model_answer": "The video starts with Amy wearing a blue dress. She then changes into a blue shirt and black pants. Later, she is seen wearing a blue jacket over her blue shirt and black pants. Finally, Amy is shown wearing a blue dress again.",
+  "judge_score": null,
+  "gap_minutes": 13.62,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "1919",
+  "question": "What are the correct squence of outfits Raj wears in this episode",
+  "ground_truth": "green and blue jacket over an orange sweater and patterned shirt, red and white jacket with beige pants, blue and grey jacket over a beige argyle sweater and white shirt",
+  "model_answer": "The sequence of outfits Raj wears in this episode is as follows:\n\n1. **Scene 1**: Raj is wearing a brown jacket over a yellow shirt.\n2. **Scene 2**: Raj is wearing a blue and gray jacket over a white shirt with a red tie.\n3. **Scene 3**: Raj is wearing a blue and gray jacket over a white shirt with a red tie.\n4. **Scene 4**: Raj is wearing a blue and gray jacket over a white shirt with a red tie.\n5. **Scene 5**: Raj is wearing a blue and gray jacket over a white shirt with a red tie.\n6. **Scene 6**: Raj is wearing a blue and gray jacket over a white shirt with a red tie",
+  "judge_score": null,
+  "gap_minutes": 10.32,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "2000",
+  "question": "What are the stages of Raj's outfit changes in this episode?",
+  "ground_truth": "blue jacket over a pink patterned shirt, beige blazer over a dark blue patterned sweater and white shirt",
+  "model_answer": "Raj's outfit changes throughout the episode can be described as follows:\n\n1. **Initial Appearance**: Raj is first seen wearing a mustard yellow blazer over a blue and red striped sweater. He has on a white collared shirt underneath the sweater, which is visible at the collar and cuffs. His pants appear to be dark-colored, possibly black or navy blue. This outfit gives him a smart-casual look that is appropriate for a casual office setting.\n2. **Second Appearance**: Later in the episode, Raj is seen wearing a different outfit. He is now dressed in a gray suit jacket paired with a light blue dress shirt. The suit jacket is well-fitted, giving him a more formal and polished appearance compared to his initial outfit.",
+  "judge_score": null,
+  "gap_minutes": 11.42,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "1898",
+  "question": "Can you outline the order of changing the outfits for Sheldon in this episode?",
+  "ground_truth": "purple and yellow striped t-shirt over red long sleeves, beige and grey jacket over the same striped t-shirt, orange graphic t-shirt over blue long sleeves, green and grey plaid shirt",
+  "model_answer": "The video starts with Sheldon wearing a plaid shirt over a white t-shirt. He then changes into a brown jacket over his plaid shirt and white t-shirt. Next, he wears a blue and white striped shirt over a white t-shirt. After that, he puts on a colorful striped shirt over a purple t-shirt. Finally, he is seen wearing an orange t-shirt with blue sleeves and a blue and green striped shirt underneath.",
+  "judge_score": null,
+  "gap_minutes": 11.95,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "1903",
+  "question": "What are the sequential outfits worn by Howard in this episode?",
+  "ground_truth": "green and red checkered shirt with a yellow turtleneck, green and red checkered shirt with a yellow turtleneck under a black and red leather jacket, red shirt with a black turtleneck",
+  "model_answer": "The video clip does not provide enough information to determine the sequential outfits worn by Howard in this episode.",
+  "judge_score": null,
+  "gap_minutes": 14.33,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "1988",
+  "question": "Can you outline the order of changing the outfits for Leonard in this episode?",
+  "ground_truth": "grey graphic t-shirt under a beige jacket, purple graphic t-shirt under a blue button-up shirt",
+  "model_answer": "The video clip does not provide information on the order or details of changing Leonard's outfits in the episode. The provided frames show Leonard in different settings but do not depict any outfit changes. Therefore, I cannot outline the order of changing his outfits based on the given information.",
+  "judge_score": null,
+  "gap_minutes": 13.55,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "1888",
+  "question": "How does Penny's clothing change from the beginning to the end of this episode?",
+  "ground_truth": "red and black sleeveless dress with multicolor floral bottom, red halter-neck dress with purple and yellow flowers, orange tank top with floral capri pants",
+  "model_answer": "Penny starts wearing a pink top with a floral pattern and a yellow cardigan. She then changes into a red dress with a white collar. Later, she wears a white tank top with a floral skirt. Finally, she is seen in a white tank top with a floral skirt again.",
+  "judge_score": null,
+  "gap_minutes": 13.77,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "1885",
+  "question": "What are the sequential outfits worn by Penny in this episode?",
+  "ground_truth": "multi-colored plaid shirt, black sweater",
+  "model_answer": "The video clip does not show Penny wearing different outfits throughout the episode. The provided image shows Penny wearing a white shirt with a brown vest over it. There is no information available to describe her outfits in sequence.",
+  "judge_score": null,
+  "gap_minutes": 12.62,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "1928",
+  "question": "Can you detail the series of outfit changes for Sheldon in this episode?",
+  "ground_truth": "blue t-shirt and light grey pants, blue and yellow striped long sleeve t-shirt and brown pants, blue and yellow striped long sleeve t-shirt with a beige and white jacket",
+  "model_answer": "Sheldon is first seen wearing a blue and green long-sleeved shirt with khaki pants. He then changes into a white and green baseball jersey over a gray t-shirt. Later, he wears a brown jacket over a blue and yellow striped shirt with a light blue long-sleeved shirt underneath. Finally, he is seen wearing a blue and yellow striped shirt with a light blue long-sleeved shirt underneath.",
+  "judge_score": null,
+  "gap_minutes": 12.4,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "1904",
+  "question": "What are the chronological outfit changes for Raj in this episode?",
+  "ground_truth": "blue jacket over a maroon sweater with a yellow shirt, red jacket over a green shirt and maroon sweater, green and black wrestling singlet",
+  "model_answer": "Raj's outfit changes throughout the episode are as follows:\n\n1. **Scene 1**: Raj is wearing a red jacket over a blue and white striped shirt.\n2. **Scene 2**: Raj is seen in a green jacket with a blue hoodie underneath.\n3. **Scene 3**: Raj is wearing a blue t-shirt.\n4. **Scene 4**: Raj is back in his red jacket over a blue and white striped shirt.\n5. **Scene 5**: Raj is now wearing a beige jacket over a purple and gray striped shirt.\n6. **Scene 6**: Raj is in a white lab coat over a yellow shirt.\n7. **Scene 7**: Raj is wearing a blue and gray striped shirt with red sleeves",
+  "judge_score": null,
+  "gap_minutes": 15.19,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "1931",
+  "question": "How does Howard's clothing change from the beginning to the end of this episode?",
+  "ground_truth": "turquoise shirt, blue jeans with turquoise and blue checkered shirt, red checkered shirt with grey pants",
+  "model_answer": "Howard starts the episode wearing a red shirt with a white undershirt underneath. He then changes into a blue shirt with a white undershirt underneath.",
+  "judge_score": null,
+  "gap_minutes": 15.85,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "1979",
+  "question": "How does Leonard's wardrobe shift throughout this episode?",
+  "ground_truth": "green button-up shirt over a black shirt",
+  "model_answer": "Leonard's wardrobe shifts subtly throughout the episode, reflecting his changing activities and interactions with others. Initially, he is seen wearing a casual ensemble of a green jacket over a brown sweater, paired with dark pants. This outfit suggests a relaxed, everyday look suitable for hanging out with friends or engaging in casual activities around the apartment. As the episode progresses, Leonard changes into a more formal attire, donning a maroon t-shirt layered under a long-sleeved yellow shirt. This outfit change indicates a transition to a more serious or professional setting, possibly related to work or an important meeting. The shift from a casual to a more formal outfit highlights Leonard's adaptability and ability to adjust his appearance according to the situation at hand.",
+  "judge_score": null,
+  "gap_minutes": 16.73,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "1964",
+  "question": "Can you track the sequence of Sheldon's outfit changes in this episode?",
+  "ground_truth": "yellow t-shirt with a symbol under a grey and blue jacket, blue t-shirt with a graphic design, purple and black striped t-shirt under a grey and blue jacket, red t-shirt with a symbol over a blue long sleeve shirt, dark green t-shirt with graphics over a purple long sleeve shirt",
+  "model_answer": "Certainly! Here is the sequence of Sheldon's outfit changes in the episode:\n\n1. **Scene 1**: Sheldon is wearing a dark green t-shirt with a graphic design on it, layered over a long-sleeved purple shirt. He has on brown pants.\n2. **Scene 2**: Sheldon is wearing a dark green t-shirt with a graphic design on it, layered over a long-sleeved purple shirt. He has on brown pants.\n3. **Scene 3**: Sheldon is wearing a dark green t-shirt with a graphic design on it, layered over a long-sleeved purple shirt. He has on brown pants.\n4. **Scene 4**: Sheldon is wearing a dark green t-shirt with a graphic design on it",
+  "judge_score": null,
+  "gap_minutes": 18.17,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "1921",
+  "question": "Can you describe the order in which Sheldon changes clothes in this episode?",
+  "ground_truth": "purple t-shirt with long sleeves underneath, white lab coat over trousers, beige and brown jacket with brown trousers",
+  "model_answer": "Sheldon changes clothes twice in this episode. Initially, he is seen wearing a white lab coat over a gray shirt and a green tie. Later, he changes into a brown jacket over a white shirt and a yellow scarf.",
+  "judge_score": null,
+  "gap_minutes": 16.23,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "1891",
+  "question": "Can you identify the order of costume changes for Sheldon in this episode?",
+  "ground_truth": "brown cloak with a cross necklace, green t-shirt over a collared shirt, purple t-shirt with colorful graphic over a long-sleeve shirt, striped t-shirt over a collared shirt, blue Star Trek uniform shirt",
+  "model_answer": "Certainly! Here is the order of Sheldon's costume changes in the episode:\n\n1. **Scene 1**: Sheldon is wearing a blue shirt with a white collar and a brown jacket.\n2. **Scene 2**: Sheldon is wearing a blue shirt with a white collar and a brown jacket.\n3. **Scene 3**: Sheldon is wearing a blue shirt with a white collar and a brown jacket.\n4. **Scene 4**: Sheldon is wearing a blue shirt with a white collar and a brown jacket.\n5. **Scene 5**: Sheldon is wearing a blue shirt with a white collar and a brown jacket.\n6. **Scene 6**: Sheldon is wearing a blue shirt with a white collar and a brown jacket.\n7. **",
+  "judge_score": null,
+  "gap_minutes": 19.99,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "1936",
+  "question": "Can you outline the order of changing the outfits for Sheldon in this episode?",
+  "ground_truth": "red jumpsuit, black suit with white shirt over red outfit, dark blue graphic t-shirt over grey long sleeve shirt, green graphic t-shirt over grey long sleeve shirt, light grey graphic t-shirt over maroon long sleeve shirt",
+  "model_answer": "The video starts with Sheldon in a white shirt and black pants. He then changes into a blue suit jacket and a white shirt. Next, he puts on a black tie. After that, he wears a white shirt and a black tie. Finally, he dons a white shirt and a black tie again.",
+  "judge_score": null,
+  "gap_minutes": 18.13,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "1939",
+  "question": "Can you list the order of outfits worn by Leonard in this episode?",
+  "ground_truth": "purple t-shirt with graphics and light blue undershirt, purple t-shirt with graphics and light blue undershirt under a black jacket, red t-shirt graphic under a green jacket, blue t-shirt graphic under a green jacket, plaid robe and white undershirt",
+  "model_answer": "Leonard is first seen wearing a plaid robe over a white t-shirt. He then changes into a blue shirt with a red and yellow design on the front. Later, he is seen wearing a green shirt with a blue and white design on the front. Finally, he is seen wearing a red and white checkered shirt.",
+  "judge_score": null,
+  "gap_minutes": 18.27,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "1981",
+  "question": "Can you outline the order of changing the outfits for Sheldon in this episode?",
+  "ground_truth": "striped purple, yellow, and gray t-shirt over a red long-sleeve shirt, blue plaid robe over white t-shirt, gray short-sleeve t-shirt with colorful stripes over a black long-sleeve shirt and black collar, black striped sweater over a red shirt with striped sleeves, blue t-shirt with Superman logo over a dark long-sleeve shirt and brown pants",
+  "model_answer": "Certainly! Here is the order of changing the outfits for Sheldon in this episode:\n\n1. **Scene 1**: Sheldon is wearing a red vest over a light blue dress shirt with a striped tie. He has dark hair and is standing in what appears to be an office or classroom setting.\n2. **Scene 2**: Sheldon is now wearing a purple and yellow striped shirt with long sleeves rolled up to his elbows. He is standing in front of a whiteboard with various equations written on it, indicating he might be giving a presentation or lecture.\n3. **Scene 3**: Sheldon is wearing a blue and black plaid robe over a white t-shirt. He is standing in a kitchen, which suggests a casual and relaxed environment.\n4.",
+  "judge_score": null,
+  "gap_minutes": 16.84,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "1933",
+  "question": "What are the correct squence of outfits Leonard wears in this episode",
+  "ground_truth": "beige jacket over purple t-shirt and brown pants, pink hooded robe, blue and black jacket over black pants, purple jacket with orange hood over red t-shirt",
+  "model_answer": "The sequence of outfits Leonard wears in this episode is as follows:\n\n1. **Scene 1**: Leonard is wearing a red shirt with a white undershirt.\n2. **Scene 2**: Leonard changes into a blue shirt with a white undershirt.\n3. **Scene 3**: Leonard is seen wearing a red shirt with a white undershirt again.\n4. **Scene 4**: Leonard is now wearing a red shirt with a white undershirt.\n5. **Scene 5**: Leonard is back in his red shirt with a white undershirt.\n6. **Scene 6**: Leonard is wearing a red shirt with a white undershirt once more.\n7. **Scene 7**: Leonard is dressed in",
+  "judge_score": null,
+  "gap_minutes": 18.13,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "1902",
+  "question": "Can you describe the order in which Penny changes clothes in this episode?",
+  "ground_truth": "white shirt under a colorful hoodie, grey \"HUSKERS\" t-shirt, blue t-shirt, pink patterned hoodie over a pink top",
+  "model_answer": "Penny first appears wearing a pink floral blouse and black pants. She then changes into a white shirt and black pants. Finally, she is seen wearing a red and white striped shirt and black pants.",
+  "judge_score": null,
+  "gap_minutes": 15.31,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "1969",
+  "question": "What are the sequential outfits worn by Penny in this episode?",
+  "ground_truth": "white floral blouse with a grey jacket, black and grey patterned dress, white floral blouse, light blue and white lingerie",
+  "model_answer": "The video does not provide information on Penny's outfits throughout the episode.",
+  "judge_score": null,
+  "gap_minutes": 18.07,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "1924",
+  "question": "How do Bernadette's clothes change throughout this episode?",
+  "ground_truth": "black top with a white inner layer and floral pattern, beige coat",
+  "model_answer": "The video does not provide any information about Bernadette's clothes changing throughout the episode.",
+  "judge_score": null,
+  "gap_minutes": 15.43,
+  "gap_bucket": "xlarge"
+ }
+]

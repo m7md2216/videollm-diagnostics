@@ -1,0 +1,1242 @@
+[
+ {
+  "question_id": "54258",
+  "original_name": "Ross",
+  "swap_name": "Phoebe",
+  "correct_label": "B",
+  "orig_pred": "B",
+  "swap_pred": "B",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54173",
+  "original_name": "Phoebe",
+  "swap_name": "Rachel",
+  "correct_label": "E",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54593",
+  "original_name": "Rachel",
+  "swap_name": "Monica",
+  "correct_label": "A",
+  "orig_pred": "C",
+  "swap_pred": "C",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54658",
+  "original_name": "Joey",
+  "swap_name": "Monica",
+  "correct_label": "D",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54839",
+  "original_name": "Rachel",
+  "swap_name": "Monica",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54348",
+  "original_name": "Rachel",
+  "swap_name": "Chandler",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54400",
+  "original_name": "Phoebe",
+  "swap_name": "Ross",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54259",
+  "original_name": "Rachel",
+  "swap_name": "Phoebe",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "55093",
+  "original_name": "Rachel",
+  "swap_name": "Ross",
+  "correct_label": "D",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54738",
+  "original_name": "Joey",
+  "swap_name": "Ross",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "55076",
+  "original_name": "Ross",
+  "swap_name": "Rachel",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "55016",
+  "original_name": "Phoebe",
+  "swap_name": "Rachel",
+  "correct_label": "F",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54547",
+  "original_name": "Rachel",
+  "swap_name": "Monica",
+  "correct_label": "B",
+  "orig_pred": "C",
+  "swap_pred": "C",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54325",
+  "original_name": "Phoebe",
+  "swap_name": "Rachel",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54515",
+  "original_name": "Ross",
+  "swap_name": "Phoebe",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54975",
+  "original_name": "Phoebe",
+  "swap_name": "Chandler",
+  "correct_label": "A",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54682",
+  "original_name": "Chandler",
+  "swap_name": "Joey",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54224",
+  "original_name": "Geller",
+  "swap_name": "Joey",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54948",
+  "original_name": "Phoebe",
+  "swap_name": "Rachel",
+  "correct_label": "F",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54143",
+  "original_name": "Geller",
+  "swap_name": "Joey",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54277",
+  "original_name": "Joey",
+  "swap_name": "Chandler",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54451",
+  "original_name": "Geller",
+  "swap_name": "Joey",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54802",
+  "original_name": "Chandler",
+  "swap_name": "Phoebe",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54797",
+  "original_name": "Joey",
+  "swap_name": "Chandler",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54017",
+  "original_name": "Joey",
+  "swap_name": "Chandler",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54530",
+  "original_name": "Chandler",
+  "swap_name": "Joey",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "55087",
+  "original_name": "Geller",
+  "swap_name": "Joey",
+  "correct_label": "A",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54242",
+  "original_name": "Chandler",
+  "swap_name": "Rachel",
+  "correct_label": "D",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54920",
+  "original_name": "Phoebe",
+  "swap_name": "Joey",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54743",
+  "original_name": "Ross",
+  "swap_name": "Phoebe",
+  "correct_label": "A",
+  "orig_pred": "C",
+  "swap_pred": "C",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54525",
+  "original_name": "Rachel",
+  "swap_name": "Joey",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54769",
+  "original_name": "Ross",
+  "swap_name": "Joey",
+  "correct_label": "F",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54749",
+  "original_name": "Geller",
+  "swap_name": "Joey",
+  "correct_label": "F",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54210",
+  "original_name": "Chandler",
+  "swap_name": "Rachel",
+  "correct_label": "F",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54467",
+  "original_name": "Geller",
+  "swap_name": "Joey",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54954",
+  "original_name": "Chandler",
+  "swap_name": "Rachel",
+  "correct_label": "D",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54040",
+  "original_name": "Phoebe",
+  "swap_name": "Joey",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54660",
+  "original_name": "Chandler",
+  "swap_name": "Joey",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54442",
+  "original_name": "Ross",
+  "swap_name": "Phoebe",
+  "correct_label": "E",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54118",
+  "original_name": "Ross",
+  "swap_name": "Chandler",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54183",
+  "original_name": "Monica",
+  "swap_name": "Rachel",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54489",
+  "original_name": "Rachel",
+  "swap_name": "Chandler",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54148",
+  "original_name": "Phoebe",
+  "swap_name": "Monica",
+  "correct_label": "E",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54974",
+  "original_name": "Ross",
+  "swap_name": "Phoebe",
+  "correct_label": "F",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54295",
+  "original_name": "Monica",
+  "swap_name": "Joey",
+  "correct_label": "F",
+  "orig_pred": "D",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": true
+ },
+ {
+  "question_id": "54265",
+  "original_name": "Monica",
+  "swap_name": "Joey",
+  "correct_label": "E",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54826",
+  "original_name": "Monica",
+  "swap_name": "Chandler",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54276",
+  "original_name": "Phoebe",
+  "swap_name": "Joey",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54145",
+  "original_name": "Ross",
+  "swap_name": "Phoebe",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54735",
+  "original_name": "Ross",
+  "swap_name": "Rachel",
+  "correct_label": "E",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54122",
+  "original_name": "Ross",
+  "swap_name": "Phoebe",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": true
+ },
+ {
+  "question_id": "54505",
+  "original_name": "Phoebe",
+  "swap_name": "Chandler",
+  "correct_label": "E",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "53990",
+  "original_name": "Phoebe",
+  "swap_name": "Ross",
+  "correct_label": "F",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54007",
+  "original_name": "Ross",
+  "swap_name": "Rachel",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54321",
+  "original_name": "Ross",
+  "swap_name": "Joey",
+  "correct_label": "D",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54636",
+  "original_name": "Rachel",
+  "swap_name": "Ross",
+  "correct_label": "F",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54049",
+  "original_name": "Ross",
+  "swap_name": "Chandler",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54851",
+  "original_name": "Monica",
+  "swap_name": "Rachel",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54098",
+  "original_name": "Rachel",
+  "swap_name": "Joey",
+  "correct_label": "A",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54659",
+  "original_name": "Rachel",
+  "swap_name": "Monica",
+  "correct_label": "B",
+  "orig_pred": "B",
+  "swap_pred": "B",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54198",
+  "original_name": "Ross",
+  "swap_name": "Rachel",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54291",
+  "original_name": "Chandler",
+  "swap_name": "Ross",
+  "correct_label": "B",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54447",
+  "original_name": "Rachel",
+  "swap_name": "Phoebe",
+  "correct_label": "D",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54502",
+  "original_name": "Chandler",
+  "swap_name": "Joey",
+  "correct_label": "E",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54240",
+  "original_name": "Joey",
+  "swap_name": "Rachel",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "C",
+  "orig_correct": false,
+  "answer_changed": true
+ },
+ {
+  "question_id": "54274",
+  "original_name": "Joey",
+  "swap_name": "Ross",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54540",
+  "original_name": "Ross",
+  "swap_name": "Monica",
+  "correct_label": "D",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54386",
+  "original_name": "Phoebe",
+  "swap_name": "Joey",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "55018",
+  "original_name": "Ross",
+  "swap_name": "Monica",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "53994",
+  "original_name": "Ross",
+  "swap_name": "Monica",
+  "correct_label": "F",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "55053",
+  "original_name": "Chandler",
+  "swap_name": "Rachel",
+  "correct_label": "E",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "55005",
+  "original_name": "Rachel",
+  "swap_name": "Chandler",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54133",
+  "original_name": "Monica",
+  "swap_name": "Rachel",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54454",
+  "original_name": "Ross",
+  "swap_name": "Phoebe",
+  "correct_label": "C",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54129",
+  "original_name": "Ross",
+  "swap_name": "Joey",
+  "correct_label": "E",
+  "orig_pred": "B",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": true
+ },
+ {
+  "question_id": "54091",
+  "original_name": "Chandler",
+  "swap_name": "Rachel",
+  "correct_label": "E",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54626",
+  "original_name": "Rachel",
+  "swap_name": "Ross",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54461",
+  "original_name": "Chandler",
+  "swap_name": "Joey",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54976",
+  "original_name": "Chandler",
+  "swap_name": "Joey",
+  "correct_label": "E",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54554",
+  "original_name": "Chandler",
+  "swap_name": "Monica",
+  "correct_label": "B",
+  "orig_pred": "B",
+  "swap_pred": "C",
+  "orig_correct": true,
+  "answer_changed": true
+ },
+ {
+  "question_id": "54045",
+  "original_name": "Phoebe",
+  "swap_name": "Rachel",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54483",
+  "original_name": "Joey",
+  "swap_name": "Rachel",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54146",
+  "original_name": "Joey",
+  "swap_name": "Ross",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54384",
+  "original_name": "Ross",
+  "swap_name": "Chandler",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "55062",
+  "original_name": "Joey",
+  "swap_name": "Ross",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54299",
+  "original_name": "Joey",
+  "swap_name": "Phoebe",
+  "correct_label": "C",
+  "orig_pred": "C",
+  "swap_pred": "C",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54357",
+  "original_name": "Joey",
+  "swap_name": "Rachel",
+  "correct_label": "D",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54569",
+  "original_name": "Monica",
+  "swap_name": "Rachel",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54095",
+  "original_name": "Phoebe",
+  "swap_name": "Joey",
+  "correct_label": "E",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54365",
+  "original_name": "Phoebe",
+  "swap_name": "Ross",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54914",
+  "original_name": "Joey",
+  "swap_name": "Chandler",
+  "correct_label": "E",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54393",
+  "original_name": "Ross",
+  "swap_name": "Rachel",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54772",
+  "original_name": "Chandler",
+  "swap_name": "Monica",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54046",
+  "original_name": "Chandler",
+  "swap_name": "Ross",
+  "correct_label": "D",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54300",
+  "original_name": "Phoebe",
+  "swap_name": "Joey",
+  "correct_label": "E",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54958",
+  "original_name": "Chandler",
+  "swap_name": "Joey",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54327",
+  "original_name": "Ross",
+  "swap_name": "Phoebe",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54363",
+  "original_name": "Monica",
+  "swap_name": "Chandler",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54346",
+  "original_name": "Phoebe",
+  "swap_name": "Ross",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54035",
+  "original_name": "Chandler",
+  "swap_name": "Phoebe",
+  "correct_label": "D",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54513",
+  "original_name": "Joey",
+  "swap_name": "Rachel",
+  "correct_label": "E",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54578",
+  "original_name": "Monica",
+  "swap_name": "Phoebe",
+  "correct_label": "D",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54734",
+  "original_name": "Rachel",
+  "swap_name": "Chandler",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54701",
+  "original_name": "Monica",
+  "swap_name": "Chandler",
+  "correct_label": "D",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54605",
+  "original_name": "Phoebe",
+  "swap_name": "Monica",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "55090",
+  "original_name": "Joey",
+  "swap_name": "Ross",
+  "correct_label": "E",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54264",
+  "original_name": "Joey",
+  "swap_name": "Monica",
+  "correct_label": "D",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54416",
+  "original_name": "Ross",
+  "swap_name": "Joey",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54150",
+  "original_name": "Joey",
+  "swap_name": "Ross",
+  "correct_label": "D",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54162",
+  "original_name": "Phoebe",
+  "swap_name": "Joey",
+  "correct_label": "E",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54020",
+  "original_name": "Phoebe",
+  "swap_name": "Monica",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54811",
+  "original_name": "Rachel",
+  "swap_name": "Monica",
+  "correct_label": "E",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54169",
+  "original_name": "Phoebe",
+  "swap_name": "Joey",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54159",
+  "original_name": "Phoebe",
+  "swap_name": "Ross",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54018",
+  "original_name": "Phoebe",
+  "swap_name": "Rachel",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54726",
+  "original_name": "Ross",
+  "swap_name": "Rachel",
+  "correct_label": "E",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54250",
+  "original_name": "Rachel",
+  "swap_name": "Monica",
+  "correct_label": "A",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54176",
+  "original_name": "Ross",
+  "swap_name": "Chandler",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54248",
+  "original_name": "Phoebe",
+  "swap_name": "Ross",
+  "correct_label": "F",
+  "orig_pred": "A",
+  "swap_pred": "B",
+  "orig_correct": false,
+  "answer_changed": true
+ },
+ {
+  "question_id": "54895",
+  "original_name": "Phoebe",
+  "swap_name": "Rachel",
+  "correct_label": "D",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54027",
+  "original_name": "Rachel",
+  "swap_name": "Joey",
+  "correct_label": "B",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54419",
+  "original_name": "Phoebe",
+  "swap_name": "Rachel",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54594",
+  "original_name": "Joey",
+  "swap_name": "Ross",
+  "correct_label": "C",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "54897",
+  "original_name": "Monica",
+  "swap_name": "Rachel",
+  "correct_label": "C",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": false
+ }
+]

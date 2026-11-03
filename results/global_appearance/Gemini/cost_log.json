@@ -1,0 +1,560 @@
+{
+ "total_usd": 8.430223100000003,
+ "total_input_tokens": 28094927,
+ "total_output_tokens": 698,
+ "queries": [
+  {
+   "qid": "1907",
+   "label": "nameswap_orig",
+   "input_tokens": 346465,
+   "output_tokens": 9,
+   "cost_usd": 0.103962
+  },
+  {
+   "qid": "1907",
+   "label": "nameswap_orig",
+   "input_tokens": 346465,
+   "output_tokens": 9,
+   "cost_usd": 0.103962
+  },
+  {
+   "qid": "1907",
+   "label": "nameswap_swap",
+   "input_tokens": 346465,
+   "output_tokens": 9,
+   "cost_usd": 0.103962
+  },
+  {
+   "qid": "1891",
+   "label": "nameswap_orig",
+   "input_tokens": 364586,
+   "output_tokens": 1,
+   "cost_usd": 0.10937830000000001
+  },
+  {
+   "qid": "1891",
+   "label": "nameswap_swap",
+   "input_tokens": 364586,
+   "output_tokens": 1,
+   "cost_usd": 0.10937830000000001
+  },
+  {
+   "qid": "1905",
+   "label": "nameswap_orig",
+   "input_tokens": 346460,
+   "output_tokens": 1,
+   "cost_usd": 0.1039405
+  },
+  {
+   "qid": "1905",
+   "label": "nameswap_orig",
+   "input_tokens": 346460,
+   "output_tokens": 9,
+   "cost_usd": 0.1039605
+  },
+  {
+   "qid": "1905",
+   "label": "nameswap_orig",
+   "input_tokens": 346460,
+   "output_tokens": 9,
+   "cost_usd": 0.1039605
+  },
+  {
+   "qid": "1905",
+   "label": "nameswap_orig",
+   "input_tokens": 346460,
+   "output_tokens": 9,
+   "cost_usd": 0.1039605
+  },
+  {
+   "qid": "1905",
+   "label": "nameswap_orig",
+   "input_tokens": 346460,
+   "output_tokens": 9,
+   "cost_usd": 0.1039605
+  },
+  {
+   "qid": "1905",
+   "label": "nameswap_orig",
+   "input_tokens": 346460,
+   "output_tokens": 9,
+   "cost_usd": 0.1039605
+  },
+  {
+   "qid": "1905",
+   "label": "nameswap_orig",
+   "input_tokens": 346460,
+   "output_tokens": 9,
+   "cost_usd": 0.1039605
+  },
+  {
+   "qid": "1905",
+   "label": "nameswap_orig",
+   "input_tokens": 346460,
+   "output_tokens": 9,
+   "cost_usd": 0.1039605
+  },
+  {
+   "qid": "1970",
+   "label": "nameswap_orig",
+   "input_tokens": 341499,
+   "output_tokens": 9,
+   "cost_usd": 0.10247219999999999
+  },
+  {
+   "qid": "1970",
+   "label": "nameswap_swap",
+   "input_tokens": 341499,
+   "output_tokens": 43,
+   "cost_usd": 0.10255719999999999
+  },
+  {
+   "qid": "1946",
+   "label": "nameswap_orig",
+   "input_tokens": 334667,
+   "output_tokens": 15,
+   "cost_usd": 0.10043759999999999
+  },
+  {
+   "qid": "1946",
+   "label": "nameswap_swap",
+   "input_tokens": 334667,
+   "output_tokens": 9,
+   "cost_usd": 0.10042259999999999
+  },
+  {
+   "qid": "1943",
+   "label": "nameswap_orig",
+   "input_tokens": 364470,
+   "output_tokens": 1,
+   "cost_usd": 0.1093435
+  },
+  {
+   "qid": "1943",
+   "label": "nameswap_orig",
+   "input_tokens": 364470,
+   "output_tokens": 1,
+   "cost_usd": 0.1093435
+  },
+  {
+   "qid": "1943",
+   "label": "nameswap_orig",
+   "input_tokens": 364470,
+   "output_tokens": 1,
+   "cost_usd": 0.1093435
+  },
+  {
+   "qid": "1943",
+   "label": "nameswap_orig",
+   "input_tokens": 364470,
+   "output_tokens": 1,
+   "cost_usd": 0.1093435
+  },
+  {
+   "qid": "1943",
+   "label": "nameswap_orig",
+   "input_tokens": 364470,
+   "output_tokens": 1,
+   "cost_usd": 0.1093435
+  },
+  {
+   "qid": "1943",
+   "label": "nameswap_orig",
+   "input_tokens": 364470,
+   "output_tokens": 1,
+   "cost_usd": 0.1093435
+  },
+  {
+   "qid": "1943",
+   "label": "nameswap_swap",
+   "input_tokens": 364470,
+   "output_tokens": 7,
+   "cost_usd": 0.1093585
+  },
+  {
+   "qid": "2000",
+   "label": "nameswap_orig",
+   "input_tokens": 365357,
+   "output_tokens": 21,
+   "cost_usd": 0.10965959999999998
+  },
+  {
+   "qid": "2000",
+   "label": "nameswap_orig",
+   "input_tokens": 365357,
+   "output_tokens": 21,
+   "cost_usd": 0.10965959999999998
+  },
+  {
+   "qid": "2000",
+   "label": "nameswap_orig",
+   "input_tokens": 365357,
+   "output_tokens": 21,
+   "cost_usd": 0.10965959999999998
+  },
+  {
+   "qid": "2000",
+   "label": "nameswap_swap",
+   "input_tokens": 365357,
+   "output_tokens": 1,
+   "cost_usd": 0.10960959999999999
+  },
+  {
+   "qid": "1997",
+   "label": "nameswap_orig",
+   "input_tokens": 365348,
+   "output_tokens": 1,
+   "cost_usd": 0.1096069
+  },
+  {
+   "qid": "1997",
+   "label": "nameswap_orig",
+   "input_tokens": 365348,
+   "output_tokens": 1,
+   "cost_usd": 0.1096069
+  },
+  {
+   "qid": "1997",
+   "label": "nameswap_orig",
+   "input_tokens": 365348,
+   "output_tokens": 1,
+   "cost_usd": 0.1096069
+  },
+  {
+   "qid": "1997",
+   "label": "nameswap_orig",
+   "input_tokens": 365348,
+   "output_tokens": 1,
+   "cost_usd": 0.1096069
+  },
+  {
+   "qid": "1997",
+   "label": "nameswap_orig",
+   "input_tokens": 365348,
+   "output_tokens": 1,
+   "cost_usd": 0.1096069
+  },
+  {
+   "qid": "1997",
+   "label": "nameswap_swap",
+   "input_tokens": 365348,
+   "output_tokens": 9,
+   "cost_usd": 0.10962689999999999
+  },
+  {
+   "qid": "1949",
+   "label": "nameswap_orig",
+   "input_tokens": 334767,
+   "output_tokens": 1,
+   "cost_usd": 0.1004326
+  },
+  {
+   "qid": "1949",
+   "label": "nameswap_swap",
+   "input_tokens": 334767,
+   "output_tokens": 7,
+   "cost_usd": 0.1004476
+  },
+  {
+   "qid": "1992",
+   "label": "nameswap_orig",
+   "input_tokens": 365649,
+   "output_tokens": 1,
+   "cost_usd": 0.1096972
+  },
+  {
+   "qid": "1992",
+   "label": "nameswap_orig",
+   "input_tokens": 365649,
+   "output_tokens": 1,
+   "cost_usd": 0.1096972
+  },
+  {
+   "qid": "1992",
+   "label": "nameswap_orig",
+   "input_tokens": 365649,
+   "output_tokens": 1,
+   "cost_usd": 0.1096972
+  },
+  {
+   "qid": "1992",
+   "label": "nameswap_orig",
+   "input_tokens": 365649,
+   "output_tokens": 1,
+   "cost_usd": 0.1096972
+  },
+  {
+   "qid": "1992",
+   "label": "nameswap_orig",
+   "input_tokens": 365649,
+   "output_tokens": 1,
+   "cost_usd": 0.1096972
+  },
+  {
+   "qid": "1992",
+   "label": "nameswap_swap",
+   "input_tokens": 365649,
+   "output_tokens": 1,
+   "cost_usd": 0.1096972
+  },
+  {
+   "qid": "1925",
+   "label": "nameswap_orig",
+   "input_tokens": 335593,
+   "output_tokens": 1,
+   "cost_usd": 0.1006804
+  },
+  {
+   "qid": "1925",
+   "label": "nameswap_orig",
+   "input_tokens": 335593,
+   "output_tokens": 1,
+   "cost_usd": 0.1006804
+  },
+  {
+   "qid": "1925",
+   "label": "nameswap_orig",
+   "input_tokens": 335593,
+   "output_tokens": 1,
+   "cost_usd": 0.1006804
+  },
+  {
+   "qid": "1925",
+   "label": "nameswap_orig",
+   "input_tokens": 335593,
+   "output_tokens": 1,
+   "cost_usd": 0.1006804
+  },
+  {
+   "qid": "1925",
+   "label": "nameswap_orig",
+   "input_tokens": 335593,
+   "output_tokens": 1,
+   "cost_usd": 0.1006804
+  },
+  {
+   "qid": "1925",
+   "label": "nameswap_swap",
+   "input_tokens": 335593,
+   "output_tokens": 7,
+   "cost_usd": 0.1006954
+  },
+  {
+   "qid": "1920",
+   "label": "nameswap_orig",
+   "input_tokens": 369220,
+   "output_tokens": 1,
+   "cost_usd": 0.1107685
+  },
+  {
+   "qid": "1920",
+   "label": "nameswap_orig",
+   "input_tokens": 369220,
+   "output_tokens": 1,
+   "cost_usd": 0.1107685
+  },
+  {
+   "qid": "1920",
+   "label": "nameswap_orig",
+   "input_tokens": 369220,
+   "output_tokens": 1,
+   "cost_usd": 0.1107685
+  },
+  {
+   "qid": "1920",
+   "label": "nameswap_orig",
+   "input_tokens": 369220,
+   "output_tokens": 1,
+   "cost_usd": 0.1107685
+  },
+  {
+   "qid": "1920",
+   "label": "nameswap_orig",
+   "input_tokens": 369220,
+   "output_tokens": 1,
+   "cost_usd": 0.1107685
+  },
+  {
+   "qid": "1920",
+   "label": "nameswap_orig",
+   "input_tokens": 369220,
+   "output_tokens": 1,
+   "cost_usd": 0.1107685
+  },
+  {
+   "qid": "1920",
+   "label": "nameswap_orig",
+   "input_tokens": 369220,
+   "output_tokens": 1,
+   "cost_usd": 0.1107685
+  },
+  {
+   "qid": "1920",
+   "label": "nameswap_orig",
+   "input_tokens": 369220,
+   "output_tokens": 1,
+   "cost_usd": 0.1107685
+  },
+  {
+   "qid": "1999",
+   "label": "nameswap_orig",
+   "input_tokens": 365423,
+   "output_tokens": 1,
+   "cost_usd": 0.1096294
+  },
+  {
+   "qid": "1999",
+   "label": "nameswap_orig",
+   "input_tokens": 365423,
+   "output_tokens": 1,
+   "cost_usd": 0.1096294
+  },
+  {
+   "qid": "1999",
+   "label": "nameswap_orig",
+   "input_tokens": 365423,
+   "output_tokens": 1,
+   "cost_usd": 0.1096294
+  },
+  {
+   "qid": "1999",
+   "label": "nameswap_orig",
+   "input_tokens": 365423,
+   "output_tokens": 1,
+   "cost_usd": 0.1096294
+  },
+  {
+   "qid": "1999",
+   "label": "nameswap_orig",
+   "input_tokens": 365423,
+   "output_tokens": 1,
+   "cost_usd": 0.1096294
+  },
+  {
+   "qid": "1999",
+   "label": "nameswap_orig",
+   "input_tokens": 365423,
+   "output_tokens": 1,
+   "cost_usd": 0.1096294
+  },
+  {
+   "qid": "1999",
+   "label": "nameswap_orig",
+   "input_tokens": 365423,
+   "output_tokens": 1,
+   "cost_usd": 0.1096294
+  },
+  {
+   "qid": "1999",
+   "label": "nameswap_orig",
+   "input_tokens": 365423,
+   "output_tokens": 1,
+   "cost_usd": 0.1096294
+  },
+  {
+   "qid": "1939",
+   "label": "nameswap_orig",
+   "input_tokens": 364626,
+   "output_tokens": 9,
+   "cost_usd": 0.1094103
+  },
+  {
+   "qid": "1939",
+   "label": "nameswap_orig",
+   "input_tokens": 364626,
+   "output_tokens": 9,
+   "cost_usd": 0.1094103
+  },
+  {
+   "qid": "1939",
+   "label": "nameswap_orig",
+   "input_tokens": 364626,
+   "output_tokens": 9,
+   "cost_usd": 0.1094103
+  },
+  {
+   "qid": "1939",
+   "label": "nameswap_orig",
+   "input_tokens": 364626,
+   "output_tokens": 9,
+   "cost_usd": 0.1094103
+  },
+  {
+   "qid": "1939",
+   "label": "nameswap_orig",
+   "input_tokens": 364626,
+   "output_tokens": 9,
+   "cost_usd": 0.1094103
+  },
+  {
+   "qid": "1939",
+   "label": "nameswap_orig",
+   "input_tokens": 364626,
+   "output_tokens": 9,
+   "cost_usd": 0.1094103
+  },
+  {
+   "qid": "1939",
+   "label": "nameswap_swap",
+   "input_tokens": 364626,
+   "output_tokens": 79,
+   "cost_usd": 0.10958530000000001
+  },
+  {
+   "qid": "1937",
+   "label": "nameswap_orig",
+   "input_tokens": 364451,
+   "output_tokens": 79,
+   "cost_usd": 0.1095328
+  },
+  {
+   "qid": "1937",
+   "label": "nameswap_swap",
+   "input_tokens": 364451,
+   "output_tokens": 9,
+   "cost_usd": 0.10935779999999999
+  },
+  {
+   "qid": "1884",
+   "label": "nameswap_orig",
+   "input_tokens": 322592,
+   "output_tokens": 1,
+   "cost_usd": 0.0967801
+  },
+  {
+   "qid": "1884",
+   "label": "nameswap_swap",
+   "input_tokens": 322592,
+   "output_tokens": 81,
+   "cost_usd": 0.09698009999999999
+  },
+  {
+   "qid": "1971",
+   "label": "nameswap_orig",
+   "input_tokens": 341507,
+   "output_tokens": 82,
+   "cost_usd": 0.10265709999999999
+  },
+  {
+   "qid": "1971",
+   "label": "nameswap_swap",
+   "input_tokens": 341507,
+   "output_tokens": 9,
+   "cost_usd": 0.10247459999999999
+  },
+  {
+   "qid": "1879",
+   "label": "nameswap_orig",
+   "input_tokens": 316965,
+   "output_tokens": 1,
+   "cost_usd": 0.095092
+  },
+  {
+   "qid": "1879",
+   "label": "nameswap_orig",
+   "input_tokens": 316965,
+   "output_tokens": 1,
+   "cost_usd": 0.095092
+  }
+ ]
+}

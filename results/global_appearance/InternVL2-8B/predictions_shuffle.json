@@ -1,0 +1,2195 @@
+[
+ {
+  "question_id": "1872",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 3,
+  "gold_label": "D",
+  "gold_original_idx": 0,
+  "correct": false,
+  "perm": [
+   1,
+   2,
+   4,
+   0,
+   3
+  ]
+ },
+ {
+  "question_id": "1873",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 4,
+  "gold_label": "C",
+  "gold_original_idx": 2,
+  "correct": false,
+  "perm": [
+   1,
+   3,
+   2,
+   0,
+   4
+  ]
+ },
+ {
+  "question_id": "1874",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 2,
+  "gold_label": "B",
+  "gold_original_idx": 3,
+  "correct": false,
+  "perm": [
+   1,
+   3,
+   4,
+   2,
+   0
+  ]
+ },
+ {
+  "question_id": "1875",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 4,
+  "gold_label": "D",
+  "gold_original_idx": 4,
+  "correct": true,
+  "perm": [
+   3,
+   2,
+   1,
+   4,
+   0
+  ]
+ },
+ {
+  "question_id": "1876",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 3,
+  "gold_label": "D",
+  "gold_original_idx": 3,
+  "correct": true,
+  "perm": [
+   1,
+   2,
+   0,
+   3,
+   4
+  ]
+ },
+ {
+  "question_id": "1877",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 0,
+  "gold_label": "B",
+  "gold_original_idx": 4,
+  "correct": false,
+  "perm": [
+   2,
+   4,
+   3,
+   0,
+   1
+  ]
+ },
+ {
+  "question_id": "1878",
+  "condition": "shuffle",
+  "prediction": "A",
+  "pred_position": 0,
+  "picked_original_option_idx": 3,
+  "gold_label": "A",
+  "gold_original_idx": 3,
+  "correct": true,
+  "perm": [
+   3,
+   4,
+   2,
+   0,
+   1
+  ]
+ },
+ {
+  "question_id": "1879",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 0,
+  "gold_label": "B",
+  "gold_original_idx": 3,
+  "correct": false,
+  "perm": [
+   1,
+   3,
+   2,
+   4,
+   0
+  ]
+ },
+ {
+  "question_id": "1880",
+  "condition": "shuffle",
+  "prediction": "A",
+  "pred_position": 0,
+  "picked_original_option_idx": 3,
+  "gold_label": "B",
+  "gold_original_idx": 1,
+  "correct": false,
+  "perm": [
+   3,
+   1,
+   4,
+   0,
+   2
+  ]
+ },
+ {
+  "question_id": "1881",
+  "condition": "shuffle",
+  "prediction": "A",
+  "pred_position": 0,
+  "picked_original_option_idx": 4,
+  "gold_label": "A",
+  "gold_original_idx": 4,
+  "correct": true,
+  "perm": [
+   4,
+   0,
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "question_id": "1882",
+  "condition": "shuffle",
+  "prediction": "B",
+  "pred_position": 1,
+  "picked_original_option_idx": 0,
+  "gold_label": "B",
+  "gold_original_idx": 0,
+  "correct": true,
+  "perm": [
+   4,
+   0,
+   2,
+   3,
+   1
+  ]
+ },
+ {
+  "question_id": "1883",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 0,
+  "gold_label": "D",
+  "gold_original_idx": 0,
+  "correct": true,
+  "perm": [
+   2,
+   1,
+   3,
+   0,
+   4
+  ]
+ },
+ {
+  "question_id": "1884",
+  "condition": "shuffle",
+  "prediction": "A",
+  "pred_position": 0,
+  "picked_original_option_idx": 0,
+  "gold_label": "C",
+  "gold_original_idx": 2,
+  "correct": false,
+  "perm": [
+   0,
+   4,
+   2,
+   3,
+   1
+  ]
+ },
+ {
+  "question_id": "1885",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 1,
+  "gold_label": "C",
+  "gold_original_idx": 3,
+  "correct": false,
+  "perm": [
+   2,
+   4,
+   3,
+   0,
+   1
+  ]
+ },
+ {
+  "question_id": "1886",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 1,
+  "gold_label": "B",
+  "gold_original_idx": 3,
+  "correct": false,
+  "perm": [
+   4,
+   3,
+   2,
+   0,
+   1
+  ]
+ },
+ {
+  "question_id": "1887",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 0,
+  "gold_label": "A",
+  "gold_original_idx": 2,
+  "correct": false,
+  "perm": [
+   2,
+   3,
+   4,
+   0,
+   1
+  ]
+ },
+ {
+  "question_id": "1888",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 4,
+  "gold_label": "C",
+  "gold_original_idx": 2,
+  "correct": false,
+  "perm": [
+   0,
+   3,
+   2,
+   1,
+   4
+  ]
+ },
+ {
+  "question_id": "1889",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 0,
+  "gold_label": "D",
+  "gold_original_idx": 0,
+  "correct": true,
+  "perm": [
+   4,
+   2,
+   1,
+   0,
+   3
+  ]
+ },
+ {
+  "question_id": "1890",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 0,
+  "gold_label": "A",
+  "gold_original_idx": 2,
+  "correct": false,
+  "perm": [
+   2,
+   4,
+   3,
+   1,
+   0
+  ]
+ },
+ {
+  "question_id": "1891",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 1,
+  "gold_label": "D",
+  "gold_original_idx": 1,
+  "correct": true,
+  "perm": [
+   4,
+   0,
+   3,
+   1,
+   2
+  ]
+ },
+ {
+  "question_id": "1892",
+  "condition": "shuffle",
+  "prediction": "C",
+  "pred_position": 2,
+  "picked_original_option_idx": 1,
+  "gold_label": "C",
+  "gold_original_idx": 1,
+  "correct": true,
+  "perm": [
+   0,
+   2,
+   1,
+   3,
+   4
+  ]
+ },
+ {
+  "question_id": "1893",
+  "condition": "shuffle",
+  "prediction": "A",
+  "pred_position": 0,
+  "picked_original_option_idx": 4,
+  "gold_label": "A",
+  "gold_original_idx": 4,
+  "correct": true,
+  "perm": [
+   4,
+   0,
+   1,
+   3,
+   2
+  ]
+ },
+ {
+  "question_id": "1894",
+  "condition": "shuffle",
+  "prediction": "B",
+  "pred_position": 1,
+  "picked_original_option_idx": 2,
+  "gold_label": "E",
+  "gold_original_idx": 3,
+  "correct": false,
+  "perm": [
+   0,
+   2,
+   4,
+   1,
+   3
+  ]
+ },
+ {
+  "question_id": "1895",
+  "condition": "shuffle",
+  "prediction": "A",
+  "pred_position": 0,
+  "picked_original_option_idx": 1,
+  "gold_label": "C",
+  "gold_original_idx": 0,
+  "correct": false,
+  "perm": [
+   1,
+   3,
+   0,
+   4,
+   2
+  ]
+ },
+ {
+  "question_id": "1896",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 3,
+  "gold_label": "E",
+  "gold_original_idx": 3,
+  "correct": true,
+  "perm": [
+   1,
+   2,
+   0,
+   4,
+   3
+  ]
+ },
+ {
+  "question_id": "1897",
+  "condition": "shuffle",
+  "prediction": "C",
+  "pred_position": 2,
+  "picked_original_option_idx": 2,
+  "gold_label": "D",
+  "gold_original_idx": 4,
+  "correct": false,
+  "perm": [
+   0,
+   1,
+   2,
+   4,
+   3
+  ]
+ },
+ {
+  "question_id": "1898",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 1,
+  "gold_label": "A",
+  "gold_original_idx": 4,
+  "correct": false,
+  "perm": [
+   4,
+   3,
+   0,
+   2,
+   1
+  ]
+ },
+ {
+  "question_id": "1899",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 4,
+  "gold_label": "C",
+  "gold_original_idx": 0,
+  "correct": false,
+  "perm": [
+   3,
+   1,
+   0,
+   2,
+   4
+  ]
+ },
+ {
+  "question_id": "1900",
+  "condition": "shuffle",
+  "prediction": "B",
+  "pred_position": 1,
+  "picked_original_option_idx": 1,
+  "gold_label": "B",
+  "gold_original_idx": 1,
+  "correct": true,
+  "perm": [
+   2,
+   1,
+   4,
+   0,
+   3
+  ]
+ },
+ {
+  "question_id": "1901",
+  "condition": "shuffle",
+  "prediction": "B",
+  "pred_position": 1,
+  "picked_original_option_idx": 3,
+  "gold_label": "C",
+  "gold_original_idx": 4,
+  "correct": false,
+  "perm": [
+   2,
+   3,
+   4,
+   0,
+   1
+  ]
+ },
+ {
+  "question_id": "1902",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 0,
+  "gold_label": "A",
+  "gold_original_idx": 3,
+  "correct": false,
+  "perm": [
+   3,
+   4,
+   2,
+   0,
+   1
+  ]
+ },
+ {
+  "question_id": "1903",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 2,
+  "gold_label": "C",
+  "gold_original_idx": 0,
+  "correct": false,
+  "perm": [
+   4,
+   1,
+   0,
+   3,
+   2
+  ]
+ },
+ {
+  "question_id": "1904",
+  "condition": "shuffle",
+  "prediction": "A",
+  "pred_position": 0,
+  "picked_original_option_idx": 1,
+  "gold_label": "A",
+  "gold_original_idx": 1,
+  "correct": true,
+  "perm": [
+   1,
+   2,
+   4,
+   3,
+   0
+  ]
+ },
+ {
+  "question_id": "1905",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 3,
+  "gold_label": "E",
+  "gold_original_idx": 3,
+  "correct": true,
+  "perm": [
+   0,
+   4,
+   2,
+   1,
+   3
+  ]
+ },
+ {
+  "question_id": "1906",
+  "condition": "shuffle",
+  "prediction": "A",
+  "pred_position": 0,
+  "picked_original_option_idx": 2,
+  "gold_label": "A",
+  "gold_original_idx": 2,
+  "correct": true,
+  "perm": [
+   2,
+   0,
+   3,
+   1,
+   4
+  ]
+ },
+ {
+  "question_id": "1907",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 4,
+  "gold_label": "B",
+  "gold_original_idx": 2,
+  "correct": false,
+  "perm": [
+   1,
+   2,
+   0,
+   3,
+   4
+  ]
+ },
+ {
+  "question_id": "1908",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 0,
+  "gold_label": "E",
+  "gold_original_idx": 2,
+  "correct": false,
+  "perm": [
+   4,
+   3,
+   1,
+   0,
+   2
+  ]
+ },
+ {
+  "question_id": "1909",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 4,
+  "gold_label": "A",
+  "gold_original_idx": 2,
+  "correct": false,
+  "perm": [
+   2,
+   0,
+   1,
+   4,
+   3
+  ]
+ },
+ {
+  "question_id": "1910",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 1,
+  "gold_label": "E",
+  "gold_original_idx": 1,
+  "correct": true,
+  "perm": [
+   4,
+   3,
+   2,
+   0,
+   1
+  ]
+ },
+ {
+  "question_id": "1911",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 0,
+  "gold_label": "E",
+  "gold_original_idx": 1,
+  "correct": false,
+  "perm": [
+   3,
+   4,
+   2,
+   0,
+   1
+  ]
+ },
+ {
+  "question_id": "1912",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 1,
+  "gold_label": "C",
+  "gold_original_idx": 2,
+  "correct": false,
+  "perm": [
+   4,
+   3,
+   2,
+   0,
+   1
+  ]
+ },
+ {
+  "question_id": "1913",
+  "condition": "shuffle",
+  "prediction": "A",
+  "pred_position": 0,
+  "picked_original_option_idx": 3,
+  "gold_label": "A",
+  "gold_original_idx": 3,
+  "correct": true,
+  "perm": [
+   3,
+   2,
+   4,
+   1,
+   0
+  ]
+ },
+ {
+  "question_id": "1914",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 4,
+  "gold_label": "D",
+  "gold_original_idx": 4,
+  "correct": true,
+  "perm": [
+   0,
+   1,
+   2,
+   4,
+   3
+  ]
+ },
+ {
+  "question_id": "1915",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 3,
+  "gold_label": "A",
+  "gold_original_idx": 0,
+  "correct": false,
+  "perm": [
+   0,
+   2,
+   4,
+   3,
+   1
+  ]
+ },
+ {
+  "question_id": "1916",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 3,
+  "gold_label": "B",
+  "gold_original_idx": 0,
+  "correct": false,
+  "perm": [
+   1,
+   0,
+   4,
+   2,
+   3
+  ]
+ },
+ {
+  "question_id": "1917",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 0,
+  "gold_label": "E",
+  "gold_original_idx": 4,
+  "correct": false,
+  "perm": [
+   3,
+   2,
+   1,
+   0,
+   4
+  ]
+ },
+ {
+  "question_id": "1918",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 4,
+  "gold_label": "E",
+  "gold_original_idx": 3,
+  "correct": false,
+  "perm": [
+   0,
+   1,
+   2,
+   4,
+   3
+  ]
+ },
+ {
+  "question_id": "1919",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 0,
+  "gold_label": "E",
+  "gold_original_idx": 4,
+  "correct": false,
+  "perm": [
+   3,
+   1,
+   2,
+   0,
+   4
+  ]
+ },
+ {
+  "question_id": "1920",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 2,
+  "gold_label": "D",
+  "gold_original_idx": 1,
+  "correct": false,
+  "perm": [
+   0,
+   4,
+   3,
+   1,
+   2
+  ]
+ },
+ {
+  "question_id": "1921",
+  "condition": "shuffle",
+  "prediction": "B",
+  "pred_position": 1,
+  "picked_original_option_idx": 4,
+  "gold_label": "A",
+  "gold_original_idx": 3,
+  "correct": false,
+  "perm": [
+   3,
+   4,
+   1,
+   2,
+   0
+  ]
+ },
+ {
+  "question_id": "1922",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 1,
+  "gold_label": "D",
+  "gold_original_idx": 1,
+  "correct": true,
+  "perm": [
+   0,
+   2,
+   4,
+   1,
+   3
+  ]
+ },
+ {
+  "question_id": "1923",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 4,
+  "gold_label": "D",
+  "gold_original_idx": 4,
+  "correct": true,
+  "perm": [
+   3,
+   2,
+   1,
+   4,
+   0
+  ]
+ },
+ {
+  "question_id": "1924",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 2,
+  "gold_label": "A",
+  "gold_original_idx": 0,
+  "correct": false,
+  "perm": [
+   0,
+   1,
+   4,
+   3,
+   2
+  ]
+ },
+ {
+  "question_id": "1925",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 3,
+  "gold_label": "C",
+  "gold_original_idx": 2,
+  "correct": false,
+  "perm": [
+   0,
+   4,
+   2,
+   3,
+   1
+  ]
+ },
+ {
+  "question_id": "1926",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 2,
+  "gold_label": "E",
+  "gold_original_idx": 1,
+  "correct": false,
+  "perm": [
+   0,
+   4,
+   3,
+   2,
+   1
+  ]
+ },
+ {
+  "question_id": "1927",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 4,
+  "gold_label": "E",
+  "gold_original_idx": 4,
+  "correct": true,
+  "perm": [
+   1,
+   3,
+   0,
+   2,
+   4
+  ]
+ },
+ {
+  "question_id": "1928",
+  "condition": "shuffle",
+  "prediction": "B",
+  "pred_position": 1,
+  "picked_original_option_idx": 1,
+  "gold_label": "B",
+  "gold_original_idx": 1,
+  "correct": true,
+  "perm": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "question_id": "1929",
+  "condition": "shuffle",
+  "prediction": "B",
+  "pred_position": 1,
+  "picked_original_option_idx": 4,
+  "gold_label": "E",
+  "gold_original_idx": 0,
+  "correct": false,
+  "perm": [
+   1,
+   4,
+   2,
+   3,
+   0
+  ]
+ },
+ {
+  "question_id": "1930",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 0,
+  "gold_label": "B",
+  "gold_original_idx": 4,
+  "correct": false,
+  "perm": [
+   3,
+   4,
+   1,
+   2,
+   0
+  ]
+ },
+ {
+  "question_id": "1931",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 2,
+  "gold_label": "E",
+  "gold_original_idx": 1,
+  "correct": false,
+  "perm": [
+   0,
+   3,
+   4,
+   2,
+   1
+  ]
+ },
+ {
+  "question_id": "1932",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 2,
+  "gold_label": "E",
+  "gold_original_idx": 2,
+  "correct": true,
+  "perm": [
+   0,
+   1,
+   3,
+   4,
+   2
+  ]
+ },
+ {
+  "question_id": "1933",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 4,
+  "gold_label": "B",
+  "gold_original_idx": 3,
+  "correct": false,
+  "perm": [
+   0,
+   3,
+   2,
+   1,
+   4
+  ]
+ },
+ {
+  "question_id": "1934",
+  "condition": "shuffle",
+  "prediction": "A",
+  "pred_position": 0,
+  "picked_original_option_idx": 4,
+  "gold_label": "B",
+  "gold_original_idx": 2,
+  "correct": false,
+  "perm": [
+   4,
+   2,
+   3,
+   1,
+   0
+  ]
+ },
+ {
+  "question_id": "1935",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 2,
+  "gold_label": "D",
+  "gold_original_idx": 3,
+  "correct": false,
+  "perm": [
+   4,
+   0,
+   1,
+   3,
+   2
+  ]
+ },
+ {
+  "question_id": "1936",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 0,
+  "gold_label": "D",
+  "gold_original_idx": 0,
+  "correct": true,
+  "perm": [
+   2,
+   1,
+   3,
+   0,
+   4
+  ]
+ },
+ {
+  "question_id": "1937",
+  "condition": "shuffle",
+  "prediction": "C",
+  "pred_position": 2,
+  "picked_original_option_idx": 0,
+  "gold_label": "E",
+  "gold_original_idx": 2,
+  "correct": false,
+  "perm": [
+   4,
+   3,
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "question_id": "1938",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 4,
+  "gold_label": "D",
+  "gold_original_idx": 4,
+  "correct": true,
+  "perm": [
+   1,
+   2,
+   3,
+   4,
+   0
+  ]
+ },
+ {
+  "question_id": "1939",
+  "condition": "shuffle",
+  "prediction": "A",
+  "pred_position": 0,
+  "picked_original_option_idx": 3,
+  "gold_label": "B",
+  "gold_original_idx": 0,
+  "correct": false,
+  "perm": [
+   3,
+   0,
+   1,
+   4,
+   2
+  ]
+ },
+ {
+  "question_id": "1940",
+  "condition": "shuffle",
+  "prediction": "A",
+  "pred_position": 0,
+  "picked_original_option_idx": 0,
+  "gold_label": "E",
+  "gold_original_idx": 2,
+  "correct": false,
+  "perm": [
+   0,
+   1,
+   3,
+   4,
+   2
+  ]
+ },
+ {
+  "question_id": "1941",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 1,
+  "gold_label": "C",
+  "gold_original_idx": 3,
+  "correct": false,
+  "perm": [
+   2,
+   0,
+   3,
+   1,
+   4
+  ]
+ },
+ {
+  "question_id": "1942",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 0,
+  "gold_label": "D",
+  "gold_original_idx": 2,
+  "correct": false,
+  "perm": [
+   1,
+   4,
+   3,
+   2,
+   0
+  ]
+ },
+ {
+  "question_id": "1943",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 1,
+  "gold_label": "E",
+  "gold_original_idx": 1,
+  "correct": true,
+  "perm": [
+   2,
+   0,
+   4,
+   3,
+   1
+  ]
+ },
+ {
+  "question_id": "1944",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 4,
+  "gold_label": "D",
+  "gold_original_idx": 0,
+  "correct": false,
+  "perm": [
+   1,
+   2,
+   3,
+   0,
+   4
+  ]
+ },
+ {
+  "question_id": "1945",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 1,
+  "gold_label": "E",
+  "gold_original_idx": 1,
+  "correct": true,
+  "perm": [
+   2,
+   0,
+   4,
+   3,
+   1
+  ]
+ },
+ {
+  "question_id": "1946",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 4,
+  "gold_label": "E",
+  "gold_original_idx": 4,
+  "correct": true,
+  "perm": [
+   2,
+   1,
+   0,
+   3,
+   4
+  ]
+ },
+ {
+  "question_id": "1947",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 2,
+  "gold_label": "C",
+  "gold_original_idx": 3,
+  "correct": false,
+  "perm": [
+   4,
+   1,
+   3,
+   2,
+   0
+  ]
+ },
+ {
+  "question_id": "1948",
+  "condition": "shuffle",
+  "prediction": "B",
+  "pred_position": 1,
+  "picked_original_option_idx": 3,
+  "gold_label": "E",
+  "gold_original_idx": 0,
+  "correct": false,
+  "perm": [
+   2,
+   3,
+   1,
+   4,
+   0
+  ]
+ },
+ {
+  "question_id": "1949",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 4,
+  "gold_label": "B",
+  "gold_original_idx": 2,
+  "correct": false,
+  "perm": [
+   0,
+   2,
+   3,
+   1,
+   4
+  ]
+ },
+ {
+  "question_id": "1950",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 4,
+  "gold_label": "C",
+  "gold_original_idx": 0,
+  "correct": false,
+  "perm": [
+   1,
+   2,
+   0,
+   3,
+   4
+  ]
+ },
+ {
+  "question_id": "1951",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 0,
+  "gold_label": "C",
+  "gold_original_idx": 1,
+  "correct": false,
+  "perm": [
+   4,
+   2,
+   1,
+   0,
+   3
+  ]
+ },
+ {
+  "question_id": "1952",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 2,
+  "gold_label": "D",
+  "gold_original_idx": 1,
+  "correct": false,
+  "perm": [
+   4,
+   0,
+   3,
+   1,
+   2
+  ]
+ },
+ {
+  "question_id": "1953",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 0,
+  "gold_label": "A",
+  "gold_original_idx": 4,
+  "correct": false,
+  "perm": [
+   4,
+   1,
+   3,
+   2,
+   0
+  ]
+ },
+ {
+  "question_id": "1954",
+  "condition": "shuffle",
+  "prediction": "A",
+  "pred_position": 0,
+  "picked_original_option_idx": 4,
+  "gold_label": "A",
+  "gold_original_idx": 4,
+  "correct": true,
+  "perm": [
+   4,
+   2,
+   0,
+   1,
+   3
+  ]
+ },
+ {
+  "question_id": "1955",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 1,
+  "gold_label": "E",
+  "gold_original_idx": 1,
+  "correct": true,
+  "perm": [
+   3,
+   0,
+   2,
+   4,
+   1
+  ]
+ },
+ {
+  "question_id": "1956",
+  "condition": "shuffle",
+  "prediction": "C",
+  "pred_position": 2,
+  "picked_original_option_idx": 2,
+  "gold_label": "B",
+  "gold_original_idx": 3,
+  "correct": false,
+  "perm": [
+   0,
+   3,
+   2,
+   1,
+   4
+  ]
+ },
+ {
+  "question_id": "1957",
+  "condition": "shuffle",
+  "prediction": "C",
+  "pred_position": 2,
+  "picked_original_option_idx": 1,
+  "gold_label": "C",
+  "gold_original_idx": 1,
+  "correct": true,
+  "perm": [
+   4,
+   2,
+   1,
+   3,
+   0
+  ]
+ },
+ {
+  "question_id": "1958",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 3,
+  "gold_label": "B",
+  "gold_original_idx": 4,
+  "correct": false,
+  "perm": [
+   0,
+   4,
+   1,
+   3,
+   2
+  ]
+ },
+ {
+  "question_id": "1959",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 1,
+  "gold_label": "E",
+  "gold_original_idx": 1,
+  "correct": true,
+  "perm": [
+   3,
+   4,
+   0,
+   2,
+   1
+  ]
+ },
+ {
+  "question_id": "1960",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 4,
+  "gold_label": "E",
+  "gold_original_idx": 4,
+  "correct": true,
+  "perm": [
+   1,
+   3,
+   0,
+   2,
+   4
+  ]
+ },
+ {
+  "question_id": "1961",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 2,
+  "gold_label": "B",
+  "gold_original_idx": 0,
+  "correct": false,
+  "perm": [
+   4,
+   0,
+   3,
+   2,
+   1
+  ]
+ },
+ {
+  "question_id": "1962",
+  "condition": "shuffle",
+  "prediction": "A",
+  "pred_position": 0,
+  "picked_original_option_idx": 0,
+  "gold_label": "D",
+  "gold_original_idx": 4,
+  "correct": false,
+  "perm": [
+   0,
+   3,
+   1,
+   4,
+   2
+  ]
+ },
+ {
+  "question_id": "1963",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 3,
+  "gold_label": "C",
+  "gold_original_idx": 0,
+  "correct": false,
+  "perm": [
+   4,
+   2,
+   0,
+   3,
+   1
+  ]
+ },
+ {
+  "question_id": "1964",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 3,
+  "gold_label": "D",
+  "gold_original_idx": 3,
+  "correct": true,
+  "perm": [
+   1,
+   2,
+   0,
+   3,
+   4
+  ]
+ },
+ {
+  "question_id": "1965",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 3,
+  "gold_label": "C",
+  "gold_original_idx": 4,
+  "correct": false,
+  "perm": [
+   1,
+   0,
+   4,
+   2,
+   3
+  ]
+ },
+ {
+  "question_id": "1966",
+  "condition": "shuffle",
+  "prediction": "C",
+  "pred_position": 2,
+  "picked_original_option_idx": 4,
+  "gold_label": "C",
+  "gold_original_idx": 4,
+  "correct": true,
+  "perm": [
+   0,
+   1,
+   4,
+   3,
+   2
+  ]
+ },
+ {
+  "question_id": "1967",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 4,
+  "gold_label": "B",
+  "gold_original_idx": 2,
+  "correct": false,
+  "perm": [
+   0,
+   2,
+   1,
+   3,
+   4
+  ]
+ },
+ {
+  "question_id": "1968",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 2,
+  "gold_label": "E",
+  "gold_original_idx": 2,
+  "correct": true,
+  "perm": [
+   3,
+   1,
+   4,
+   0,
+   2
+  ]
+ },
+ {
+  "question_id": "1969",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 4,
+  "gold_label": "C",
+  "gold_original_idx": 0,
+  "correct": false,
+  "perm": [
+   2,
+   3,
+   0,
+   1,
+   4
+  ]
+ },
+ {
+  "question_id": "1970",
+  "condition": "shuffle",
+  "prediction": "A",
+  "pred_position": 0,
+  "picked_original_option_idx": 1,
+  "gold_label": "C",
+  "gold_original_idx": 2,
+  "correct": false,
+  "perm": [
+   1,
+   4,
+   2,
+   0,
+   3
+  ]
+ },
+ {
+  "question_id": "1971",
+  "condition": "shuffle",
+  "prediction": "A",
+  "pred_position": 0,
+  "picked_original_option_idx": 3,
+  "gold_label": "A",
+  "gold_original_idx": 3,
+  "correct": true,
+  "perm": [
+   3,
+   0,
+   4,
+   1,
+   2
+  ]
+ },
+ {
+  "question_id": "1972",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 2,
+  "gold_label": "B",
+  "gold_original_idx": 4,
+  "correct": false,
+  "perm": [
+   0,
+   4,
+   1,
+   3,
+   2
+  ]
+ },
+ {
+  "question_id": "1973",
+  "condition": "shuffle",
+  "prediction": "B",
+  "pred_position": 1,
+  "picked_original_option_idx": 4,
+  "gold_label": "E",
+  "gold_original_idx": 3,
+  "correct": false,
+  "perm": [
+   0,
+   4,
+   2,
+   1,
+   3
+  ]
+ },
+ {
+  "question_id": "1974",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 3,
+  "gold_label": "C",
+  "gold_original_idx": 1,
+  "correct": false,
+  "perm": [
+   4,
+   0,
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "question_id": "1975",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 4,
+  "gold_label": "D",
+  "gold_original_idx": 3,
+  "correct": false,
+  "perm": [
+   1,
+   2,
+   0,
+   3,
+   4
+  ]
+ },
+ {
+  "question_id": "1976",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 4,
+  "gold_label": "A",
+  "gold_original_idx": 0,
+  "correct": false,
+  "perm": [
+   0,
+   3,
+   2,
+   4,
+   1
+  ]
+ },
+ {
+  "question_id": "1977",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 1,
+  "gold_label": "E",
+  "gold_original_idx": 1,
+  "correct": true,
+  "perm": [
+   2,
+   0,
+   4,
+   3,
+   1
+  ]
+ },
+ {
+  "question_id": "1978",
+  "condition": "shuffle",
+  "prediction": "C",
+  "pred_position": 2,
+  "picked_original_option_idx": 3,
+  "gold_label": "A",
+  "gold_original_idx": 4,
+  "correct": false,
+  "perm": [
+   4,
+   1,
+   3,
+   0,
+   2
+  ]
+ },
+ {
+  "question_id": "1979",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 0,
+  "gold_label": "E",
+  "gold_original_idx": 4,
+  "correct": false,
+  "perm": [
+   1,
+   2,
+   3,
+   0,
+   4
+  ]
+ },
+ {
+  "question_id": "1980",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 2,
+  "gold_label": "D",
+  "gold_original_idx": 3,
+  "correct": false,
+  "perm": [
+   0,
+   4,
+   1,
+   3,
+   2
+  ]
+ },
+ {
+  "question_id": "1981",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 3,
+  "gold_label": null,
+  "gold_original_idx": 5,
+  "correct": false,
+  "perm": [
+   1,
+   0,
+   4,
+   3,
+   2
+  ]
+ },
+ {
+  "question_id": "1982",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 4,
+  "gold_label": "D",
+  "gold_original_idx": 4,
+  "correct": true,
+  "perm": [
+   2,
+   1,
+   0,
+   4,
+   3
+  ]
+ },
+ {
+  "question_id": "1983",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 2,
+  "gold_label": "E",
+  "gold_original_idx": 4,
+  "correct": false,
+  "perm": [
+   0,
+   1,
+   3,
+   2,
+   4
+  ]
+ },
+ {
+  "question_id": "1984",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 4,
+  "gold_label": "A",
+  "gold_original_idx": 3,
+  "correct": false,
+  "perm": [
+   3,
+   2,
+   0,
+   1,
+   4
+  ]
+ },
+ {
+  "question_id": "1985",
+  "condition": "shuffle",
+  "prediction": "C",
+  "pred_position": 2,
+  "picked_original_option_idx": 2,
+  "gold_label": "B",
+  "gold_original_idx": 1,
+  "correct": false,
+  "perm": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "question_id": "1986",
+  "condition": "shuffle",
+  "prediction": "C",
+  "pred_position": 2,
+  "picked_original_option_idx": 4,
+  "gold_label": "A",
+  "gold_original_idx": 0,
+  "correct": false,
+  "perm": [
+   0,
+   1,
+   4,
+   2,
+   3
+  ]
+ },
+ {
+  "question_id": "1987",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 3,
+  "gold_label": "E",
+  "gold_original_idx": 3,
+  "correct": true,
+  "perm": [
+   0,
+   2,
+   1,
+   4,
+   3
+  ]
+ },
+ {
+  "question_id": "1988",
+  "condition": "shuffle",
+  "prediction": "A",
+  "pred_position": 0,
+  "picked_original_option_idx": 4,
+  "gold_label": "A",
+  "gold_original_idx": 4,
+  "correct": true,
+  "perm": [
+   4,
+   0,
+   3,
+   1,
+   2
+  ]
+ },
+ {
+  "question_id": "1989",
+  "condition": "shuffle",
+  "prediction": "A",
+  "pred_position": 0,
+  "picked_original_option_idx": 4,
+  "gold_label": "A",
+  "gold_original_idx": 4,
+  "correct": true,
+  "perm": [
+   4,
+   2,
+   0,
+   3,
+   1
+  ]
+ },
+ {
+  "question_id": "1990",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 2,
+  "gold_label": "A",
+  "gold_original_idx": 4,
+  "correct": false,
+  "perm": [
+   4,
+   0,
+   3,
+   2,
+   1
+  ]
+ },
+ {
+  "question_id": "1991",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 3,
+  "gold_label": "D",
+  "gold_original_idx": 4,
+  "correct": false,
+  "perm": [
+   2,
+   1,
+   0,
+   4,
+   3
+  ]
+ },
+ {
+  "question_id": "1992",
+  "condition": "shuffle",
+  "prediction": "C",
+  "pred_position": 2,
+  "picked_original_option_idx": 3,
+  "gold_label": null,
+  "gold_original_idx": 5,
+  "correct": false,
+  "perm": [
+   1,
+   2,
+   3,
+   4,
+   0
+  ]
+ },
+ {
+  "question_id": "1993",
+  "condition": "shuffle",
+  "prediction": "A",
+  "pred_position": 0,
+  "picked_original_option_idx": 2,
+  "gold_label": "A",
+  "gold_original_idx": 2,
+  "correct": true,
+  "perm": [
+   2,
+   0,
+   1,
+   4,
+   3
+  ]
+ },
+ {
+  "question_id": "1994",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 2,
+  "gold_label": "C",
+  "gold_original_idx": 3,
+  "correct": false,
+  "perm": [
+   0,
+   1,
+   3,
+   4,
+   2
+  ]
+ },
+ {
+  "question_id": "1995",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 0,
+  "gold_label": "E",
+  "gold_original_idx": 0,
+  "correct": true,
+  "perm": [
+   1,
+   3,
+   4,
+   2,
+   0
+  ]
+ },
+ {
+  "question_id": "1996",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 1,
+  "gold_label": "E",
+  "gold_original_idx": 1,
+  "correct": true,
+  "perm": [
+   0,
+   2,
+   3,
+   4,
+   1
+  ]
+ },
+ {
+  "question_id": "1997",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 1,
+  "gold_label": "A",
+  "gold_original_idx": 2,
+  "correct": false,
+  "perm": [
+   2,
+   0,
+   3,
+   4,
+   1
+  ]
+ },
+ {
+  "question_id": "1998",
+  "condition": "shuffle",
+  "prediction": "E",
+  "pred_position": 4,
+  "picked_original_option_idx": 3,
+  "gold_label": "A",
+  "gold_original_idx": 1,
+  "correct": false,
+  "perm": [
+   1,
+   0,
+   4,
+   2,
+   3
+  ]
+ },
+ {
+  "question_id": "1999",
+  "condition": "shuffle",
+  "prediction": "D",
+  "pred_position": 3,
+  "picked_original_option_idx": 3,
+  "gold_label": "A",
+  "gold_original_idx": 0,
+  "correct": false,
+  "perm": [
+   0,
+   1,
+   4,
+   3,
+   2
+  ]
+ },
+ {
+  "question_id": "2000",
+  "condition": "shuffle",
+  "prediction": "B",
+  "pred_position": 1,
+  "picked_original_option_idx": 3,
+  "gold_label": "B",
+  "gold_original_idx": 3,
+  "correct": true,
+  "perm": [
+   1,
+   3,
+   0,
+   4,
+   2
+  ]
+ }
+]

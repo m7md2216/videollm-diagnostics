@@ -1,0 +1,2648 @@
+[
+ {
+  "question_id": "53862",
+  "question": "In what order does Dr. James Wilson change outfits in this video?",
+  "correct_label": "A",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "51849",
+  "question": "In what order does Howard Wolowitz change outfits in this video?",
+  "correct_label": "C",
+  "prediction": "C",
+  "correct": true,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "51148",
+  "question": "How does Leonard Hofstadter's clothing change from the beginning to the end of this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "54619",
+  "question": "Can you list the order of outfits worn by Monica Geller in this video?",
+  "correct_label": "D",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52317",
+  "question": "How do Dr. Derek Shepherd's clothes change throughout this video?",
+  "correct_label": "D",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52264",
+  "question": "In what order does Robin Scherbatsky change outfits in this video?",
+  "correct_label": "F",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52215",
+  "question": "What is the correct sequence of outfits Barney Stinson wears in this video?",
+  "correct_label": "F",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "51997",
+  "question": "What is the correct sequence of outfit changes for Penny in this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 4.9,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "54613",
+  "question": "Can you outline the order of changing the outfits for Rachel Green in this video?",
+  "correct_label": "D",
+  "prediction": "B",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "51826",
+  "question": "In what order does Bernadette Rostenkowski change outfits in this video?",
+  "correct_label": "F",
+  "prediction": "B",
+  "correct": false,
+  "gap_minutes": 0.9,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "53985",
+  "question": "What is the correct sequence of outfit changes for Dr. Robert Chase in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 1.47,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "53415",
+  "question": "What is the correct sequence of changing the outfits for Dr. Robert Chase in this video?",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 2.6,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "51764",
+  "question": "Can you outline the order of changing the outfits for Raj Koothrappali in this video?",
+  "correct_label": "B",
+  "prediction": "B",
+  "correct": true,
+  "gap_minutes": 1.3,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "53605",
+  "question": "What are the correct chronological outfit changes for Dr. Gregory House in this video?",
+  "correct_label": "F",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52800",
+  "question": "How do Lanie Parish's clothes change throughout this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 1.3,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "51235",
+  "question": "What is the correct sequence of outfit changes for Sheldon Cooper in this video?",
+  "correct_label": "B",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "51186",
+  "question": "How does Bernadette Rostenkowski's clothing change from the beginning to the end of this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 3.63,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "51795",
+  "question": "In what order does Bernadette Rostenkowski change outfits in this video?",
+  "correct_label": "C",
+  "prediction": "B",
+  "correct": false,
+  "gap_minutes": 4.13,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52212",
+  "question": "In what order does Ted Mosby change outfits in this video?",
+  "correct_label": "A",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52241",
+  "question": "What are the correct chronological outfit changes for Marshall Eriksen in this video?",
+  "correct_label": "A",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "53148",
+  "question": "What is the correct sequence of outfit changes for Martha Rodgers in this video?",
+  "correct_label": "B",
+  "prediction": "B",
+  "correct": true,
+  "gap_minutes": 0.9,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "53654",
+  "question": "How do Dr. Eric Foreman's clothes change throughout this video?",
+  "correct_label": "C",
+  "prediction": "B",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "51153",
+  "question": "What is the correct sequence of outfits Amy Farrah Fowler wears in this video?",
+  "correct_label": "F",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 1.9,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "53465",
+  "question": "In what order does Dr. Allison Cameron change outfits in this video?",
+  "correct_label": "E",
+  "prediction": "B",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52188",
+  "question": "Can you list the order of outfits worn by Barney Stinson in this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "54413",
+  "question": "What are the correct chronological outfit changes for Rachel Green in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "53914",
+  "question": "How do Dr. Robert Chase's clothes change throughout this video?",
+  "correct_label": "F",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 0.53,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "54245",
+  "question": "Can you outline the order of changing the outfits for Phoebe Buffay in this video?",
+  "correct_label": "A",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52788",
+  "question": "What are the correct chronological outfit changes for Lanie Parish in this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 4.73,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52213",
+  "question": "What is the correct sequence of outfit changes for Robin Scherbatsky in this video?",
+  "correct_label": "B",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52913",
+  "question": "What is the correct sequence of outfit changes for Martha Rodgers in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 2.7,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "53603",
+  "question": "How do Dr. James Wilson's clothes change throughout this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52329",
+  "question": "What is the sequence of outfit changes for Dr. Jackson Avery in this video?",
+  "correct_label": "D",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 1.3,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "51070",
+  "question": "What is the correct sequence of changing the outfits for Bernadette Rostenkowski in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 2.97,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "54839",
+  "question": "What are the correct chronological outfit changes for Rachel Green in this video?",
+  "correct_label": "C",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52120",
+  "question": "Can you list the order of outfits worn by Lily Aldrin in this video?",
+  "correct_label": "B",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "54171",
+  "question": "What are the correct chronological outfit changes for Chandler Bing in this video?",
+  "correct_label": "F",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52560",
+  "question": "What are the correct chronological outfit changes for Lanie Parish in this video?",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 0.4,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52073",
+  "question": "How do Bernadette Rostenkowski's clothes change throughout this video?",
+  "correct_label": "F",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 0.93,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52211",
+  "question": "What is the correct sequence of outfit changes for Lily Aldrin in this video?",
+  "correct_label": "E",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "54863",
+  "question": "What is the correct sequence of changing the outfits for Rachel Green in this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 2.33,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52542",
+  "question": "How do Alexis Castle's clothes change throughout this video?",
+  "correct_label": "F",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52687",
+  "question": "How do Alexis Castle's clothes change throughout this video?",
+  "correct_label": "B",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "51811",
+  "question": "Can you outline the order of changing the outfits for Howard Wolowitz in this video?",
+  "correct_label": "B",
+  "prediction": "B",
+  "correct": true,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52624",
+  "question": "What are the correct chronological outfit changes for Captain Victoria Gates in this video?",
+  "correct_label": "D",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 0.53,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52569",
+  "question": "What is the correct sequence of outfit changes for Martha Rodgers in this video?",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 0.27,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "53657",
+  "question": "What is the sequence of outfit changes for Dr. Robert Chase in this video?",
+  "correct_label": "E",
+  "prediction": "B",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52288",
+  "question": "What are the correct chronological outfit changes for Barney Stinson in this video?",
+  "correct_label": "F",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "51397",
+  "question": "How does Raj Koothrappali's clothing change from the beginning to the end of this video?",
+  "correct_label": "F",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 4.8,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "54522",
+  "question": "What is the correct sequence of outfits Monica Geller wears in this video?",
+  "correct_label": "D",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52948",
+  "question": "How do Kevin Ryan's clothes change throughout this video?",
+  "correct_label": "B",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "53283",
+  "question": "How does Martha Rodgers's clothing change from the beginning to the end of this video?",
+  "correct_label": "F",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "51924",
+  "question": "Can you list the order of outfits worn by Amy Farrah Fowler in this video?",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 0.77,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52677",
+  "question": "What is the sequence of outfit changes for Kevin Ryan in this video?",
+  "correct_label": "D",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "51650",
+  "question": "What is the correct sequence of outfit changes for Howard Wolowitz in this video?",
+  "correct_label": "C",
+  "prediction": "C",
+  "correct": true,
+  "gap_minutes": 2.2,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "53439",
+  "question": "What are the correct chronological outfit changes for Dr. Gregory House in this video?",
+  "correct_label": "F",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52400",
+  "question": "In what order does Dr. Derek Shepherd change outfits in this video?",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "53751",
+  "question": "Can you outline the order of changing the outfits for Dr. James Wilson in this video?",
+  "correct_label": "B",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "53697",
+  "question": "What is the correct sequence of outfit changes for Dr. Allison Cameron in this video?",
+  "correct_label": "A",
+  "prediction": "B",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52638",
+  "question": "What is the sequence of outfit changes for Martha Rodgers in this video?",
+  "correct_label": "B",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "53552",
+  "question": "In what order does Dr. James Wilson change outfits in this video?",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 2.7,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52178",
+  "question": "Can you outline the order of changing the outfits for Ted Mosby in this video?",
+  "correct_label": "A",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "54253",
+  "question": "Can you list the order of outfits worn by Phoebe Buffay in this video?",
+  "correct_label": "C",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "51599",
+  "question": "What is the correct sequence of outfits Bernadette Rostenkowski wears in this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 0.3,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "51398",
+  "question": "How does Howard Wolowitz's clothing change from the beginning to the end of this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 1.87,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "53954",
+  "question": "What is the sequence of outfit changes for Dr. Allison Cameron in this video?",
+  "correct_label": "B",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 2.3,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52232",
+  "question": "What is the sequence of outfit changes for Lily Aldrin in this video?",
+  "correct_label": "B",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "54995",
+  "question": "Can you outline the order of changing the outfits for Joey Tribbiani in this video?",
+  "correct_label": "F",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52373",
+  "question": "How does Dr. Jackson Avery's clothing change from the beginning to the end of this video?",
+  "correct_label": "C",
+  "prediction": "C",
+  "correct": true,
+  "gap_minutes": 0.3,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "51824",
+  "question": "How does Penny's clothing change from the beginning to the end of this video?",
+  "correct_label": "C",
+  "prediction": "C",
+  "correct": true,
+  "gap_minutes": 1.53,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52926",
+  "question": "Can you outline the order of changing the outfits for Kevin Ryan in this video?",
+  "correct_label": "A",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "53815",
+  "question": "Can you list the order of outfits worn by Dr. Lisa Cuddy in this video?",
+  "correct_label": "C",
+  "prediction": "C",
+  "correct": true,
+  "gap_minutes": 0.43,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52641",
+  "question": "Can you outline the order of changing the outfits for Lanie Parish in this video?",
+  "correct_label": "A",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 1.37,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52125",
+  "question": "In what order does Ted Mosby change outfits in this video?",
+  "correct_label": "D",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 0,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52659",
+  "question": "What is the sequence of outfit changes for Martha Rodgers in this video?",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 0.2,
+  "gap_bucket": "small"
+ },
+ {
+  "question_id": "52419",
+  "question": "What is the correct sequence of changing the outfits for Lanie Parish in this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 7.13,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51615",
+  "question": "What is the correct sequence of outfits Raj Koothrappali wears in this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 8.87,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51830",
+  "question": "What is the correct sequence of changing the outfits for Amy Farrah Fowler in this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 6.13,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51209",
+  "question": "What is the correct sequence of outfits Bernadette Rostenkowski wears in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 9.93,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51489",
+  "question": "What is the correct sequence of outfit changes for Amy Farrah Fowler in this video?",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 8.23,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51761",
+  "question": "What is the correct sequence of changing the outfits for Amy Farrah Fowler in this video?",
+  "correct_label": "D",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 5.5,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51231",
+  "question": "How do Bernadette Rostenkowski's clothes change throughout this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 8.87,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51703",
+  "question": "What is the sequence of outfit changes for Howard Wolowitz in this video?",
+  "correct_label": "B",
+  "prediction": "B",
+  "correct": true,
+  "gap_minutes": 5.27,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51591",
+  "question": "What is the correct sequence of changing the outfits for Howard Wolowitz in this video?",
+  "correct_label": "F",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 6.5,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51432",
+  "question": "What is the correct sequence of changing the outfits for Raj Koothrappali in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 5.9,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51981",
+  "question": "What is the correct sequence of outfit changes for Leonard Hofstadter in this video?",
+  "correct_label": "F",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 6.67,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "52374",
+  "question": "Can you list the order of outfits worn by Dr. Richard Webber in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 8.07,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51833",
+  "question": "Can you outline the order of changing the outfits for Raj Koothrappali in this video?",
+  "correct_label": "E",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 9.03,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51394",
+  "question": "What is the correct sequence of changing the outfits for Raj Koothrappali in this video?",
+  "correct_label": "C",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 5.47,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "52079",
+  "question": "What is the correct sequence of outfits Howard Wolowitz wears in this video?",
+  "correct_label": "C",
+  "prediction": "C",
+  "correct": true,
+  "gap_minutes": 9.07,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51466",
+  "question": "What is the correct sequence of outfits Raj Koothrappali wears in this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 8.4,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "52576",
+  "question": "What is the sequence of outfit changes for Kevin Ryan in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 6.07,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "52613",
+  "question": "Can you list the order of outfits worn by Lanie Parish in this video?",
+  "correct_label": "B",
+  "prediction": "B",
+  "correct": true,
+  "gap_minutes": 6.17,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51135",
+  "question": "What is the correct sequence of changing the outfits for Penny in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 5.57,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "52793",
+  "question": "Can you outline the order of changing the outfits for Lanie Parish in this video?",
+  "correct_label": "D",
+  "prediction": "B",
+  "correct": false,
+  "gap_minutes": 5.0,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51132",
+  "question": "Can you list the order of outfits worn by Bernadette Rostenkowski in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 5.07,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "52762",
+  "question": "What is the correct sequence of changing the outfits for Martha Rodgers in this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 9.07,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51594",
+  "question": "What is the sequence of outfit changes for Raj Koothrappali in this video?",
+  "correct_label": "B",
+  "prediction": "B",
+  "correct": true,
+  "gap_minutes": 6.37,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "53098",
+  "question": "Can you list the order of outfits worn by Lanie Parish in this video?",
+  "correct_label": "D",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 6.07,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51141",
+  "question": "How does Bernadette Rostenkowski's clothing change from the beginning to the end of this video?",
+  "correct_label": "B",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 7.77,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51340",
+  "question": "What are the correct chronological outfit changes for Amy Farrah Fowler in this video?",
+  "correct_label": "F",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 8.67,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51858",
+  "question": "Can you outline the order of changing the outfits for Raj Koothrappali in this video?",
+  "correct_label": "D",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 5.77,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "52484",
+  "question": "Can you list the order of outfits worn by Captain Victoria Gates in this video?",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 6.97,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "52775",
+  "question": "What are the correct chronological outfit changes for Alexis Castle in this video?",
+  "correct_label": "F",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 6.53,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "53302",
+  "question": "What is the correct sequence of outfit changes for Dr. James Wilson in this video?",
+  "correct_label": "B",
+  "prediction": "B",
+  "correct": true,
+  "gap_minutes": 6.63,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "52441",
+  "question": "What is the correct sequence of outfits Lanie Parish wears in this video?",
+  "correct_label": "C",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 7.87,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "53184",
+  "question": "What are the correct chronological outfit changes for Lanie Parish in this video?",
+  "correct_label": "C",
+  "prediction": "C",
+  "correct": true,
+  "gap_minutes": 5.97,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "53686",
+  "question": "How does Dr. Robert Chase's clothing change from the beginning to the end of this video?",
+  "correct_label": "C",
+  "prediction": "B",
+  "correct": false,
+  "gap_minutes": 7.6,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51431",
+  "question": "Can you outline the order of changing the outfits for Howard Wolowitz in this video?",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 8.4,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51206",
+  "question": "What is the correct sequence of changing the outfits for Howard Wolowitz in this video?",
+  "correct_label": "B",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 9.7,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51415",
+  "question": "Can you list the order of outfits worn by Howard Wolowitz in this video?",
+  "correct_label": "B",
+  "prediction": "B",
+  "correct": true,
+  "gap_minutes": 9.37,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "52797",
+  "question": "What is the correct sequence of changing the outfits for Martha Rodgers in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 7.93,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51619",
+  "question": "Can you outline the order of changing the outfits for Penny in this video?",
+  "correct_label": "E",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 9.0,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51698",
+  "question": "What is the correct sequence of outfit changes for Bernadette Rostenkowski in this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 7.47,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51442",
+  "question": "How does Howard Wolowitz's clothing change from the beginning to the end of this video?",
+  "correct_label": "B",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 8.33,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51314",
+  "question": "Can you outline the order of changing the outfits for Bernadette Rostenkowski in this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 9.73,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51249",
+  "question": "Can you list the order of outfits worn by Raj Koothrappali in this video?",
+  "correct_label": "F",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 8.73,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51184",
+  "question": "What is the correct sequence of outfit changes for Howard Wolowitz in this video?",
+  "correct_label": "B",
+  "prediction": "B",
+  "correct": true,
+  "gap_minutes": 8.5,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "52899",
+  "question": "What are the correct chronological outfit changes for Alexis Castle in this video?",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 8.67,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51778",
+  "question": "What is the sequence of outfit changes for Raj Koothrappali in this video?",
+  "correct_label": "B",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 8.23,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51783",
+  "question": "How does Howard Wolowitz's clothing change from the beginning to the end of this video?",
+  "correct_label": "F",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 8.67,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "52543",
+  "question": "How does Lanie Parish's clothing change from the beginning to the end of this video?",
+  "correct_label": "D",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 6.07,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51126",
+  "question": "How does Bernadette Rostenkowski's clothing change from the beginning to the end of this video?",
+  "correct_label": "C",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 7.4,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "52579",
+  "question": "Can you outline the order of changing the outfits for Javier Esposito in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 6.07,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51891",
+  "question": "What is the sequence of outfit changes for Howard Wolowitz in this video?",
+  "correct_label": "A",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 8.6,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51163",
+  "question": "How do Howard Wolowitz's clothes change throughout this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 9.7,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "53026",
+  "question": "In what order does Martha Rodgers change outfits in this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 8.7,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51503",
+  "question": "What is the correct sequence of outfits Bernadette Rostenkowski wears in this video?",
+  "correct_label": "B",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 9.83,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51760",
+  "question": "Can you list the order of outfits worn by Bernadette Rostenkowski in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 5.1,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51180",
+  "question": "What is the correct sequence of changing the outfits for Bernadette Rostenkowski in this video?",
+  "correct_label": "B",
+  "prediction": "B",
+  "correct": true,
+  "gap_minutes": 8.53,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "52069",
+  "question": "Can you list the order of outfits worn by Bernadette Rostenkowski in this video?",
+  "correct_label": "C",
+  "prediction": "C",
+  "correct": true,
+  "gap_minutes": 7.5,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "53769",
+  "question": "What is the sequence of outfit changes for Dr. Lisa Cuddy in this video?",
+  "correct_label": "F",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 9.87,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "53689",
+  "question": "How do Dr. Eric Foreman's clothes change throughout this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 6.53,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51445",
+  "question": "What is the sequence of outfit changes for Raj Koothrappali in this video?",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 8.5,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51964",
+  "question": "What is the correct sequence of outfit changes for Raj Koothrappali in this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 7.83,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51066",
+  "question": "Can you list the order of outfits worn by Amy Farrah Fowler in this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 9.0,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "53546",
+  "question": "What is the correct sequence of outfit changes for Dr. Robert Chase in this video?",
+  "correct_label": "C",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 5.03,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51890",
+  "question": "What is the correct sequence of outfits Raj Koothrappali wears in this video?",
+  "correct_label": "F",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 8.67,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "53188",
+  "question": "What is the correct sequence of changing the outfits for Lanie Parish in this video?",
+  "correct_label": "E",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 7.9,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "53130",
+  "question": "What are the correct chronological outfit changes for Alexis Castle in this video?",
+  "correct_label": "B",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 9.87,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "52584",
+  "question": "What is the correct sequence of outfits Lanie Parish wears in this video?",
+  "correct_label": "C",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 9.73,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "53967",
+  "question": "Can you outline the order of changing the outfits for Dr. Lisa Cuddy in this video?",
+  "correct_label": "D",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 8.07,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51587",
+  "question": "What is the correct sequence of outfits Bernadette Rostenkowski wears in this video?",
+  "correct_label": "C",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 9.97,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51996",
+  "question": "What is the correct sequence of changing the outfits for Bernadette Rostenkowski in this video?",
+  "correct_label": "C",
+  "prediction": "C",
+  "correct": true,
+  "gap_minutes": 8.27,
+  "gap_bucket": "medium"
+ },
+ {
+  "question_id": "51474",
+  "question": "Can you list the order of outfits worn by Howard Wolowitz in this video?",
+  "correct_label": "F",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 14.67,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "52499",
+  "question": "How does Alexis Castle's clothing change from the beginning to the end of this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 12.8,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51060",
+  "question": "How do Howard Wolowitz's clothes change throughout this video?",
+  "correct_label": "B",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 11.37,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51719",
+  "question": "What is the sequence of outfit changes for Bernadette Rostenkowski in this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 14.17,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "53319",
+  "question": "How do Dr. Lisa Cuddy's clothes change throughout this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 13.13,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51507",
+  "question": "Can you list the order of outfits worn by Raj Koothrappali in this video?",
+  "correct_label": "C",
+  "prediction": "C",
+  "correct": true,
+  "gap_minutes": 14.8,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "53451",
+  "question": "Can you outline the order of changing the outfits for Dr. Lisa Cuddy in this video?",
+  "correct_label": "D",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 14.37,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51327",
+  "question": "What is the sequence of outfit changes for Bernadette Rostenkowski in this video?",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 10.37,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51779",
+  "question": "What is the sequence of outfit changes for Bernadette Rostenkowski in this video?",
+  "correct_label": "A",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 13.47,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51525",
+  "question": "What are the correct chronological outfit changes for Bernadette Rostenkowski in this video?",
+  "correct_label": "C",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 11.83,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51467",
+  "question": "In what order does Bernadette Rostenkowski change outfits in this video?",
+  "correct_label": "A",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 14.37,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51988",
+  "question": "Can you list the order of outfits worn by Bernadette Rostenkowski in this video?",
+  "correct_label": "F",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 12.07,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51478",
+  "question": "What is the sequence of outfit changes for Penny in this video?",
+  "correct_label": "C",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 14.8,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "53933",
+  "question": "What is the correct sequence of outfits Dr. Lisa Cuddy wears in this video?",
+  "correct_label": "A",
+  "prediction": "B",
+  "correct": false,
+  "gap_minutes": 12.67,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "53728",
+  "question": "In what order does Dr. Lisa Cuddy change outfits in this video?",
+  "correct_label": "F",
+  "prediction": "B",
+  "correct": false,
+  "gap_minutes": 10.7,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51055",
+  "question": "What is the correct sequence of outfits Raj Koothrappali wears in this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 14.57,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "54985",
+  "question": "What is the sequence of outfit changes for Chandler Bing in this video?",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 13.27,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51864",
+  "question": "What are the correct chronological outfit changes for Howard Wolowitz in this video?",
+  "correct_label": "A",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 13.27,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "53142",
+  "question": "What is the sequence of outfit changes for Lanie Parish in this video?",
+  "correct_label": "B",
+  "prediction": "B",
+  "correct": true,
+  "gap_minutes": 10.03,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51109",
+  "question": "What are the correct chronological outfit changes for Howard Wolowitz in this video?",
+  "correct_label": "F",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 11.33,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51334",
+  "question": "Can you list the order of outfits worn by Raj Koothrappali in this video?",
+  "correct_label": "F",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 12.3,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51960",
+  "question": "How does Raj Koothrappali's clothing change from the beginning to the end of this video?",
+  "correct_label": "B",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 11.53,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51814",
+  "question": "What are the correct chronological outfit changes for Raj Koothrappali in this video?",
+  "correct_label": "D",
+  "prediction": "B",
+  "correct": false,
+  "gap_minutes": 14.2,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51662",
+  "question": "How do Amy Farrah Fowler's clothes change throughout this video?",
+  "correct_label": "B",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 10.73,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51222",
+  "question": "What is the correct sequence of outfit changes for Penny in this video?",
+  "correct_label": "C",
+  "prediction": "C",
+  "correct": true,
+  "gap_minutes": 13.5,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51663",
+  "question": "How does Raj Koothrappali's clothing change from the beginning to the end of this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 14.83,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "54741",
+  "question": "How do Monica Geller's clothes change throughout this video?",
+  "correct_label": "F",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 14.43,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51259",
+  "question": "How do Raj Koothrappali's clothes change throughout this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 13.4,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51270",
+  "question": "What are the correct chronological outfit changes for Amy Farrah Fowler in this video?",
+  "correct_label": "B",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 13.03,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "53086",
+  "question": "How does Martha Rodgers's clothing change from the beginning to the end of this video?",
+  "correct_label": "B",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 13.67,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51236",
+  "question": "In what order does Howard Wolowitz change outfits in this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 12.67,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "53781",
+  "question": "How do Dr. James Wilson's clothes change throughout this video?",
+  "correct_label": "B",
+  "prediction": "B",
+  "correct": true,
+  "gap_minutes": 10.93,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51366",
+  "question": "Can you outline the order of changing the outfits for Penny in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 14.53,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51370",
+  "question": "What is the correct sequence of changing the outfits for Amy Farrah Fowler in this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 14.87,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "52959",
+  "question": "How do Alexis Castle's clothes change throughout this video?",
+  "correct_label": "B",
+  "prediction": "B",
+  "correct": true,
+  "gap_minutes": 12.27,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "54419",
+  "question": "Can you list the order of outfits worn by Phoebe Buffay in this video?",
+  "correct_label": "C",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 12.77,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51480",
+  "question": "What is the sequence of outfit changes for Raj Koothrappali in this video?",
+  "correct_label": "C",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 11.4,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51720",
+  "question": "What are the correct chronological outfit changes for Bernadette Rostenkowski in this video?",
+  "correct_label": "B",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 11.53,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "53720",
+  "question": "What is the correct sequence of outfit changes for Dr. James Wilson in this video?",
+  "correct_label": "B",
+  "prediction": "B",
+  "correct": true,
+  "gap_minutes": 13.53,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "52111",
+  "question": "Can you list the order of outfits worn by Bernadette Rostenkowski in this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 13.47,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51548",
+  "question": "Can you list the order of outfits worn by Howard Wolowitz in this video?",
+  "correct_label": "E",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 12.47,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51528",
+  "question": "Can you outline the order of changing the outfits for Raj Koothrappali in this video?",
+  "correct_label": "F",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 13.2,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51834",
+  "question": "What is the correct sequence of changing the outfits for Howard Wolowitz in this video?",
+  "correct_label": "E",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 12.47,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "52044",
+  "question": "Can you outline the order of changing the outfits for Penny in this video?",
+  "correct_label": "C",
+  "prediction": "C",
+  "correct": true,
+  "gap_minutes": 14.83,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "52348",
+  "question": "What is the sequence of outfit changes for Dr. Jo Wilson in this video?",
+  "correct_label": "F",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 14.0,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "53539",
+  "question": "What is the correct sequence of changing the outfits for Dr. Eric Foreman in this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 14.0,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "52477",
+  "question": "What is the sequence of outfit changes for Lanie Parish in this video?",
+  "correct_label": "E",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 13.2,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51351",
+  "question": "Can you outline the order of changing the outfits for Raj Koothrappali in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 10.4,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51678",
+  "question": "Can you outline the order of changing the outfits for Howard Wolowitz in this video?",
+  "correct_label": "A",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 12.3,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51606",
+  "question": "What is the sequence of outfit changes for Raj Koothrappali in this video?",
+  "correct_label": "F",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 14.43,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51227",
+  "question": "What is the correct sequence of outfits Raj Koothrappali wears in this video?",
+  "correct_label": "F",
+  "prediction": "B",
+  "correct": false,
+  "gap_minutes": 13.8,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51887",
+  "question": "Can you list the order of outfits worn by Howard Wolowitz in this video?",
+  "correct_label": "B",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 11.23,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51111",
+  "question": "How does Raj Koothrappali's clothing change from the beginning to the end of this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 11.27,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "54931",
+  "question": "What is the correct sequence of outfit changes for Monica Geller in this video?",
+  "correct_label": "C",
+  "prediction": "C",
+  "correct": true,
+  "gap_minutes": 11.37,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "54465",
+  "question": "How do Monica Geller's clothes change throughout this video?",
+  "correct_label": "D",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 12.6,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51637",
+  "question": "What is the correct sequence of changing the outfits for Raj Koothrappali in this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 13.3,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51563",
+  "question": "Can you list the order of outfits worn by Raj Koothrappali in this video?",
+  "correct_label": "A",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 14.9,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51072",
+  "question": "In what order does Amy Farrah Fowler change outfits in this video?",
+  "correct_label": "F",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 13.97,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51237",
+  "question": "What is the correct sequence of changing the outfits for Raj Koothrappali in this video?",
+  "correct_label": "C",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 12.6,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51223",
+  "question": "What are the correct chronological outfit changes for Raj Koothrappali in this video?",
+  "correct_label": "B",
+  "prediction": "B",
+  "correct": true,
+  "gap_minutes": 14.2,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51234",
+  "question": "What is the sequence of outfit changes for Amy Farrah Fowler in this video?",
+  "correct_label": "F",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 13.37,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51164",
+  "question": "What is the correct sequence of outfits Raj Koothrappali wears in this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 11.67,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51869",
+  "question": "In what order does Leonard Hofstadter change outfits in this video?",
+  "correct_label": "F",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 12.4,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "53531",
+  "question": "How do Dr. Eric Foreman's clothes change throughout this video?",
+  "correct_label": "F",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 13.53,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51660",
+  "question": "How do Howard Wolowitz's clothes change throughout this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 14.57,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51741",
+  "question": "How does Bernadette Rostenkowski's clothing change from the beginning to the end of this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 14.27,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51549",
+  "question": "What is the sequence of outfit changes for Raj Koothrappali in this video?",
+  "correct_label": "B",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 12.3,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51376",
+  "question": "What is the correct sequence of changing the outfits for Penny in this video?",
+  "correct_label": "C",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 14.4,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "54792",
+  "question": "In what order does Phoebe Buffay change outfits in this video?",
+  "correct_label": "B",
+  "prediction": "B",
+  "correct": true,
+  "gap_minutes": 10.83,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "54868",
+  "question": "What is the correct sequence of outfit changes for Chandler Bing in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 13.4,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "52946",
+  "question": "What is the correct sequence of outfit changes for Lanie Parish in this video?",
+  "correct_label": "F",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 14.73,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51674",
+  "question": "What is the correct sequence of outfit changes for Bernadette Rostenkowski in this video?",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 12.13,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "52071",
+  "question": "What is the correct sequence of changing the outfits for Raj Koothrappali in this video?",
+  "correct_label": "A",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 13.23,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51515",
+  "question": "What is the sequence of outfit changes for Howard Wolowitz in this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 13.67,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51301",
+  "question": "What is the correct sequence of outfits Bernadette Rostenkowski wears in this video?",
+  "correct_label": "F",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 11.93,
+  "gap_bucket": "large"
+ },
+ {
+  "question_id": "51635",
+  "question": "How do Sheldon Cooper's clothes change throughout this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 19.47,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "54476",
+  "question": "How do Rachel Green's clothes change throughout this video?",
+  "correct_label": "A",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 19.73,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53421",
+  "question": "Can you outline the order of changing the outfits for Dr. Robert Chase in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 33.17,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53058",
+  "question": "How do Lanie Parish's clothes change throughout this video?",
+  "correct_label": "C",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 26.33,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53388",
+  "question": "Can you list the order of outfits worn by Dr. Allison Cameron in this video?",
+  "correct_label": "C",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 36.13,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53335",
+  "question": "What is the sequence of outfit changes for Dr. Allison Cameron in this video?",
+  "correct_label": "F",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 28.97,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53596",
+  "question": "In what order does Dr. Robert Chase change outfits in this video?",
+  "correct_label": "F",
+  "prediction": "B",
+  "correct": false,
+  "gap_minutes": 33.1,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "54788",
+  "question": "What is the correct sequence of outfit changes for Monica Geller in this video?",
+  "correct_label": "E",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 18.1,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "51382",
+  "question": "How do Sheldon Cooper's clothes change throughout this video?",
+  "correct_label": "F",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 19.73,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "54541",
+  "question": "How do Monica Geller's clothes change throughout this video?",
+  "correct_label": "C",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 25.1,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "54450",
+  "question": "What is the sequence of outfit changes for Rachel Green in this video?",
+  "correct_label": "B",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 22.1,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "54416",
+  "question": "How does Dr. Ross Geller's clothing change from the beginning to the end of this video?",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 24.9,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "51642",
+  "question": "Can you outline the order of changing the outfits for Penny in this video?",
+  "correct_label": "A",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 15.67,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "51414",
+  "question": "In what order does Leonard Hofstadter change outfits in this video?",
+  "correct_label": "D",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 21.17,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53296",
+  "question": "What are the correct chronological outfit changes for Dr. Robert Chase in this video?",
+  "correct_label": "C",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 31.6,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "54784",
+  "question": "Can you outline the order of changing the outfits for Dr. Ross Geller in this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 23.17,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "52985",
+  "question": "What is the correct sequence of outfits Richard Castle wears in this video?",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 41.2,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "51706",
+  "question": "What is the correct sequence of outfits Bernadette Rostenkowski wears in this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 18.5,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "52524",
+  "question": "What is the sequence of outfit changes for Kate Beckett in this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 41.23,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "52209",
+  "question": "What is the sequence of outfit changes for Ted Mosby in this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 20.83,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "52204",
+  "question": "What is the correct sequence of outfit changes for Marshall Eriksen in this video?",
+  "correct_label": "D",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 21.53,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53930",
+  "question": "In what order does Dr. James Wilson change outfits in this video?",
+  "correct_label": "C",
+  "prediction": "C",
+  "correct": true,
+  "gap_minutes": 24.77,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53507",
+  "question": "Can you outline the order of changing the outfits for Dr. Allison Cameron in this video?",
+  "correct_label": "C",
+  "prediction": "B",
+  "correct": false,
+  "gap_minutes": 21.7,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "51905",
+  "question": "What are the correct chronological outfit changes for Penny in this video?",
+  "correct_label": "E",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 16.73,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53382",
+  "question": "How does Dr. Eric Foreman's clothing change from the beginning to the end of this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 29.5,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "52158",
+  "question": "What is the correct sequence of outfits Barney Stinson wears in this video?",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 17.13,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "52679",
+  "question": "What is the correct sequence of outfits Richard Castle wears in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 41.7,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53575",
+  "question": "Can you outline the order of changing the outfits for Dr. Robert Chase in this video?",
+  "correct_label": "C",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 34.63,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "52530",
+  "question": "Can you outline the order of changing the outfits for Richard Castle in this video?",
+  "correct_label": "F",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 41.27,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "51504",
+  "question": "What is the sequence of outfit changes for Leonard Hofstadter in this video?",
+  "correct_label": "A",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 18.7,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53485",
+  "question": "How do Dr. Eric Foreman's clothes change throughout this video?",
+  "correct_label": "C",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 35.03,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "54002",
+  "question": "Can you outline the order of changing the outfits for Joey Tribbiani in this video?",
+  "correct_label": "F",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 22.13,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "51640",
+  "question": "What is the sequence of outfit changes for Leonard Hofstadter in this video?",
+  "correct_label": "C",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 19.77,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "51360",
+  "question": "In what order does Sheldon Cooper change outfits in this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 17.73,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "54444",
+  "question": "What is the sequence of outfit changes for Phoebe Buffay in this video?",
+  "correct_label": "C",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 20.43,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53951",
+  "question": "What is the sequence of outfit changes for Dr. Lisa Cuddy in this video?",
+  "correct_label": "A",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 40.03,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "51145",
+  "question": "What is the correct sequence of changing the outfits for Howard Wolowitz in this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 18.0,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "51614",
+  "question": "In what order does Sheldon Cooper change outfits in this video?",
+  "correct_label": "A",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 18.57,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "54900",
+  "question": "What are the correct chronological outfit changes for Joey Tribbiani in this video?",
+  "correct_label": "D",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 20.07,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "52458",
+  "question": "What is the correct sequence of outfit changes for Richard Castle in this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 40.47,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "52064",
+  "question": "How do Leonard Hofstadter's clothes change throughout this video?",
+  "correct_label": "B",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 16.73,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53313",
+  "question": "In what order does Dr. Gregory House change outfits in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 38.93,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53696",
+  "question": "How does Dr. James Wilson's clothing change from the beginning to the end of this video?",
+  "correct_label": "C",
+  "prediction": "B",
+  "correct": false,
+  "gap_minutes": 39.17,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53668",
+  "question": "What is the correct sequence of outfit changes for Dr. Eric Foreman in this video?",
+  "correct_label": "A",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 29.6,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "52341",
+  "question": "In what order does Dr. Callie Torres change outfits in this video?",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 30.03,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53289",
+  "question": "What is the correct sequence of changing the outfits for Dr. Gregory House in this video?",
+  "correct_label": "E",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 35.43,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "51406",
+  "question": "How do Howard Wolowitz's clothes change throughout this video?",
+  "correct_label": "C",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 20.4,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "52057",
+  "question": "Can you list the order of outfits worn by Howard Wolowitz in this video?",
+  "correct_label": "A",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 18.6,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53179",
+  "question": "Can you list the order of outfits worn by Martha Rodgers in this video?",
+  "correct_label": "B",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 23.27,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "51069",
+  "question": "How does Leonard Hofstadter's clothing change from the beginning to the end of this video?",
+  "correct_label": "C",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 18.0,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53237",
+  "question": "Can you list the order of outfits worn by Javier Esposito in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 37.47,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "52609",
+  "question": "How do Kate Beckett's clothes change throughout this video?",
+  "correct_label": "D",
+  "prediction": "B",
+  "correct": false,
+  "gap_minutes": 41.53,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "55040",
+  "question": "What is the sequence of outfit changes for Dr. Ross Geller in this video?",
+  "correct_label": "C",
+  "prediction": "C",
+  "correct": true,
+  "gap_minutes": 19.1,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "55044",
+  "question": "What is the correct sequence of outfit changes for Phoebe Buffay in this video?",
+  "correct_label": "C",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 22.93,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53538",
+  "question": "What are the correct chronological outfit changes for Dr. Eric Foreman in this video?",
+  "correct_label": "F",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 39.9,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "52718",
+  "question": "In what order does Javier Esposito change outfits in this video?",
+  "correct_label": "B",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 39.2,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53386",
+  "question": "What is the correct sequence of changing the outfits for Dr. Eric Foreman in this video?",
+  "correct_label": "A",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 34.03,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "54643",
+  "question": "What is the correct sequence of outfit changes for Dr. Ross Geller in this video?",
+  "correct_label": "F",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 19.97,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "54797",
+  "question": "What is the sequence of outfit changes for Joey Tribbiani in this video?",
+  "correct_label": "B",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 26.0,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "55037",
+  "question": "What is the sequence of outfit changes for Phoebe Buffay in this video?",
+  "correct_label": "A",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 19.3,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "54028",
+  "question": "How do Dr. Ross Geller's clothes change throughout this video?",
+  "correct_label": "F",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 19.67,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "54489",
+  "question": "What is the correct sequence of outfits Rachel Green wears in this video?",
+  "correct_label": "B",
+  "prediction": "C",
+  "correct": false,
+  "gap_minutes": 21.77,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "54739",
+  "question": "What is the correct sequence of changing the outfits for Phoebe Buffay in this video?",
+  "correct_label": "F",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 20.67,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53701",
+  "question": "How does Dr. Lisa Cuddy's clothing change from the beginning to the end of this video?",
+  "correct_label": "C",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 30.33,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "51992",
+  "question": "What is the correct sequence of outfit changes for Howard Wolowitz in this video?",
+  "correct_label": "D",
+  "prediction": "D",
+  "correct": true,
+  "gap_minutes": 19.3,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "52202",
+  "question": "In what order does Barney Stinson change outfits in this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 20.1,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "52776",
+  "question": "Can you outline the order of changing the outfits for Richard Castle in this video?",
+  "correct_label": "C",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 40.67,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "52362",
+  "question": "Can you list the order of outfits worn by Dr. Meredith Grey in this video?",
+  "correct_label": "A",
+  "prediction": "A",
+  "correct": true,
+  "gap_minutes": 30.27,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "51405",
+  "question": "Can you list the order of outfits worn by Leonard Hofstadter in this video?",
+  "correct_label": "E",
+  "prediction": "E",
+  "correct": true,
+  "gap_minutes": 20.23,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "54130",
+  "question": "What is the correct sequence of outfit changes for Phoebe Buffay in this video?",
+  "correct_label": "C",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 21.53,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "54818",
+  "question": "How does Phoebe Buffay's clothing change from the beginning to the end of this video?",
+  "correct_label": "A",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 49.8,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "53958",
+  "question": "Can you list the order of outfits worn by Dr. Lisa Cuddy in this video?",
+  "correct_label": "B",
+  "prediction": "A",
+  "correct": false,
+  "gap_minutes": 30.6,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "51416",
+  "question": "In what order does Leonard Hofstadter change outfits in this video?",
+  "correct_label": "B",
+  "prediction": "D",
+  "correct": false,
+  "gap_minutes": 19.23,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "54874",
+  "question": "Can you list the order of outfits worn by Phoebe Buffay in this video?",
+  "correct_label": "A",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 24.13,
+  "gap_bucket": "xlarge"
+ },
+ {
+  "question_id": "52858",
+  "question": "What is the correct sequence of outfits Kevin Ryan wears in this video?",
+  "correct_label": "F",
+  "prediction": "E",
+  "correct": false,
+  "gap_minutes": 37.3,
+  "gap_bucket": "xlarge"
+ }
+]

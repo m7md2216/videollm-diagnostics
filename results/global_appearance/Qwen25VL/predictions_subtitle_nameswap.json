@@ -1,0 +1,402 @@
+[
+ {
+  "question_id": "1907",
+  "original_char": "Bernadette",
+  "swap_char": "Raj",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": true
+ },
+ {
+  "question_id": "1891",
+  "original_char": "Sheldon",
+  "swap_char": "Leonard",
+  "correct_label": "B",
+  "orig_pred": "B",
+  "swap_pred": "B",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1905",
+  "original_char": "Penny",
+  "swap_char": "Leonard",
+  "correct_label": "D",
+  "orig_pred": "D",
+  "swap_pred": "B",
+  "orig_correct": true,
+  "answer_changed": true
+ },
+ {
+  "question_id": "1970",
+  "original_char": "Leonard",
+  "swap_char": "Penny",
+  "correct_label": "C",
+  "orig_pred": "B",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": true
+ },
+ {
+  "question_id": "1946",
+  "original_char": "Bernadette",
+  "swap_char": "Penny",
+  "correct_label": "E",
+  "orig_pred": "E",
+  "swap_pred": "E",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1943",
+  "original_char": "Bernadette",
+  "swap_char": "Sheldon",
+  "correct_label": "B",
+  "orig_pred": "B",
+  "swap_pred": "C",
+  "orig_correct": true,
+  "answer_changed": true
+ },
+ {
+  "question_id": "2000",
+  "original_char": "Raj",
+  "swap_char": "Leonard",
+  "correct_label": "D",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1997",
+  "original_char": "Amy",
+  "swap_char": "Howard",
+  "correct_label": "C",
+  "orig_pred": "C",
+  "swap_pred": "E",
+  "orig_correct": true,
+  "answer_changed": true
+ },
+ {
+  "question_id": "1949",
+  "original_char": "Raj",
+  "swap_char": "Sheldon",
+  "correct_label": "C",
+  "orig_pred": "A",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": true
+ },
+ {
+  "question_id": "1928",
+  "original_char": "Sheldon",
+  "swap_char": "Raj",
+  "correct_label": "B",
+  "orig_pred": "B",
+  "swap_pred": "B",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1992",
+  "original_char": "Penny",
+  "swap_char": "Amy",
+  "correct_label": "F",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1925",
+  "original_char": "Penny",
+  "swap_char": "Howard",
+  "correct_label": "C",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1920",
+  "original_char": "Penny",
+  "swap_char": "Raj",
+  "correct_label": "B",
+  "orig_pred": "E",
+  "swap_pred": "B",
+  "orig_correct": false,
+  "answer_changed": true
+ },
+ {
+  "question_id": "1902",
+  "original_char": "Penny",
+  "swap_char": "Amy",
+  "correct_label": "D",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1999",
+  "original_char": "Sheldon",
+  "swap_char": "Raj",
+  "correct_label": "A",
+  "orig_pred": "E",
+  "swap_pred": "E",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1939",
+  "original_char": "Leonard",
+  "swap_char": "Penny",
+  "correct_label": "A",
+  "orig_pred": "B",
+  "swap_pred": "B",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1937",
+  "original_char": "Howard",
+  "swap_char": "Penny",
+  "correct_label": "C",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1884",
+  "original_char": "Amy",
+  "swap_char": "Bernadette",
+  "correct_label": "C",
+  "orig_pred": "C",
+  "swap_pred": "C",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1971",
+  "original_char": "Howard",
+  "swap_char": "Leonard",
+  "correct_label": "D",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1879",
+  "original_char": "Amy",
+  "swap_char": "Leonard",
+  "correct_label": "D",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1887",
+  "original_char": "Raj",
+  "swap_char": "Bernadette",
+  "correct_label": "C",
+  "orig_pred": "D",
+  "swap_pred": "E",
+  "orig_correct": false,
+  "answer_changed": true
+ },
+ {
+  "question_id": "1893",
+  "original_char": "Howard",
+  "swap_char": "Leonard",
+  "correct_label": "E",
+  "orig_pred": "E",
+  "swap_pred": "E",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1955",
+  "original_char": "Sheldon",
+  "swap_char": "Penny",
+  "correct_label": "B",
+  "orig_pred": "E",
+  "swap_pred": "E",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1894",
+  "original_char": "Raj",
+  "swap_char": "Leonard",
+  "correct_label": "D",
+  "orig_pred": "A",
+  "swap_pred": "C",
+  "orig_correct": false,
+  "answer_changed": true
+ },
+ {
+  "question_id": "1962",
+  "original_char": "Leonard",
+  "swap_char": "Amy",
+  "correct_label": "E",
+  "orig_pred": "E",
+  "swap_pred": "E",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1991",
+  "original_char": "Bernadette",
+  "swap_char": "Raj",
+  "correct_label": "E",
+  "orig_pred": "B",
+  "swap_pred": "B",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1951",
+  "original_char": "Sheldon",
+  "swap_char": "Howard",
+  "correct_label": "B",
+  "orig_pred": "E",
+  "swap_pred": "B",
+  "orig_correct": false,
+  "answer_changed": true
+ },
+ {
+  "question_id": "1881",
+  "original_char": "Howard",
+  "swap_char": "Amy",
+  "correct_label": "E",
+  "orig_pred": "A",
+  "swap_pred": "E",
+  "orig_correct": false,
+  "answer_changed": true
+ },
+ {
+  "question_id": "1923",
+  "original_char": "Leonard",
+  "swap_char": "Howard",
+  "correct_label": "E",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1922",
+  "original_char": "Amy",
+  "swap_char": "Penny",
+  "correct_label": "B",
+  "orig_pred": "B",
+  "swap_pred": "B",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1972",
+  "original_char": "Amy",
+  "swap_char": "Howard",
+  "correct_label": "E",
+  "orig_pred": "C",
+  "swap_pred": "B",
+  "orig_correct": false,
+  "answer_changed": true
+ },
+ {
+  "question_id": "1933",
+  "original_char": "Leonard",
+  "swap_char": "Bernadette",
+  "correct_label": "D",
+  "orig_pred": "E",
+  "swap_pred": "C",
+  "orig_correct": false,
+  "answer_changed": true
+ },
+ {
+  "question_id": "1942",
+  "original_char": "Amy",
+  "swap_char": "Sheldon",
+  "correct_label": "C",
+  "orig_pred": "C",
+  "swap_pred": "C",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1906",
+  "original_char": "Sheldon",
+  "swap_char": "Raj",
+  "correct_label": "C",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1945",
+  "original_char": "Leonard",
+  "swap_char": "Penny",
+  "correct_label": "B",
+  "orig_pred": "C",
+  "swap_pred": "C",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1874",
+  "original_char": "Raj",
+  "swap_char": "Sheldon",
+  "correct_label": "D",
+  "orig_pred": "A",
+  "swap_pred": "A",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1974",
+  "original_char": "Howard",
+  "swap_char": "Penny",
+  "correct_label": "B",
+  "orig_pred": "B",
+  "swap_pred": "B",
+  "orig_correct": true,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1979",
+  "original_char": "Leonard",
+  "swap_char": "Penny",
+  "correct_label": "E",
+  "orig_pred": "E",
+  "swap_pred": "B",
+  "orig_correct": true,
+  "answer_changed": true
+ },
+ {
+  "question_id": "1995",
+  "original_char": "Howard",
+  "swap_char": "Amy",
+  "correct_label": "A",
+  "orig_pred": "D",
+  "swap_pred": "D",
+  "orig_correct": false,
+  "answer_changed": false
+ },
+ {
+  "question_id": "1908",
+  "original_char": "Amy",
+  "swap_char": "Penny",
+  "correct_label": "C",
+  "orig_pred": "E",
+  "swap_pred": "E",
+  "orig_correct": false,
+  "answer_changed": false
+ }
+]

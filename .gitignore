@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+# never commit video, frames or images (TVQA agreement)
+*.mp4
+*.mkv
+*.avi
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.webp
+*.zip
+fig1_assets/
+# spreadsheets
+*.xlsx

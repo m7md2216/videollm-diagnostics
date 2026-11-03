@@ -1,0 +1,2706 @@
+[
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1975",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response lists red shirt/black skirt, blue shirt/black skirt, and blue shirt/black vest, none of which matches the ground-truth dark purple long-sleeve top.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists red shirt/black skirt, blue shirt/black skirt, and blue shirt/black vest, none of which matches the ground-truth dark purple long-sleeve top.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1880",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes white, yellow and red shirts with ties and a lab coat, none of which match the ground-truth khaki shirt over a grey rainbow t-shirt with a black watch.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes white, yellow and red shirts with ties and a lab coat, none of which match the ground-truth khaki shirt over a grey rainbow t-shirt with a black watch.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1873",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes only black and white outfits and never mentions the ground-truth purple plaid shirt or the sleeveless light purple patterned top.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes only black and white outfits and never mentions the ground-truth purple plaid shirt or the sleeveless light purple patterned top.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1892",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes red shirt/black vest outfits and never mentions the multicolored harlequin costume with ruff collar and ruffled cuffs, so no ground-truth outfit is identifiable.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes red shirt/black vest outfits and never mentions the multicolored harlequin costume with ruff collar and ruffled cuffs, so no ground-truth outfit is identifiable.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1890",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes striped shirts with red or black skirts, none of which match the ground-truth outfits (red butterfly tee under a floral hooded jacket, maroon embroidered dress, multicolored floral dress with a green cardigan).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes striped shirts with red or black skirts, none of which match the ground-truth outfits (red butterfly tee under a floral hooded jacket, maroon embroidered dress, multicolored floral dress with a green cardigan).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1984",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes only black and white striped shirt with black skirt/jacket outfits, none of which match the ground-truth tie-dye t-shirt with pink pants or the grey floral camisole.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes only black and white striped shirt with black skirt/jacket outfits, none of which match the ground-truth tie-dye t-shirt with pink pants or the grey floral camisole.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1881",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a white lab coat, red shirt, yellow shirt and black vest, none of which match the ground-truth dark plaid shirt with orange turtleneck.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a white lab coat, red shirt, yellow shirt and black vest, none of which match the ground-truth dark plaid shirt with orange turtleneck.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1995",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes blue/white and red/white striped shirts, which don't match the red and black striped shirt over a black turtleneck or the teal button-up over a black turtleneck, and it never mentions a turtleneck.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes blue/white and red/white striped shirts, which don't match the red and black striped shirt over a black turtleneck or the teal button-up over a black turtleneck, and it never mentions a turtleneck.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1953",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The ground truth is a purple sweater with a wavy neckline and glasses, but the response describes only pink shirts/sweater and black skirts/vest, with no purple sweater, so no ground-truth outfit is identifiable.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The ground truth is a purple sweater with a wavy neckline and glasses, but the response describes only pink shirts/sweater and black skirts/vest, with no purple sweater, so no ground-truth outfit is identifiable.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1879",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes black and white striped/dress outfits with black cardigans, none of which match the ground-truth red plaid shirt with red vest or floral shirt with blue vest.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes black and white striped/dress outfits with black cardigans, none of which match the ground-truth red plaid shirt with red vest or floral shirt with blue vest.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1926",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a blue shirt with red skirt, blue sweater, black and red jackets, none of which match the ground-truth brown sweater/purple shirt/blue skirt or dark cardigan/light brown shirt/green skirt outfits.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a blue shirt with red skirt, blue sweater, black and red jackets, none of which match the ground-truth brown sweater/purple shirt/blue skirt or dark cardigan/light brown shirt/green skirt outfits.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1991",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes black/white striped shirts, skirts and a black dress; neither the dark sheer blouse nor the red floral blouse is identifiable.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes black/white striped shirts, skirts and a black dress; neither the dark sheer blouse nor the red floral blouse is identifiable.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1932",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes black cardigans, red shirts and black skirts, none of which match the ground-truth orange cardigan over a floral dress.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes black cardigans, red shirts and black skirts, none of which match the ground-truth orange cardigan over a floral dress.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1878",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response repeats a green shirt with black vest, which matches neither the blue pajamas nor the plaid shirt with mustard pants.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response repeats a green shirt with black vest, which matches neither the blue pajamas nor the plaid shirt with mustard pants.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1923",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a white lab coat over a purple shirt and black or white pants, none of which matches the ground-truth beige jacket over blue hoodie or green jacket over yellow t-shirt.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a white lab coat over a purple shirt and black or white pants, none of which matches the ground-truth beige jacket over blue hoodie or green jacket over yellow t-shirt.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1940",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes a blue shirt with black jacket and a yellow shirt with black jacket, none of which match the ground-truth brown t-shirt under a green jacket over a checkered shirt.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a blue shirt with black jacket and a yellow shirt with black jacket, none of which match the ground-truth brown t-shirt under a green jacket over a checkered shirt.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1960",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response lists red, blue and purple sweaters over a white shirt, none of which match the ground-truth pink cardigan with floral dress or brown jacket over a yellow top.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists red, blue and purple sweaters over a white shirt, none of which match the ground-truth pink cardigan with floral dress or brown jacket over a yellow top.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1980",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a red shirt with black pants and a black dress, none of which match the ground-truth light pink shirt, beige buttoned vest and dark skirt.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a red shirt with black pants and a black dress, none of which match the ground-truth light pink shirt, beige buttoned vest and dark skirt.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1872",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes green and blue shirts with brown pants, which match neither the grey jacket over a striped sweater nor the striped sweater over a striped shirt.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes green and blue shirts with brown pants, which match neither the grey jacket over a striped sweater nor the striped sweater over a striped shirt.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1962",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a red shirt and blue sweater vest, which match none of the ground-truth outfits (blue or orange t-shirt under a green jacket, or a purple hoodie under a purple jacket).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a red shirt and blue sweater vest, which match none of the ground-truth outfits (blue or orange t-shirt under a green jacket, or a purple hoodie under a purple jacket).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1996",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes a black dress with red top and black cardigan, then pink dresses with black cardigans; none match the ground truth outfits (pink cardigan over blue floral dress, black dress, white pajamas).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a black dress with red top and black cardigan, then pink dresses with black cardigans; none match the ground truth outfits (pink cardigan over blue floral dress, black dress, white pajamas).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1985",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes generic striped shirt, tie and sweater vest outfits that match none of the ground-truth outfits (grey sweater/red shirt, dark green shirt/purple turtleneck, etc.).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes generic striped shirt, tie and sweater vest outfits that match none of the ground-truth outfits (grey sweater/red shirt, dark green shirt/purple turtleneck, etc.).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1952",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response repeats a blue shirt with a black vest and black pants. The ground truth has a blue shirt with a blue sleeveless sweater, and the black vest does not match it. The pink shirt with purple sweater is missing entirely.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response repeats a blue shirt with a black vest and black pants. The ground truth has a blue shirt with a blue sleeveless sweater, and the black vest does not match it. The pink shirt with purple sweater is missing entirely.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1990",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes green/blue shirts with a yellow vest, which match neither the grey plaid shirt with cardigan nor the yellow and black plaid shirt in the ground truth.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes green/blue shirts with a yellow vest, which match neither the grey plaid shirt with cardigan nor the yellow and black plaid shirt in the ground truth.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1957",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response only describes a blue shirt with a black vest repeated many times, which matches neither the green wind-turbine t-shirt nor the grey hoodie outfit.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response only describes a blue shirt with a black vest repeated many times, which matches neither the green wind-turbine t-shirt nor the grey hoodie outfit.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1945",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a blue/white shirt with yellow/blue graphic tees, none of which match the ground-truth orange tee under a dark hooded jacket, blue tee under a grey hooded jacket, or green tee under a purple hooded jacket.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a blue/white shirt with yellow/blue graphic tees, none of which match the ground-truth orange tee under a dark hooded jacket, blue tee under a grey hooded jacket, or green tee under a purple hooded jacket.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1912",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes black/pink tops with black or white skirts, which match neither the yellow sleeveless dress over a white blouse nor the blue patterned dress with a red cardigan.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes black/pink tops with black or white skirts, which match neither the yellow sleeveless dress over a white blouse nor the blue patterned dress with a red cardigan.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1875",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response lists green and blue shirts with brown pants, which match neither the grey geometric t-shirt over a purple long-sleeve nor the light pink striped button-up.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists green and blue shirts with brown pants, which match neither the grey geometric t-shirt over a purple long-sleeve nor the light pink striped button-up.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1899",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes a red shirt with a blue tie and repeated blue sweaters with ties, none of which match the ground-truth outfits (colorful hoodie, grey HUSKERS tee, blue t-shirt, pink patterned hoodie).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a red shirt with a blue tie and repeated blue sweaters with ties, none of which match the ground-truth outfits (colorful hoodie, grey HUSKERS tee, blue t-shirt, pink patterned hoodie).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1993",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a white t-shirt with a blue jacket and a red and white striped shirt, none of which match the ground-truth outfits (brown/blue-hood jacket with green tee, red patterned robe, brown plaid shirt, black sweater with blue bird).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a white t-shirt with a blue jacket and a red and white striped shirt, none of which match the ground-truth outfits (brown/blue-hood jacket with green tee, red patterned robe, brown plaid shirt, black sweater with blue bird).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1935",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes black dress/white top/black cardigan and red shirt outfits, none of which match the ground-truth maroon sweater over collared shirt with dark pants or the blue sci-fi costume dress with black tights.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes black dress/white top/black cardigan and red shirt outfits, none of which match the ground-truth maroon sweater over collared shirt with dark pants or the blue sci-fi costume dress with black tights.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1919",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "None of the response's outfits (white lab coat over purple shirt, blue sweater) match the ground-truth jackets, sweaters, or pants in garment and colour.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"None of the response's outfits (white lab coat over purple shirt, blue sweater) match the ground-truth jackets, sweaters, or pants in garment and colour.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "2000",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a black shirt with red tie, a blue sweater, a brown jacket and a brown shirt with tie, none of which match the ground-truth blue jacket over a pink patterned shirt or beige blazer over a dark blue patterned sweater.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a black shirt with red tie, a blue sweater, a brown jacket and a brown shirt with tie, none of which match the ground-truth blue jacket over a pink patterned shirt or beige blazer over a dark blue patterned sweater.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1898",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a blue and white striped shirt with a black vest and red tie, which matches none of the ground-truth outfits (purple/yellow striped tee, beige/grey jacket, orange graphic tee, green/grey plaid shirt).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a blue and white striped shirt with a black vest and red tie, which matches none of the ground-truth outfits (purple/yellow striped tee, beige/grey jacket, orange graphic tee, green/grey plaid shirt).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1903",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes red/blue shirts with white collars and black jackets, which match none of the ground-truth outfits (green/red checkered shirt with yellow turtleneck, leather jacket layer, red shirt with black turtleneck).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes red/blue shirts with white collars and black jackets, which match none of the ground-truth outfits (green/red checkered shirt with yellow turtleneck, leather jacket layer, red shirt with black turtleneck).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1988",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes green/blue shirts with a yellow undershirt and black vest, none of which match the ground-truth grey graphic tee under a beige jacket or purple graphic tee under a blue button-up.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes green/blue shirts with a yellow undershirt and black vest, none of which match the ground-truth grey graphic tee under a beige jacket or purple graphic tee under a blue button-up.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1888",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a red shirt with black skirt, then a black shirt with red skirt; neither matches the ground-truth dresses or the orange tank top with floral capri pants.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a red shirt with black skirt, then a black shirt with red skirt; neither matches the ground-truth dresses or the orange tank top with floral capri pants.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1885",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes white blouse, pink shirt, and black skirt/cardigan outfits, none of which match the ground-truth multi-colored plaid shirt or black sweater (a black cardigan is a different garment).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes white blouse, pink shirt, and black skirt/cardigan outfits, none of which match the ground-truth multi-colored plaid shirt or black sweater (a black cardigan is a different garment).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1928",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "The response matches the blue striped long-sleeve shirt (outfits 2 and 3 partially, with a jacket) but misses the first outfit (blue t-shirt and light grey pants), the brown pants, and the beige/white jacket colour, and it adds a fabricated blue tie.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response matches the blue striped long-sleeve shirt (outfits 2 and 3 partially, with a jacket) but misses the first outfit (blue t-shirt and light grey pants), the brown pants, and the beige/white jacket colour, and it adds a fabricated blue tie.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1904",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "None of the ground-truth outfits (blue jacket over maroon sweater and yellow shirt, red jacket over green shirt and maroon sweater, green and black wrestling singlet) appear in the response, which describes a lab coat, black shirt/vest, and red shirt/vest instead.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"None of the ground-truth outfits (blue jacket over maroon sweater and yellow shirt, red jacket over green shirt and maroon sweater, green and black wrestling singlet) appear in the response, which describes a lab coat, black shirt/vest, and red shirt/vest instead.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1931",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a green shirt with a red tie and a red shirt with a white collar and red tie, none of which match the ground-truth turquoise shirt, turquoise/blue checkered shirt with jeans, or red checkered shirt with grey pants.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a green shirt with a red tie and a red shirt with a white collar and red tie, none of which match the ground-truth turquoise shirt, turquoise/blue checkered shirt with jeans, or red checkered shirt with grey pants.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1979",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a red graphic tee, a blue dress shirt with a tie, and a suit jacket, none of which match the ground-truth green button-up over a black shirt.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a red graphic tee, a blue dress shirt with a tie, and a suit jacket, none of which match the ground-truth green button-up over a black shirt.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1964",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response repeats a red shirt with a blue sweater vest three times, which matches none of the ground-truth outfits (the red t-shirt in the ground truth is worn over a blue long sleeve shirt, not under a sweater vest).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response repeats a red shirt with a blue sweater vest three times, which matches none of the ground-truth outfits (the red t-shirt in the ground truth is worn over a blue long sleeve shirt, not under a sweater vest).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1921",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "The white lab coat matches one ground-truth outfit, but it is listed first rather than second, and the purple long-sleeve and beige/brown jacket outfits are missing, replaced by fabricated blue sweater and yellow shirt.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The white lab coat matches one ground-truth outfit, but it is listed first rather than second, and the purple long-sleeve and beige/brown jacket outfits are missing, replaced by fabricated blue sweater and yellow shirt.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1891",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a purple t-shirt with jeans, a red/yellow medieval costume, a pirate costume and a red/yellow Star Trek costume, and none of these match the ground-truth outfits (brown cloak, green t-shirt, graphic purple t-shirt, striped t-shirt, blue Star Trek uniform).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a purple t-shirt with jeans, a red/yellow medieval costume, a pirate costume and a red/yellow Star Trek costume, and none of these match the ground-truth outfits (brown cloak, green t-shirt, graphic purple t-shirt, striped t-shirt, blue Star Trek uniform).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1936",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response lists a green shirt with red tie and repeated red shirts with white collar, none of which match the ground-truth outfits (red jumpsuit, black suit, graphic tees over long sleeves).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists a green shirt with red tie and repeated red shirts with white collar, none of which match the ground-truth outfits (red jumpsuit, black suit, graphic tees over long sleeves).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1939",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response lists generic blue shirt, sweater and tie outfits that match none of the ground-truth outfits (purple graphic tee, red or blue tee under a green jacket, plaid robe).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists generic blue shirt, sweater and tie outfits that match none of the ground-truth outfits (purple graphic tee, red or blue tee under a green jacket, plaid robe).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1981",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a striped shirt with tie and sweater vest outfits, none of which match the ground-truth outfits (striped tee over red shirt, plaid robe, Superman tee, etc.).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a striped shirt with tie and sweater vest outfits, none of which match the ground-truth outfits (striped tee over red shirt, plaid robe, Superman tee, etc.).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1933",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response lists only white dress shirt combinations, none of which match the ground-truth outfits (beige jacket, pink robe, blue/black jacket, purple/orange hooded jacket).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists only white dress shirt combinations, none of which match the ground-truth outfits (beige jacket, pink robe, blue/black jacket, purple/orange hooded jacket).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1902",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response lists a red shirt with black pants, a white sweater, and a black jacket, and none of these matches any ground-truth outfit (colorful hoodie, grey HUSKERS tee, blue tee, pink patterned hoodie).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists a red shirt with black pants, a white sweater, and a black jacket, and none of these matches any ground-truth outfit (colorful hoodie, grey HUSKERS tee, blue tee, pink patterned hoodie).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1969",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes black dresses, a striped shirt, and a red cardigan, none of which match the ground-truth outfits (white floral blouse with grey jacket, black and grey patterned dress, white floral blouse, light blue and white lingerie).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes black dresses, a striped shirt, and a red cardigan, none of which match the ground-truth outfits (white floral blouse with grey jacket, black and grey patterned dress, white floral blouse, light blue and white lingerie).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "LLaVA-NeXT-Video-7B",
+  "question_id": "1924",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes a white lab coat over a purple shirt with black pants, which matches neither the black floral top with a white inner layer nor the beige coat.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a white lab coat over a purple shirt with black pants, which matches neither the black floral top with a white inner layer nor the beige coat.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1975",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a white floral shirt and a blue shirt, neither of which matches the ground-truth dark purple long-sleeve top.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a white floral shirt and a blue shirt, neither of which matches the ground-truth dark purple long-sleeve top.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1880",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response lists black, yellow and red shirts and never mentions the ground-truth khaki shirt over a grey rainbow t-shirt with a black watch, so no outfit matches.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists black, yellow and red shirts and never mentions the ground-truth khaki shirt over a grey rainbow t-shirt with a black watch, so no outfit matches.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1873",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response lists red sweater over plaid, pink, and repeated blue shirts, none of which match the purple plaid shirt or the sleeveless light purple patterned top.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists red sweater over plaid, pink, and repeated blue shirts, none of which match the purple plaid shirt or the sleeveless light purple patterned top.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1892",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The ground truth is a single multicolored harlequin costume with ruff collar and ruffled cuffs; the response lists a knight costume, a purple sweater, and other fabricated outfits, and none clearly match a harlequin costume.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The ground truth is a single multicolored harlequin costume with ruff collar and ruffled cuffs; the response lists a knight costume, a purple sweater, and other fabricated outfits, and none clearly match a harlequin costume.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1890",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response repeats a purple shirt with a blue sweater throughout, which matches none of the ground-truth outfits (red butterfly tee with floral hooded jacket, maroon embroidered dress, multicolored floral dress with green cardigan).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response repeats a purple shirt with a blue sweater throughout, which matches none of the ground-truth outfits (red butterfly tee with floral hooded jacket, maroon embroidered dress, multicolored floral dress with green cardigan).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1984",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "None of the listed outfits match the ground truth (pink and blue tie-dye t-shirt with pink pants, grey camisole with small pink flowers); the response gives generic pink/blue tops with jeans and repeated purple sweaters.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"None of the listed outfits match the ground truth (pink and blue tie-dye t-shirt with pink pants, grey camisole with small pink flowers); the response gives generic pink/blue tops with jeans and repeated purple sweaters.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1881",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response lists a black t-shirt, blue sweater, yellow t-shirt and red shirt, none of which matches the ground-truth dark plaid shirt over an orange turtleneck.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists a black t-shirt, blue sweater, yellow t-shirt and red shirt, none of which matches the ground-truth dark plaid shirt over an orange turtleneck.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1995",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a red and black plaid shirt over a white undershirt, which does not match the red and black striped shirt over a black turtleneck, and it never mentions the teal button-up over a black turtleneck, so no ground-truth outfit is identifiable.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a red and black plaid shirt over a white undershirt, which does not match the red and black striped shirt over a black turtleneck, and it never mentions the teal button-up over a black turtleneck, so no ground-truth outfit is identifiable.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1953",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response lists many fabricated outfits (pink floral blouse, striped shirt, plaid skirt, etc.) and none is a purple sweater with a wavy neckline and glasses; the 'purple vest over purple shirt' is a different garment.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists many fabricated outfits (pink floral blouse, striped shirt, plaid skirt, etc.) and none is a purple sweater with a wavy neckline and glasses; the 'purple vest over purple shirt' is a different garment.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1879",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The first outfit (red plaid shirt) partly matches the ground truth, though the red vest is missing; the floral shirt with a blue vest is not identified (a white floral tank top is described instead), and fabricated outfits like the red and white dress are added.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The first outfit (red plaid shirt) partly matches the ground truth, though the red vest is missing; the floral shirt with a blue vest is not identified (a white floral tank top is described instead), and fabricated outfits like the red and white dress are added.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1926",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "None of the ground-truth outfits (brown sweater over purple shirt with blue skirt; dark cardigan over light brown shirt with green skirt and leggings) appear in the response, which lists a blue sweater with green pants, a yellow top with jeans, and repeated blue-and-white striped shirts with a green jacket.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"None of the ground-truth outfits (brown sweater over purple shirt with blue skirt; dark cardigan over light brown shirt with green skirt and leggings) appear in the response, which lists a blue sweater with green pants, a yellow top with jeans, and repeated blue-and-white striped shirts with a green jacket.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1991",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response repeats a blue floral dress throughout, which matches neither the dark sheer blouse nor the red floral blouse in the ground truth.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response repeats a blue floral dress throughout, which matches neither the dark sheer blouse nor the red floral blouse in the ground truth.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1932",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response lists only blue top, red sweater and blue sweater outfits, none of which match the ground-truth orange cardigan over a floral dress.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists only blue top, red sweater and blue sweater outfits, none of which match the ground-truth orange cardigan over a floral dress.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1878",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "A 'blue plaid shirt' loosely matches the plaid shirt, but the mustard pants are never mentioned. The blue pajamas aren't identified either: the response gives a blue shirt and a green shirt, which don't match. It also adds a fabricated green shirt outfit and repeats the same description many times.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"A 'blue plaid shirt' loosely matches the plaid shirt, but the mustard pants are never mentioned. The blue pajamas aren't identified either: the response gives a blue shirt and a green shirt, which don't match. It also adds a fabricated green shirt outfit and repeats the same description many times.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1923",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes only white lab coats over green or blue shirts, which match neither the beige jacket over a blue hoodie nor the green jacket over a yellow t-shirt, and it repeats the same outfit many times.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes only white lab coats over green or blue shirts, which match neither the beige jacket over a blue hoodie nor the green jacket over a yellow t-shirt, and it repeats the same outfit many times.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1940",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a purple graphic t-shirt and a green DNA-design t-shirt, which do not match the ground truth of a brown t-shirt under a green jacket with a checkered shirt.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a purple graphic t-shirt and a green DNA-design t-shirt, which do not match the ground truth of a brown t-shirt under a green jacket with a checkered shirt.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1960",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes yellow, green and purple sweaters over white collared shirts, none of which match the ground-truth pink cardigan with floral dress or brown jacket over a yellow top.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes yellow, green and purple sweaters over white collared shirts, none of which match the ground-truth pink cardigan with floral dress or brown jacket over a yellow top.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1980",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response lists many repeated single-colour shirts (white floral, blue, red, green, purple) and never describes a light pink shirt with a beige buttoned vest and dark skirt.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists many repeated single-colour shirts (white floral, blue, red, green, purple) and never describes a light pink shirt with a beige buttoned vest and dark skirt.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1872",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes only blue and green shirt-and-jacket outfits, none of which match the ground-truth grey jacket over a striped sweater or the striped sweater over a striped shirt.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes only blue and green shirt-and-jacket outfits, none of which match the ground-truth grey jacket over a striped sweater or the striped sweater over a striped shirt.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1962",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "No ground-truth outfit is matched: the response gives a blue t-shirt with a blue jacket, a green sweater over a white shirt, and a green t-shirt, but none match the ground truth (blue tee under green jacket, orange tee under green jacket, blue tee under purple hoodie and jacket).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"No ground-truth outfit is matched: the response gives a blue t-shirt with a blue jacket, a green sweater over a white shirt, and a green t-shirt, but none match the ground truth (blue tee under green jacket, orange tee under green jacket, blue tee under purple hoodie and jacket).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1996",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "None of the ground-truth outfits (pink cardigan with blue floral dress, black dress, white pajamas) appear; the response lists a pink tank top, green and blue sweaters, and repeated striped shirts.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"None of the ground-truth outfits (pink cardigan with blue floral dress, black dress, white pajamas) appear; the response lists a pink tank top, green and blue sweaters, and repeated striped shirts.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1985",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response repeats a blue shirt with a red vest and striped tie seven times, which matches none of the ground-truth outfits (grey sweater over red collared shirt, dark green shirt over purple turtleneck, etc.).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response repeats a blue shirt with a red vest and striped tie seven times, which matches none of the ground-truth outfits (grey sweater over red collared shirt, dark green shirt over purple turtleneck, etc.).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1952",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes only a blue \\\"73\\\" T-shirt with a tan jacket, repeated; it matches neither the pink shirt with purple sleeveless sweater nor the blue shirt with blue sleeveless sweater.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes only a blue \\\"73\\\" T-shirt with a tan jacket, repeated; it matches neither the pink shirt with purple sleeveless sweater nor the blue shirt with blue sleeveless sweater.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1990",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "None of the described outfits (red shirt, gray jacket over blue shirt, green shirt with yellow collar) match the ground-truth grey plaid shirt/cardigan or yellow and black plaid shirt outfits.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"None of the described outfits (red shirt, gray jacket over blue shirt, green shirt with yellow collar) match the ground-truth grey plaid shirt/cardigan or yellow and black plaid shirt outfits.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1957",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes a blue '73' t-shirt with a tan vest/jacket, which matches neither the green wind-turbine t-shirt nor the grey hoodie with dark sleeveless jacket in the ground truth.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a blue '73' t-shirt with a tan vest/jacket, which matches neither the green wind-turbine t-shirt nor the grey hoodie with dark sleeveless jacket in the ground truth.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1945",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response lists a blue t-shirt and then red t-shirts with no jackets, so none of the ground-truth outfits (orange/dark hooded jacket, blue/grey hooded jacket, green/purple jacket) match. The blue t-shirt has no grey hooded jacket, and the rest is fabricated.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists a blue t-shirt and then red t-shirts with no jackets, so none of the ground-truth outfits (orange/dark hooded jacket, blue/grey hooded jacket, green/purple jacket) match. The blue t-shirt has no grey hooded jacket, and the rest is fabricated.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1912",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response lists a purple patterned shirt and a blue sweater, which match neither the yellow sleeveless dress over a white blouse nor the blue patterned dress with a red cardigan.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists a purple patterned shirt and a blue sweater, which match neither the yellow sleeveless dress over a white blouse nor the blue patterned dress with a red cardigan.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1875",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response lists only blue and green shirts, which match neither the grey geometric t-shirt over a purple long-sleeve nor the light pink striped button-up.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists only blue and green shirts, which match neither the grey geometric t-shirt over a purple long-sleeve nor the light pink striped button-up.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1899",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a blue jacket over a red and white striped shirt and a purple star shirt, none of which match the ground-truth outfits (colorful hoodie, grey HUSKERS tee, blue t-shirt, pink hoodie), and it just repeats itself.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a blue jacket over a red and white striped shirt and a purple star shirt, none of which match the ground-truth outfits (colorful hoodie, grey HUSKERS tee, blue t-shirt, pink hoodie), and it just repeats itself.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1993",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "The response gets the brown jacket (but with a blue shirt, not the green t-shirt), a plaid robe (red/black, not the red patterned robe with a white t-shirt), and the plaid shirt over a white undershirt, but it misses the plain white t-shirt and the black bird sweater, and it pads the list with repeated entries.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response gets the brown jacket (but with a blue shirt, not the green t-shirt), a plaid robe (red/black, not the red patterned robe with a white t-shirt), and the plaid shirt over a white undershirt, but it misses the plain white t-shirt and the black bird sweater, and it pads the list with repeated entries.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1935",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a blue top and white shirt with black vest/tie outfits, none of which match the maroon sweater over collared shirt with dark pants or the blue sci-fi costume dress with black tights.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a blue top and white shirt with black vest/tie outfits, none of which match the maroon sweater over collared shirt with dark pants or the blue sci-fi costume dress with black tights.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1919",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes only a yellow scarf with a brown jacket repeated across scenes, which matches none of the ground-truth outfits (green/blue jacket, red/white jacket, blue/grey jacket).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes only a yellow scarf with a brown jacket repeated across scenes, which matches none of the ground-truth outfits (green/blue jacket, red/white jacket, blue/grey jacket).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "2000",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes a plaid bathrobe, a blue sweater over a white t-shirt, and a yellow blazer over a striped sweater, none of which match the ground-truth blue jacket over a pink patterned shirt or the beige blazer over a dark blue patterned sweater and white shirt.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a plaid bathrobe, a blue sweater over a white t-shirt, and a yellow blazer over a striped sweater, none of which match the ground-truth blue jacket over a pink patterned shirt or the beige blazer over a dark blue patterned sweater and white shirt.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1898",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a blue and white striped shirt with a blue jacket and scarf, which matches none of the ground-truth outfits (purple/yellow striped tee, beige/grey jacket, orange graphic tee, green plaid shirt).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a blue and white striped shirt with a blue jacket and scarf, which matches none of the ground-truth outfits (purple/yellow striped tee, beige/grey jacket, orange graphic tee, green plaid shirt).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1903",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response lists fabricated outfits (white shirt with brown vest, blue star shirt, blue jacket with red/white stripes, green shirt with red collar) and none matches the ground truth's checkered shirt with yellow turtleneck, leather jacket, or red shirt with black turtleneck.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists fabricated outfits (white shirt with brown vest, blue star shirt, blue jacket with red/white stripes, green shirt with red collar) and none matches the ground truth's checkered shirt with yellow turtleneck, leather jacket, or red shirt with black turtleneck.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1988",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes red, blue and green shirts with a tie, none of which match the grey graphic t-shirt under a beige jacket or the purple graphic t-shirt under a blue button-up shirt.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes red, blue and green shirts with a tie, none of which match the grey graphic t-shirt under a beige jacket or the purple graphic t-shirt under a blue button-up shirt.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1888",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes a single red dress with a white collar and apron worn throughout, which matches none of the ground-truth outfits (red/black floral dress, red halter dress with purple/yellow flowers, orange tank top with floral capris).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a single red dress with a white collar and apron worn throughout, which matches none of the ground-truth outfits (red/black floral dress, red halter dress with purple/yellow flowers, orange tank top with floral capris).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1885",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a white lab coat over a blue shirt and a brown vest over a white shirt, neither of which matches the ground-truth multi-colored plaid shirt or black sweater.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a white lab coat over a blue shirt and a brown vest over a white shirt, neither of which matches the ground-truth multi-colored plaid shirt or black sweater.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1928",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "No ground-truth outfit matches: the response gives a blue shirt with green sleeves and khaki pants, then a blue and white striped shirt with a blue and white jacket, repeated many times, which differs in colours, pants and jacket from the ground truth.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"No ground-truth outfit matches: the response gives a blue shirt with green sleeves and khaki pants, then a blue and white striped shirt with a blue and white jacket, repeated many times, which differs in colours, pants and jacket from the ground truth.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1904",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response lists a blue short-sleeved shirt and a red jacket over a blue or white shirt, which match none of the ground-truth outfits (blue jacket over maroon sweater and yellow shirt, red jacket over green shirt and maroon sweater, green and black wrestling singlet); the red jacket is paired with the wrong underlayers and the singlet is missing.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists a blue short-sleeved shirt and a red jacket over a blue or white shirt, which match none of the ground-truth outfits (blue jacket over maroon sweater and yellow shirt, red jacket over green shirt and maroon sweater, green and black wrestling singlet); the red jacket is paired with the wrong underlayers and the singlet is missing.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1931",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "None of the response's outfits (white shirt with black pants, green shirt with blue jeans, red shirt with blue jeans) match the ground truth: a turquoise shirt, blue jeans with a turquoise and blue checkered shirt, or a red checkered shirt with grey pants.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"None of the response's outfits (white shirt with black pants, green shirt with blue jeans, red shirt with blue jeans) match the ground truth: a turquoise shirt, blue jeans with a turquoise and blue checkered shirt, or a red checkered shirt with grey pants.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1979",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes a brown suit and a maroon t-shirt with yellow sleeves, none of which match the ground-truth green button-up over a black shirt.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a brown suit and a maroon t-shirt with yellow sleeves, none of which match the ground-truth green button-up over a black shirt.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1964",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "The response only identifies the blue graphic t-shirt (the second ground-truth outfit) and repeats it for every scene, missing the other four outfits and never showing any change.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response only identifies the blue graphic t-shirt (the second ground-truth outfit) and repeats it for every scene, missing the other four outfits and never showing any change.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1921",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "The response includes the white lab coat and a brown jacket, but it omits the purple long-sleeve t-shirt, adds a yellow scarf, and repeats the order in a way that doesn't match the ground-truth sequence.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response includes the white lab coat and a brown jacket, but it omits the purple long-sleeve t-shirt, adds a yellow scarf, and repeats the order in a way that doesn't match the ground-truth sequence.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1891",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes fabricated medieval-style costumes (blue/red/purple/green tunics with capes and feathered hats) that match none of the ground-truth outfits (brown cloak, green/purple/striped t-shirts, blue Star Trek uniform), and it degenerates into repetition.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes fabricated medieval-style costumes (blue/red/purple/green tunics with capes and feathered hats) that match none of the ground-truth outfits (brown cloak, green/purple/striped t-shirts, blue Star Trek uniform), and it degenerates into repetition.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1936",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response lists a green t-shirt first and then repeated white shirt/black pants/vest/tie variations, with no red jumpsuit, no grey long sleeve layering, and no matching graphic tees; the green t-shirt lacks the grey long sleeve and is out of order, so no ground-truth outfit is clearly identifiable.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists a green t-shirt first and then repeated white shirt/black pants/vest/tie variations, with no red jumpsuit, no grey long sleeve layering, and no matching graphic tees; the green t-shirt lacks the grey long sleeve and is out of order, so no ground-truth outfit is clearly identifiable.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1939",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "Only the first outfit (purple graphic t-shirt) matches the ground truth; the rest is a repeated, fabricated green DNA t-shirt, and the black jacket, red/blue shirts under green jacket, and plaid robe are missing.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"Only the first outfit (purple graphic t-shirt) matches the ground truth; the rest is a repeated, fabricated green DNA t-shirt, and the black jacket, red/blue shirts under green jacket, and plaid robe are missing.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1981",
+  "old_score": null,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response repeats one fabricated outfit (blue sweater, red tie, brown vest) that matches none of the ground-truth outfits.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response repeats one fabricated outfit (blue sweater, red tie, brown vest) that matches none of the ground-truth outfits.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1933",
+  "old_score": null,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "None of the response's outfits (white shirt with black tie, green shirt with gray sweater, green shirt, red shirt with black vest) match any ground-truth outfit in both garment type and colour.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"None of the response's outfits (white shirt with black tie, green shirt with gray sweater, green shirt, red shirt with black vest) match any ground-truth outfit in both garment type and colour.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1902",
+  "old_score": null,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "None of the ground-truth outfits (white shirt under colorful hoodie, grey HUSKERS tee, blue tee, pink patterned hoodie over pink top) are identifiable; the response lists fabricated striped shirt/cardigan/blue jacket outfits and degenerates into repetition.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"None of the ground-truth outfits (white shirt under colorful hoodie, grey HUSKERS tee, blue tee, pink patterned hoodie over pink top) are identifiable; the response lists fabricated striped shirt/cardigan/blue jacket outfits and degenerates into repetition.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1969",
+  "old_score": null,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a blue sweater, red skirt, gray blazer over white shirt, and purple jackets, none of which match the ground-truth outfits (white floral blouse with grey jacket, black/grey patterned dress, light blue and white lingerie); the gray blazer over a white shirt is not a floral blouse match and the rest is repetitive fabrication.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a blue sweater, red skirt, gray blazer over white shirt, and purple jackets, none of which match the ground-truth outfits (white floral blouse with grey jacket, black/grey patterned dress, light blue and white lingerie); the gray blazer over a white shirt is not a floral blouse match and the rest is repetitive fabrication.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "InternVL2-8B",
+  "question_id": "1924",
+  "old_score": null,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a blue shirt and a white lab coat, and neither matches the ground-truth black floral top with a white inner layer or the beige coat.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a blue shirt and a white lab coat, and neither matches the ground-truth black floral top with a white inner layer or the beige coat.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1975",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a white blouse with a light cardigan and a floral blouse, and neither matches the ground-truth dark purple long-sleeve top.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a white blouse with a light cardigan and a floral blouse, and neither matches the ground-truth dark purple long-sleeve top.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1880",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response does not describe any specific outfit and says there is not enough information, so the khaki shirt over a grey rainbow t-shirt is not identifiable.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response does not describe any specific outfit and says there is not enough information, so the khaki shirt over a grey rainbow t-shirt is not identifiable.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1873",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response says Penny's outfits are not shown and describes none, so no ground-truth outfit is identifiable.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response says Penny's outfits are not shown and describes none, so no ground-truth outfit is identifiable.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1892",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a blue shirt, a Star Trek uniform and black pants, and never mentions the multicolored harlequin costume with a ruff collar and ruffled cuffs.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a blue shirt, a Star Trek uniform and black pants, and never mentions the multicolored harlequin costume with a ruff collar and ruffled cuffs.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1890",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a blue shirt with a white collar and a black dress with a white collar, and neither matches any of the ground-truth outfits (red butterfly tee under floral hooded jacket, maroon embroidered dress, multicolored floral dress with green cardigan).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a blue shirt with a white collar and a black dress with a white collar, and neither matches any of the ground-truth outfits (red butterfly tee under floral hooded jacket, maroon embroidered dress, multicolored floral dress with green cardigan).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1984",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response says Penny does not appear and describes no outfits, so neither ground-truth outfit is identifiable.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response says Penny does not appear and describes no outfits, so neither ground-truth outfit is identifiable.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1881",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes no outfit at all and says there is no information, so the dark plaid shirt over an orange turtleneck is not identifiable.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes no outfit at all and says there is no information, so the dark plaid shirt over an orange turtleneck is not identifiable.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1995",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "The response mentions a red and black striped sweater, which roughly matches the first outfit (striped shirt over black turtleneck), but it misses the teal button-up over a black turtleneck and adds many fabricated outfits (brown jacket, plaid shirt, etc.).",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response mentions a red and black striped sweater, which roughly matches the first outfit (striped shirt over black turtleneck), but it misses the teal button-up over a black turtleneck and adds many fabricated outfits (brown jacket, plaid shirt, etc.).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1953",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The ground truth is a purple sweater with a wavy neckline and glasses, but the response lists only a white blouse with red plaid skirt, a pink cardigan, and black jackets or vests over green shirts, none of which match.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The ground truth is a purple sweater with a wavy neckline and glasses, but the response lists only a white blouse with red plaid skirt, a pink cardigan, and black jackets or vests over green shirts, none of which match.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1879",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The first outfit (red plaid shirt) partly matches, though 'red dress underneath' differs from 'red vest'; the second outfit (red and white blouse over black top) does not match the floral shirt with blue vest.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The first outfit (red plaid shirt) partly matches, though 'red dress underneath' differs from 'red vest'; the second outfit (red and white blouse over black top) does not match the floral shirt with blue vest.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1926",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response says the video gives no information about Amy changing clothes and describes no outfits, so none of the ground-truth outfits are identifiable.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response says the video gives no information about Amy changing clothes and describes no outfits, so none of the ground-truth outfits are identifiable.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1991",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response declines to describe any outfits, so neither the dark sheer blouse nor the red floral blouse is identifiable.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response declines to describe any outfits, so neither the dark sheer blouse nor the red floral blouse is identifiable.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1932",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes blue dresses/tunics with black leggings, none of which match the ground-truth orange cardigan over a floral dress.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes blue dresses/tunics with black leggings, none of which match the ground-truth orange cardigan over a floral dress.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1878",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes a single plaid shirt over an orange t-shirt and denies any outfit changes; it never mentions the blue pajamas or the mustard pants, so it matches neither ground-truth outfit.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a single plaid shirt over an orange t-shirt and denies any outfit changes; it never mentions the blue pajamas or the mustard pants, so it matches neither ground-truth outfit.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1923",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response repeats a brown jacket over a yellow shirt, which matches neither the beige jacket over a blue hoodie nor the green jacket over a yellow t-shirt (the yellow shirt alone is under a different jacket).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response repeats a brown jacket over a yellow shirt, which matches neither the beige jacket over a blue hoodie nor the green jacket over a yellow t-shirt (the yellow shirt alone is under a different jacket).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1940",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes a yellow bathrobe over pajamas and a suit jacket with a shirt, none of which match the ground-truth brown t-shirt, green jacket, and checkered shirt.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a yellow bathrobe over pajamas and a suit jacket with a shirt, none of which match the ground-truth brown t-shirt, green jacket, and checkered shirt.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1960",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response says the outfit sequence can't be determined and describes only a pink and white plaid shirt with a headband, which matches neither the pink cardigan over a floral dress nor the brown jacket over a yellow top.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response says the outfit sequence can't be determined and describes only a pink and white plaid shirt with a headband, which matches neither the pink cardigan over a floral dress nor the brown jacket over a yellow top.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1980",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a white shirt, a red dress, and a white shirt again, none of which match the ground-truth light pink shirt with beige buttoned vest and dark skirt.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a white shirt, a red dress, and a white shirt again, none of which match the ground-truth light pink shirt with beige buttoned vest and dark skirt.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1872",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response claims there are no outfit changes and describes no outfits, so no ground-truth outfit is identifiable.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response claims there are no outfit changes and describes no outfits, so no ground-truth outfit is identifiable.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1962",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "None of the ground-truth outfits (blue or orange t-shirt under a green jacket, blue t-shirt under a purple caged hoodie and purple jacket) is identifiable; the response describes sweater vests, a brown jacket, a dark blue jacket, a green graphic tee and a purple tracksuit, and repeats entries.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"None of the ground-truth outfits (blue or orange t-shirt under a green jacket, blue t-shirt under a purple caged hoodie and purple jacket) is identifiable; the response describes sweater vests, a brown jacket, a dark blue jacket, a green graphic tee and a purple tracksuit, and repeats entries.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1996",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response says the clip does not show Bernadette's outfit changes and describes no outfits, so none of the ground-truth outfits are identifiable.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response says the clip does not show Bernadette's outfit changes and describes no outfits, so none of the ground-truth outfits are identifiable.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1985",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "Only the green sweater with blue stripes (outfit 3) is loosely identifiable, though its placement is out of order and it omits the blue turtleneck; the other outfits (grey sweater/red collar, dark green shirt/purple turtleneck, black graphic tee) are missing or wrong.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"Only the green sweater with blue stripes (outfit 3) is loosely identifiable, though its placement is out of order and it omits the blue turtleneck; the other outfits (grey sweater/red collar, dark green shirt/purple turtleneck, black graphic tee) are missing or wrong.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1952",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "None of the response's outfits (brown t-shirt, green rainbow t-shirt, blue number-73 t-shirt, plaid over black) match the ground-truth pink shirt with purple sleeveless sweater or blue shirt with blue sleeveless sweater.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"None of the response's outfits (brown t-shirt, green rainbow t-shirt, blue number-73 t-shirt, plaid over black) match the ground-truth pink shirt with purple sleeveless sweater or blue shirt with blue sleeveless sweater.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1990",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response declines to describe any outfits, so no ground-truth outfit is identifiable.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response declines to describe any outfits, so no ground-truth outfit is identifiable.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1957",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes a brown t-shirt with blue sleeves and says no outfits can be listed, so it matches neither ground-truth outfit (green wind-turbine t-shirt, then the same under a grey hoodie and dark sleeveless jacket).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a brown t-shirt with blue sleeves and says no outfits can be listed, so it matches neither ground-truth outfit (green wind-turbine t-shirt, then the same under a grey hoodie and dark sleeveless jacket).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1945",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "None of the response's outfits (blue shirt with tie, green jacket over yellow shirt, red shirt, white lab coat) match the ground-truth orange t-shirt/dark hooded jacket, blue t-shirt/grey hooded jacket, or green t-shirt/purple jacket.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"None of the response's outfits (blue shirt with tie, green jacket over yellow shirt, red shirt, white lab coat) match the ground-truth orange t-shirt/dark hooded jacket, blue t-shirt/grey hooded jacket, or green t-shirt/purple jacket.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1912",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "The response matches only the second outfit (blue patterned dress with red cardigan) and omits the first outfit (yellow sleeveless dress over white blouse), claiming it was worn throughout.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response matches only the second outfit (blue patterned dress with red cardigan) and omits the first outfit (yellow sleeveless dress over white blouse), claiming it was worn throughout.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1875",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The response's pink striped shirt matches the second ground-truth outfit, but it lists it first, misses the grey geometric t-shirt over a purple shirt, and adds a fabricated blue plaid over green outfit.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response's pink striped shirt matches the second ground-truth outfit, but it lists it first, misses the grey geometric t-shirt over a purple shirt, and adds a fabricated blue plaid over green outfit.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1899",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "None of the response's outfits (brown vest over white shirt, blue shirt with orange sleeves, green shirt with red hood) matches the ground truth's colorful hoodie, grey HUSKERS tee, blue tee, or pink hoodie, and most of the list is repetitive.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"None of the response's outfits (brown vest over white shirt, blue shirt with orange sleeves, green shirt with red hood) matches the ground truth's colorful hoodie, grey HUSKERS tee, blue tee, or pink hoodie, and most of the list is repetitive.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1993",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "The response loosely matches the first outfit (brown jacket with green undershirt) and the plaid shirt over white t-shirt, but its red/black striped robe and sweater are not the red patterned robe with white tee. It also misses the plain white t-shirt and the black bird sweater over a pink shirt, and it pads the sequence with fabricated outfits.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response loosely matches the first outfit (brown jacket with green undershirt) and the plaid shirt over white t-shirt, but its red/black striped robe and sweater are not the red patterned robe with white tee. It also misses the plain white t-shirt and the black bird sweater over a pink shirt, and it pads the sequence with fabricated outfits.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1935",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The response mentions a blue dress, which loosely matches the second ground-truth outfit (blue sci-fi costume dress), but it lists it first instead of last and omits the maroon sweater outfit, replacing it with a fabricated blue shirt and jacket.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response mentions a blue dress, which loosely matches the second ground-truth outfit (blue sci-fi costume dress), but it lists it first instead of last and omits the maroon sweater outfit, replacing it with a fabricated blue shirt and jacket.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1919",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "Only the blue and gray jacket over a white shirt loosely matches the third ground-truth outfit (no beige argyle sweater, and a red tie is added); the first two outfits are missing or wrong, with a fabricated brown jacket and repeated entries.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"Only the blue and gray jacket over a white shirt loosely matches the third ground-truth outfit (no beige argyle sweater, and a red tie is added); the first two outfits are missing or wrong, with a fabricated brown jacket and repeated entries.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "2000",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes a mustard blazer over a striped sweater and gray suit jackets with blue shirts, none of which match the ground-truth blue jacket over pink patterned shirt or beige blazer over dark blue patterned sweater.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a mustard blazer over a striped sweater and gray suit jackets with blue shirts, none of which match the ground-truth blue jacket over pink patterned shirt or beige blazer over dark blue patterned sweater.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1898",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "The response loosely matches the orange t-shirt over blue sleeves and a beige/brown jacket, but the order is wrong, the purple/yellow striped tee over red sleeves and the green plaid shirt are not identified, and it adds fabricated outfits.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response loosely matches the orange t-shirt over blue sleeves and a beige/brown jacket, but the order is wrong, the purple/yellow striped tee over red sleeves and the green plaid shirt are not identified, and it adds fabricated outfits.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1903",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response declines to describe any outfits, so no ground-truth outfit is identifiable.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response declines to describe any outfits, so no ground-truth outfit is identifiable.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1988",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response declines to describe any outfits and says no outfit changes are shown, so no ground-truth outfit is identifiable.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response declines to describe any outfits and says no outfit changes are shown, so no ground-truth outfit is identifiable.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1888",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "None of the response's outfits match the ground truth: the pink floral top with yellow cardigan, red dress with white collar, and white tank top with floral skirt differ in garment or colour from the red/black floral dress, red halter dress, and orange tank with floral capris.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"None of the response's outfits match the ground truth: the pink floral top with yellow cardigan, red dress with white collar, and white tank top with floral skirt differ in garment or colour from the red/black floral dress, red halter dress, and orange tank with floral capris.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1885",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a white shirt with a brown vest, which matches neither the plaid shirt nor the black sweater, and it says no outfit sequence can be given.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a white shirt with a brown vest, which matches neither the plaid shirt nor the black sweater, and it says no outfit sequence can be given.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1928",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The response mentions a blue and yellow striped shirt, which matches the second and third ground-truth outfits only loosely. However, the first outfit (blue t-shirt, light grey pants) is wrong, the brown pants are absent, the beige/white jacket is replaced by a brown jacket, and a baseball jersey is fabricated.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response mentions a blue and yellow striped shirt, which matches the second and third ground-truth outfits only loosely. However, the first outfit (blue t-shirt, light grey pants) is wrong, the brown pants are absent, the beige/white jacket is replaced by a brown jacket, and a baseball jersey is fabricated.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1904",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "No ground-truth outfit is matched: the red jacket is over a blue and white striped shirt rather than a green shirt and maroon sweater, the yellow shirt is under a lab coat rather than a blue jacket and maroon sweater, and there is no green and black wrestling singlet.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"No ground-truth outfit is matched: the red jacket is over a blue and white striped shirt rather than a green shirt and maroon sweater, the yellow shirt is under a lab coat rather than a blue jacket and maroon sweater, and there is no green and black wrestling singlet.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1931",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a red shirt and then a blue shirt, each with a white undershirt, and none of these match the ground-truth outfits (turquoise shirt; jeans with turquoise/blue checkered shirt; red checkered shirt with grey pants) in garment type and colour or pattern.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a red shirt and then a blue shirt, each with a white undershirt, and none of these match the ground-truth outfits (turquoise shirt; jeans with turquoise/blue checkered shirt; red checkered shirt with grey pants) in garment type and colour or pattern.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1979",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a green jacket over a brown sweater and a maroon t-shirt under a yellow shirt, so neither matches the ground truth's green button-up over a black shirt, and it adds contradicting outfits.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a green jacket over a brown sweater and a maroon t-shirt under a yellow shirt, so neither matches the ground truth's green button-up over a black shirt, and it adds contradicting outfits.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1964",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "Only the final ground-truth outfit (dark green graphic t-shirt over purple long sleeve) is identifiable; the response repeats it for every scene and omits the other four outfits.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"Only the final ground-truth outfit (dark green graphic t-shirt over purple long sleeve) is identifiable; the response repeats it for every scene and omits the other four outfits.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1921",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "The response identifies a white lab coat and a brown jacket in roughly the right order, but it omits the purple long-sleeve t-shirt outfit and adds details that don't match the ground truth (gray shirt, green tie, yellow scarf).",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response identifies a white lab coat and a brown jacket in roughly the right order, but it omits the purple long-sleeve t-shirt outfit and adds details that don't match the ground truth (gray shirt, green tie, yellow scarf).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1891",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response repeats a single 'blue shirt with white collar and brown jacket' outfit for every scene; it matches none of the ground-truth outfits (brown cloak with cross necklace, green, purple, striped t-shirts, blue Star Trek uniform) and shows no costume changes.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response repeats a single 'blue shirt with white collar and brown jacket' outfit for every scene; it matches none of the ground-truth outfits (brown cloak with cross necklace, green, purple, striped t-shirts, blue Star Trek uniform) and shows no costume changes.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1936",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes white shirt/black pants, blue suit jacket and black tie outfits, none of which match the ground-truth outfits (red jumpsuit, black suit over red, graphic t-shirts over grey or maroon long sleeves).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes white shirt/black pants, blue suit jacket and black tie outfits, none of which match the ground-truth outfits (red jumpsuit, black suit over red, graphic t-shirts over grey or maroon long sleeves).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1939",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "The plaid robe over a white undershirt matches the last ground-truth outfit, but the response puts it first (out of order) and the other outfits (blue, green and red/white checkered shirts) do not match the purple, black-jacket, or green-jacket outfits.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The plaid robe over a white undershirt matches the last ground-truth outfit, but the response puts it first (out of order) and the other outfits (blue, green and red/white checkered shirts) do not match the purple, black-jacket, or green-jacket outfits.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1981",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "The response matches two ground-truth outfits, the purple/yellow striped shirt and the plaid robe over a white t-shirt, in order. It misses the rest and adds fabricated outfits such as the red vest, green shirt and green sweater.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response matches two ground-truth outfits, the purple/yellow striped shirt and the plaid robe over a white t-shirt, in order. It misses the rest and adds fabricated outfits such as the red vest, green shirt and green sweater.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1933",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response repeats a red shirt with white undershirt and a blue shirt, none of which match any ground-truth outfit (beige jacket/purple tee, pink robe, blue-black jacket, purple/orange hooded jacket over red tee).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response repeats a red shirt with white undershirt and a blue shirt, none of which match any ground-truth outfit (beige jacket/purple tee, pink robe, blue-black jacket, purple/orange hooded jacket over red tee).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1902",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "None of the response's outfits (pink floral blouse, white shirt with black pants, red and white striped shirt) match the ground-truth outfits in garment and colour or pattern. The white shirt is worn under a colorful hoodie in the ground truth, not with black pants.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"None of the response's outfits (pink floral blouse, white shirt with black pants, red and white striped shirt) match the ground-truth outfits in garment and colour or pattern. The white shirt is worn under a colorful hoodie in the ground truth, not with black pants.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1969",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response states the video gives no information on Penny's outfits and describes none, so no ground-truth outfit is identifiable.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response states the video gives no information on Penny's outfits and describes none, so no ground-truth outfit is identifiable.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Qwen2.5-VL-7B",
+  "question_id": "1924",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response refuses to describe any outfits, so no ground-truth outfit is identifiable.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response refuses to describe any outfits, so no ground-truth outfit is identifiable.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1872",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The response matches the grey jacket over a striped shirt and the striped shirt alone, which is roughly the ground-truth order. But the ground truth says the jacket is worn over a striped sweater and the second outfit is a striped sweater over a striped shirt, so the layering is not matched.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response matches the grey jacket over a striped shirt and the striped shirt alone, which is roughly the ground-truth order. But the ground truth says the jacket is worn over a striped sweater and the second outfit is a striped sweater over a striped shirt, so the layering is not matched.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1873",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The second outfit (sleeveless light purple patterned top) matches, but the first is described as a dark blue/red/light blue plaid shirt rather than purple plaid, and a third outfit with a denim jacket is added.",
+  "raw_result": "{\"score\":0.5,\"rationale\":\"The second outfit (sleeveless light purple patterned top) matches, but the first is described as a dark blue/red/light blue plaid shirt rather than purple plaid, and a third outfit with a denim jacket is added.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1875",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "Both ground-truth outfits (grey geometric tee over purple long-sleeve, pink striped button-up) appear in order, but the response adds two fabricated outfits (a grey button-down over a dark grey graphic tee, and a green button-down over a teal tee) that the ground truth does not contain.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"Both ground-truth outfits (grey geometric tee over purple long-sleeve, pink striped button-up) appear in order, but the response adds two fabricated outfits (a grey button-down over a dark grey graphic tee, and a green button-down over a teal tee) that the ground truth does not contain.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1878",
+  "old_score": 1.0,
+  "mc_correct": false,
+  "new_score": 1.0,
+  "rationale": "The response lists blue pajamas first, then a plaid shirt with mustard yellow pants, matching both ground-truth outfits in order with no contradicting additions.",
+  "raw_result": "{\"score\": 1, \"rationale\": \"The response lists blue pajamas first, then a plaid shirt with mustard yellow pants, matching both ground-truth outfits in order with no contradicting additions.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1879",
+  "old_score": 1.0,
+  "mc_correct": true,
+  "new_score": 1.0,
+  "rationale": "Both ground-truth outfits (red plaid shirt with red vest, then floral shirt with blue vest) appear in the correct order; the added denim-style jacket is a minor extra detail that doesn't contradict them.",
+  "raw_result": "{\"score\": 1, \"rationale\": \"Both ground-truth outfits (red plaid shirt with red vest, then floral shirt with blue vest) appear in the correct order; the added denim-style jacket is a minor extra detail that doesn't contradict them.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1880",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes a light gray zip-up hoodie over a dark brown t-shirt with a circular design, which matches neither the khaki shirt nor the grey rainbow t-shirt and black watch in the ground truth.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a light gray zip-up hoodie over a dark brown t-shirt with a circular design, which matches neither the khaki shirt nor the grey rainbow t-shirt and black watch in the ground truth.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1881",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response lists four outfits (striped sweater vest, track jacket, solid red shirt, jacket over multicolor plaid) but none matches a dark plaid shirt over an orange turtleneck; the plaid in outfit 4 is green/orange/blue under a jacket with no turtleneck.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists four outfits (striped sweater vest, track jacket, solid red shirt, jacket over multicolor plaid) but none matches a dark plaid shirt over an orange turtleneck; the plaid in outfit 4 is green/orange/blue under a jacket with no turtleneck.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1885",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The plaid shirt outfit matches the first ground-truth outfit, but the second is a dark blue top over a white collared shirt rather than a black sweater, and a duplicate third outfit is added.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The plaid shirt outfit matches the first ground-truth outfit, but the second is a dark blue top over a white collared shirt rather than a black sweater, and a duplicate third outfit is added.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1888",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The first outfit (red halter top with black skirt) loosely matches the red and black dress, but the response is truncated and omits the other two outfits.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The first outfit (red halter top with black skirt) loosely matches the red and black dress, but the response is truncated and omits the other two outfits.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1890",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a brown monk's robe costume, which matches none of the ground-truth outfits, and is truncated.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a brown monk's robe costume, which matches none of the ground-truth outfits, and is truncated.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1891",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The response is truncated and only identifies the first outfit (brown monk's robe with cross pendant), matching the first ground-truth outfit, but the other four outfits are missing.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response is truncated and only identifies the first outfit (brown monk's robe with cross pendant), matching the first ground-truth outfit, but the other four outfits are missing.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1892",
+  "old_score": 1.0,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The harlequin/jester costume with ruff collar and ruffled cuffs is identified, but the response adds a casual outfit (red shirt, grey hoodie) not in the ground truth, which only has one outfit.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The harlequin/jester costume with ruff collar and ruffled cuffs is identified, but the response adds a casual outfit (red shirt, grey hoodie) not in the ground truth, which only has one outfit.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1898",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "Outfits 1 and 2 match the ground truth, and outfit 4 (orange graphic tee over long sleeves) roughly matches, but the response adds fabricated outfits (grey hooded vest, light blue shirt with vest and scarf). The final green plaid shirt appears only as plaid pajamas, which is a weak match.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"Outfits 1 and 2 match the ground truth, and outfit 4 (orange graphic tee over long sleeves) roughly matches, but the response adds fabricated outfits (grey hooded vest, light blue shirt with vest and scarf). The final green plaid shirt appears only as plaid pajamas, which is a weak match.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1899",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response is truncated and describes only a beige/off-white two-tone jacket over a purple shirt, which matches none of the ground-truth outfits (colorful hoodie, grey HUSKERS tee, blue tee, pink hoodie).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response is truncated and describes only a beige/off-white two-tone jacket over a purple shirt, which matches none of the ground-truth outfits (colorful hoodie, grey HUSKERS tee, blue tee, pink hoodie).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1902",
+  "old_score": 1.0,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The response matches the colorful cardigan/hoodie, the grey HUSKERS t-shirt and the blue top in order, but the first outfit's details differ (yellow tank, cardigan) and the final pink patterned hoodie over a pink top is described as pajamas, so the last outfit is not clearly matched.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response matches the colorful cardigan/hoodie, the grey HUSKERS t-shirt and the blue top in order, but the first outfit's details differ (yellow tank, cardigan) and the final pink patterned hoodie over a pink top is described as pajamas, so the last outfit is not clearly matched.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1903",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "Outfit 1 roughly matches (plaid shirt over yellow turtleneck, though colours are described as green/blue/orange rather than green/red), but the response is truncated, only partly describes a black leather outfit, and never mentions the red shirt with black turtleneck.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"Outfit 1 roughly matches (plaid shirt over yellow turtleneck, though colours are described as green/blue/orange rather than green/red), but the response is truncated, only partly describes a black leather outfit, and never mentions the red shirt with black turtleneck.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1904",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response lists only one outfit (purple hoodie over patterned sweater with light yellow shirt), which doesn't match the blue jacket/maroon sweater/yellow shirt, and omits the red jacket and wrestling singlet outfits.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response lists only one outfit (purple hoodie over patterned sweater with light yellow shirt), which doesn't match the blue jacket/maroon sweater/yellow shirt, and omits the red jacket and wrestling singlet outfits.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1912",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response only mentions a purple top, which matches neither the yellow dress over a white blouse nor the blue patterned dress with a red cardigan, and it is truncated.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response only mentions a purple top, which matches neither the yellow dress over a white blouse nor the blue patterned dress with a red cardigan, and it is truncated.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1919",
+  "old_score": 1.0,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "Outfit 1 (green/blue jacket, orange sweater, white shirt) and outfit 2 (red/white jacket, tan pants) match in order, but outfit 3 is wrong: the ground truth has a blue and grey jacket over a beige argyle sweater, while the response gives a blue and white striped jacket over a brown and white striped sweater.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"Outfit 1 (green/blue jacket, orange sweater, white shirt) and outfit 2 (red/white jacket, tan pants) match in order, but outfit 3 is wrong: the ground truth has a blue and grey jacket over a beige argyle sweater, while the response gives a blue and white striped jacket over a brown and white striped sweater.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1921",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "The response is truncated and only describes a purple short-sleeve t-shirt (the ground truth has a purple long-sleeved t-shirt, a partial match). It never mentions the white lab coat or the beige and brown jacket.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response is truncated and only describes a purple short-sleeve t-shirt (the ground truth has a purple long-sleeved t-shirt, a partial match). It never mentions the white lab coat or the beige and brown jacket.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1923",
+  "old_score": 1.0,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "Both ground-truth outfits (beige jacket over blue hoodie, green jacket over yellow t-shirt) appear in the right order, but the response adds a third outfit (the beige jacket again with a red t-shirt) that the ground truth does not include.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"Both ground-truth outfits (beige jacket over blue hoodie, green jacket over yellow t-shirt) appear in the right order, but the response adds a third outfit (the beige jacket again with a red t-shirt) that the ground truth does not include.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1924",
+  "old_score": 1.0,
+  "mc_correct": true,
+  "new_score": 1.0,
+  "rationale": "Outfit 1 matches the black top over a white floral inner layer, and the light brown trench coat matches the beige coat, in the right order; the extra third outfit is just the same coat again and does not contradict the ground truth.",
+  "raw_result": "{\"score\": 1, \"rationale\": \"Outfit 1 matches the black top over a white floral inner layer, and the light brown trench coat matches the beige coat, in the right order; the extra third outfit is just the same coat again and does not contradict the ground truth.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1926",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response claims Amy wears one outfit (brown/black striped cardigan, blue shirt, jeans) with no change, which does not match either ground-truth outfit (brown sweater over purple shirt with blue skirt; dark cardigan over light brown shirt with green skirt and leggings).",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response claims Amy wears one outfit (brown/black striped cardigan, blue shirt, jeans) with no change, which does not match either ground-truth outfit (brown sweater over purple shirt with blue skirt; dark cardigan over light brown shirt with green skirt and leggings).\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1928",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response gives only timestamps and no actual outfit descriptions, so no ground-truth outfit is identifiable.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response gives only timestamps and no actual outfit descriptions, so no ground-truth outfit is identifiable.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1931",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The response describes only one outfit, a teal/blue plaid shirt with blue jeans, which loosely matches the second ground-truth outfit; it misses the plain turquoise shirt and the red checkered shirt with grey pants, and it claims no change in clothing.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response describes only one outfit, a teal/blue plaid shirt with blue jeans, which loosely matches the second ground-truth outfit; it misses the plain turquoise shirt and the red checkered shirt with grey pants, and it claims no change in clothing.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1932",
+  "old_score": 1.0,
+  "mc_correct": false,
+  "new_score": 1.0,
+  "rationale": "The response describes a single outfit of an orange cardigan over a floral top and skirt, which matches the ground truth of an orange cardigan over a floral dress, and it does not add contradictory outfits.",
+  "raw_result": "{\"score\": 1, \"rationale\": \"The response describes a single outfit of an orange cardigan over a floral top and skirt, which matches the ground truth of an orange cardigan over a floral dress, and it does not add contradictory outfits.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1933",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "Only the first outfit (tan jacket over purple t-shirt with brown pants) matches; the response is truncated and omits the pink robe, blue/black jacket, and purple/orange hooded jacket.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"Only the first outfit (tan jacket over purple t-shirt with brown pants) matches; the response is truncated and omits the pink robe, blue/black jacket, and purple/orange hooded jacket.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1935",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The response identifies the first outfit (dark red cardigan over white collared shirt, roughly matching the maroon sweater and collared shirt) but is truncated and never describes the second outfit, the blue sci-fi dress with black tights.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response identifies the first outfit (dark red cardigan over white collared shirt, roughly matching the maroon sweater and collared shirt) but is truncated and never describes the second outfit, the blue sci-fi dress with black tights.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1936",
+  "old_score": 1.0,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The response identifies only the first outfit (red jumpsuit/long underwear) and is truncated, missing the black suit, blue, green, and grey t-shirt outfits.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response identifies only the first outfit (red jumpsuit/long underwear) and is truncated, missing the black suit, blue, green, and grey t-shirt outfits.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1939",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "Outfit 1 loosely matches the first ground-truth outfit (purple t-shirt), but it adds a grey hooded jacket the ground truth doesn't list, and the response is truncated, so the remaining outfits are missing.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"Outfit 1 loosely matches the first ground-truth outfit (purple t-shirt), but it adds a grey hooded jacket the ground truth doesn't list, and the response is truncated, so the remaining outfits are missing.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1940",
+  "old_score": 1.0,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The response includes a dark green jacket over a brown t-shirt, which matches the ground truth, but it also adds several other outfits (plaid shirts, a patterned shirt over a grey turtleneck) that the ground truth does not contain, and it places the matching outfit third instead of alone.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response includes a dark green jacket over a brown t-shirt, which matches the ground truth, but it also adds several other outfits (plaid shirts, a patterned shirt over a grey turtleneck) that the ground truth does not contain, and it places the matching outfit third instead of alone.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1945",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "The response identifies only the first outfit (orange t-shirt under a dark hooded jacket) and omits the blue/grey and green/purple outfits.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response identifies only the first outfit (orange t-shirt under a dark hooded jacket) and omits the blue/grey and green/purple outfits.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1952",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes a blue t-shirt with black sleeves and a green top, neither of which matches the pink shirt with purple sleeveless sweater or the blue shirt with blue sleeveless sweater, and it is truncated.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a blue t-shirt with black sleeves and a green top, neither of which matches the pink shirt with purple sleeveless sweater or the blue shirt with blue sleeveless sweater, and it is truncated.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1953",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response only says Bernadette is not visible in the listed segments and describes no outfit, so the purple sweater with glasses is not identified.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response only says Bernadette is not visible in the listed segments and describes no outfit, so the purple sweater with glasses is not identified.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1957",
+  "old_score": 1.0,
+  "mc_correct": true,
+  "new_score": 1.0,
+  "rationale": "The response gives two outfits in the right order: a green t-shirt, then the same green t-shirt under a grey hooded vest. This matches the ground truth, and the 'gradient' wording and the pants detail do not contradict it.",
+  "raw_result": "{\"score\": 1, \"rationale\": \"The response gives two outfits in the right order: a green t-shirt, then the same green t-shirt under a grey hooded vest. This matches the ground truth, and the 'gradient' wording and the pants detail do not contradict it.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1960",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes a dark jacket over a plaid shirt with a dark skirt, which matches neither the pink cardigan with floral dress nor the brown jacket over a yellow top.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a dark jacket over a plaid shirt with a dark skirt, which matches neither the pink cardigan with floral dress nor the brown jacket over a yellow top.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1962",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The response's blue t-shirt under a purple zip-up jacket loosely matches the third ground-truth outfit, but the green jacket outfits are described as tan/brown, the orange t-shirt is missing, and a pink shirt outfit is fabricated.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response's blue t-shirt under a purple zip-up jacket loosely matches the third ground-truth outfit, but the green jacket outfits are described as tan/brown, the orange t-shirt is missing, and a pink shirt outfit is fabricated.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1964",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "The response matches the first outfit (yellow t-shirt under a grey/blue jacket), roughly the second (blue graphic t-shirt) and arguably the third (striped shirt under a jacket), but it omits the final two outfits (red t-shirt over blue long sleeve, dark green t-shirt over purple long sleeve) and is truncated.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response matches the first outfit (yellow t-shirt under a grey/blue jacket), roughly the second (blue graphic t-shirt) and arguably the third (striped shirt under a jacket), but it omits the final two outfits (red t-shirt over blue long sleeve, dark green t-shirt over purple long sleeve) and is truncated.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1969",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The response describes a white floral blouse with a jacket (the jacket is khaki green rather than grey), which roughly matches the first outfit, but the response is truncated and omits the remaining outfits.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response describes a white floral blouse with a jacket (the jacket is khaki green rather than grey), which roughly matches the first outfit, but the response is truncated and omits the remaining outfits.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1975",
+  "old_score": 1.0,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "The response identifies the dark purple long-sleeve top, but it also adds two outfits (brown/tan top, light blue button-up) that the single-outfit ground truth does not include.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response identifies the dark purple long-sleeve top, but it also adds two outfits (brown/tan top, light blue button-up) that the single-outfit ground truth does not include.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1979",
+  "old_score": 1.0,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The response identifies a green button-up shirt worn open and correctly claims a single consistent outfit, but it describes the undershirt as dark green rather than black, so the ground-truth outfit is only partly matched.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response identifies a green button-up shirt worn open and correctly claims a single consistent outfit, but it describes the undershirt as dark green rather than black, so the ground-truth outfit is only partly matched.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1980",
+  "old_score": 0.5,
+  "mc_correct": false,
+  "new_score": 1.0,
+  "rationale": "The response's first outfit (light beige vest over a light purple/lavender collared shirt) matches the ground truth's light pink shirt with beige vest; the truncated second entry adds no contradicting outfit, though the skirt is not mentioned.",
+  "raw_result": "{\"score\": 1, \"rationale\": \"The response's first outfit (light beige vest over a light purple/lavender collared shirt) matches the ground truth's light pink shirt with beige vest; the truncated second entry adds no contradicting outfit, though the skirt is not mentioned.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1981",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The ground truth lists only a single outfit, 'F', which gives no garment detail to match. The response claims five different outfits, so it contradicts the one-outfit ground truth and none of its outfits can be identified as that one.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The ground truth lists only a single outfit, 'F', which gives no garment detail to match. The response claims five different outfits, so it contradicts the one-outfit ground truth and none of its outfits can be identified as that one.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1984",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The first outfit (tie-dye top with pink pants) roughly matches, but the grey camisole with small pink flowers is not identified, and the response adds several fabricated outfits.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The first outfit (tie-dye top with pink pants) roughly matches, but the grey camisole with small pink flowers is not identified, and the response adds several fabricated outfits.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1985",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response's only complete outfit (green hooded jacket over an orange graphic t-shirt) matches none of the ground-truth outfits, and the answer is truncated before any further outfits.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response's only complete outfit (green hooded jacket over an orange graphic t-shirt) matches none of the ground-truth outfits, and the answer is truncated before any further outfits.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1988",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes only a red t-shirt over a blue long-sleeved shirt with khaki pants, which matches neither the grey graphic tee under a beige jacket nor the purple graphic tee under a blue button-up, and it is truncated.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes only a red t-shirt over a blue long-sleeved shirt with khaki pants, which matches neither the grey graphic tee under a beige jacket nor the purple graphic tee under a blue button-up, and it is truncated.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1990",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The first outfit (grey plaid shirt with dark grey cardigan) matches, but the response is truncated and never identifies the second outfit (dark brown t-shirt under a yellow and black plaid shirt), instead repeating the same cardigan.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The first outfit (grey plaid shirt with dark grey cardigan) matches, but the response is truncated and never identifies the second outfit (dark brown t-shirt under a yellow and black plaid shirt), instead repeating the same cardigan.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1991",
+  "old_score": 0.0,
+  "mc_correct": true,
+  "new_score": 0.0,
+  "rationale": "The response describes a plaid shirt with a tan vest and skirt, which matches neither the dark sheer blouse nor the red floral blouse in the ground truth.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a plaid shirt with a tan vest and skirt, which matches neither the dark sheer blouse nor the red floral blouse in the ground truth.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1993",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The response is truncated: it roughly matches the first two outfits (brown jacket over a blue hoodie, red/white patterned robe) but never gets to the remaining four outfits.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The response is truncated: it roughly matches the first two outfits (brown jacket over a blue hoodie, red/white patterned robe) but never gets to the remaining four outfits.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1995",
+  "old_score": 0.0,
+  "mc_correct": false,
+  "new_score": 0.0,
+  "rationale": "The response describes a brown jacket over a plaid hoodie and a red and white patterned robe, neither of which matches the ground-truth red/black striped shirt over a black turtleneck or the teal button-up over a black turtleneck.",
+  "raw_result": "{\"score\": 0, \"rationale\": \"The response describes a brown jacket over a plaid hoodie and a red and white patterned robe, neither of which matches the ground-truth red/black striped shirt over a black turtleneck or the teal button-up over a black turtleneck.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "1996",
+  "old_score": 1.0,
+  "mc_correct": false,
+  "new_score": 0.5,
+  "rationale": "The pink cardigan with floral outfit and the light pajamas match in order, but the black outfit is described as a top and skirt rather than a dress, and a fabricated nude shower stage is added.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The pink cardigan with floral outfit and the light pajamas match in order, but the black outfit is described as a top and skirt rather than a dress, and a fabricated nude shower stage is added.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ },
+ {
+  "model": "Gemini-2.5-Flash",
+  "question_id": "2000",
+  "old_score": 0.5,
+  "mc_correct": true,
+  "new_score": 0.5,
+  "rationale": "The blue cardigan/jacket over a pink-patterned shirt matches the first ground-truth outfit, but the beige blazer over a dark blue patterned sweater is not identified (the mustard corduroy blazer and grey jacket don't match), and fabricated outfits are added.",
+  "raw_result": "{\"score\": 0.5, \"rationale\": \"The blue cardigan/jacket over a pink-patterned shirt matches the first ground-truth outfit, but the beige blazer over a dark blue patterned sweater is not identified (the mustard corduroy blazer and grey jacket don't match), and fabricated outfits are added.\"}",
+  "model_reported": [
+   "claude-sonnet-5-5"
+  ],
+  "judge_model_requested": "claude-sonnet-5-5"
+ }
+]

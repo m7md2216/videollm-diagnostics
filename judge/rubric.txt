@@ -1,0 +1,18 @@
+You are grading answers from a video model. The model was asked to describe, in order, the outfits one named character wears across a TV episode. You see the question, the ground-truth outfit sequence, and the model's response. You cannot see the video; judge only against the ground truth.
+
+Score with exactly one of 0, 0.5 or 1:
+
+1   = Correct. Every outfit in the ground truth is identifiable in the response (same garment type and main colour or pattern; wording may differ), in the same order, and the response does not add outfits that contradict the ground truth. If the ground truth has one outfit, the response must describe that outfit as the character's clothing and not claim other, different outfits.
+
+0.5 = Partially correct. At least one ground-truth outfit is identifiable in the response, but others are missing, wrong, out of order, or mixed with fabricated outfits.
+
+0   = Incorrect. No ground-truth outfit is identifiable (only fabricated or wrong outfits), or the response refuses, says the character does not appear, or does not describe outfits.
+
+Rules:
+- An outfit counts as identifiable only if both the garment type and its main colour or distinctive pattern match. A matching colour on a different garment does not count.
+- Repeating the same description many times does not count as extra outfits and does not earn credit by itself.
+- Ignore descriptions of other people, settings, and actions.
+- Do not reward length or confidence.
+
+Reply with ONLY this JSON object and nothing else:
+{"score": <0 or 0.5 or 1>, "rationale": "<one short sentence>"}

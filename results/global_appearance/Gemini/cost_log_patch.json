@@ -1,0 +1,287 @@
+{
+ "total_usd": 4.8288562,
+ "queries": [
+  {
+   "qid": "1968",
+   "input_tokens": 341510,
+   "output_tokens": 1,
+   "cost_usd": 0.1024555
+  },
+  {
+   "qid": "1973",
+   "input_tokens": 329366,
+   "output_tokens": 1,
+   "cost_usd": 0.0988123
+  },
+  {
+   "qid": "1971",
+   "input_tokens": 341507,
+   "output_tokens": 1,
+   "cost_usd": 0.10245459999999999
+  },
+  {
+   "qid": "1967",
+   "input_tokens": 341436,
+   "output_tokens": 9,
+   "cost_usd": 0.1024533
+  },
+  {
+   "qid": "1959",
+   "input_tokens": 334748,
+   "output_tokens": 172,
+   "cost_usd": 0.1008544
+  },
+  {
+   "qid": "1975",
+   "input_tokens": 329339,
+   "output_tokens": 1,
+   "cost_usd": 0.0988042
+  },
+  {
+   "qid": "1955",
+   "input_tokens": 322365,
+   "output_tokens": 1,
+   "cost_usd": 0.096712
+  },
+  {
+   "qid": "1994",
+   "input_tokens": 365766,
+   "output_tokens": 1,
+   "cost_usd": 0.1097323
+  },
+  {
+   "qid": "1999",
+   "input_tokens": 365423,
+   "output_tokens": 1,
+   "cost_usd": 0.1096294
+  },
+  {
+   "qid": "1966",
+   "input_tokens": 341460,
+   "output_tokens": 1,
+   "cost_usd": 0.1024405
+  },
+  {
+   "qid": "1950",
+   "input_tokens": 334714,
+   "output_tokens": 1,
+   "cost_usd": 0.1004167
+  },
+  {
+   "qid": "1976",
+   "input_tokens": 329340,
+   "output_tokens": 1,
+   "cost_usd": 0.0988045
+  },
+  {
+   "qid": "1985",
+   "input_tokens": 343913,
+   "output_tokens": 9,
+   "cost_usd": 0.1031964
+  },
+  {
+   "qid": "1978",
+   "input_tokens": 329363,
+   "output_tokens": 1,
+   "cost_usd": 0.0988114
+  },
+  {
+   "qid": "1943",
+   "input_tokens": 364470,
+   "output_tokens": 9,
+   "cost_usd": 0.10936349999999999
+  },
+  {
+   "qid": "1969",
+   "input_tokens": 341478,
+   "output_tokens": 1,
+   "cost_usd": 0.10244589999999999
+  },
+  {
+   "qid": "1982",
+   "input_tokens": 343898,
+   "output_tokens": 7,
+   "cost_usd": 0.1031869
+  },
+  {
+   "qid": "2000",
+   "input_tokens": 365357,
+   "output_tokens": 1,
+   "cost_usd": 0.10960959999999999
+  },
+  {
+   "qid": "1991",
+   "input_tokens": 340266,
+   "output_tokens": 136,
+   "cost_usd": 0.1024198
+  },
+  {
+   "qid": "1965",
+   "input_tokens": 334696,
+   "output_tokens": 1,
+   "cost_usd": 0.10041130000000001
+  },
+  {
+   "qid": "1998",
+   "input_tokens": 365350,
+   "output_tokens": 17,
+   "cost_usd": 0.1096475
+  },
+  {
+   "qid": "1984",
+   "input_tokens": 343833,
+   "output_tokens": 1,
+   "cost_usd": 0.10315239999999999
+  },
+  {
+   "qid": "1970",
+   "input_tokens": 341499,
+   "output_tokens": 1,
+   "cost_usd": 0.1024522
+  },
+  {
+   "qid": "1948",
+   "input_tokens": 334679,
+   "output_tokens": 77,
+   "cost_usd": 0.1005962
+  },
+  {
+   "qid": "1974",
+   "input_tokens": 329380,
+   "output_tokens": 34,
+   "cost_usd": 0.098899
+  },
+  {
+   "qid": "1962",
+   "input_tokens": 334709,
+   "output_tokens": 1,
+   "cost_usd": 0.1004152
+  },
+  {
+   "qid": "1979",
+   "input_tokens": 329359,
+   "output_tokens": 1,
+   "cost_usd": 0.0988102
+  },
+  {
+   "qid": "1977",
+   "input_tokens": 329441,
+   "output_tokens": 74,
+   "cost_usd": 0.0990173
+  },
+  {
+   "qid": "1990",
+   "input_tokens": 340300,
+   "output_tokens": 1,
+   "cost_usd": 0.1020925
+  },
+  {
+   "qid": "1981",
+   "input_tokens": 344006,
+   "output_tokens": 81,
+   "cost_usd": 0.10340429999999999
+  },
+  {
+   "qid": "1993",
+   "input_tokens": 365773,
+   "output_tokens": 1,
+   "cost_usd": 0.1097344
+  },
+  {
+   "qid": "1980",
+   "input_tokens": 329382,
+   "output_tokens": 37,
+   "cost_usd": 0.09890709999999998
+  },
+  {
+   "qid": "1964",
+   "input_tokens": 334860,
+   "output_tokens": 82,
+   "cost_usd": 0.100663
+  },
+  {
+   "qid": "1992",
+   "input_tokens": 365649,
+   "output_tokens": 1,
+   "cost_usd": 0.1096972
+  },
+  {
+   "qid": "1935",
+   "input_tokens": 367739,
+   "output_tokens": 1,
+   "cost_usd": 0.1103242
+  },
+  {
+   "qid": "1972",
+   "input_tokens": 341496,
+   "output_tokens": 9,
+   "cost_usd": 0.1024713
+  },
+  {
+   "qid": "1987",
+   "input_tokens": 340298,
+   "output_tokens": 1,
+   "cost_usd": 0.1020919
+  },
+  {
+   "qid": "1986",
+   "input_tokens": 340284,
+   "output_tokens": 9,
+   "cost_usd": 0.1021077
+  },
+  {
+   "qid": "1997",
+   "input_tokens": 365348,
+   "output_tokens": 1,
+   "cost_usd": 0.1096069
+  },
+  {
+   "qid": "1963",
+   "input_tokens": 334787,
+   "output_tokens": 59,
+   "cost_usd": 0.10058359999999998
+  },
+  {
+   "qid": "1961",
+   "input_tokens": 334750,
+   "output_tokens": 52,
+   "cost_usd": 0.100555
+  },
+  {
+   "qid": "1988",
+   "input_tokens": 340295,
+   "output_tokens": 35,
+   "cost_usd": 0.102176
+  },
+  {
+   "qid": "1957",
+   "input_tokens": 322349,
+   "output_tokens": 1,
+   "cost_usd": 0.0967072
+  },
+  {
+   "qid": "1989",
+   "input_tokens": 340286,
+   "output_tokens": 1,
+   "cost_usd": 0.1020883
+  },
+  {
+   "qid": "1995",
+   "input_tokens": 365660,
+   "output_tokens": 20,
+   "cost_usd": 0.109748
+  },
+  {
+   "qid": "1983",
+   "input_tokens": 343865,
+   "output_tokens": 1,
+   "cost_usd": 0.103162
+  },
+  {
+   "qid": "1958",
+   "input_tokens": 322287,
+   "output_tokens": 18,
+   "cost_usd": 0.0967311
+  }
+ ]
+}
